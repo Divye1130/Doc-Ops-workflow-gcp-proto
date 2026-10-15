@@ -1,0 +1,20 @@
+openapi: 3.0.3
+info: {title: Document Operations API, version: 0.1.0}
+paths:
+  /health:
+    get:
+      responses: {'200': {description: healthy}}
+  /v1/documents/process:
+    post:
+      summary: Process a business document
+      requestBody: {required: true, content: {application/json: {schema: {$ref: '#/components/schemas/DocumentInput'}}}}
+      responses: {'200': {description: Processing result}}
+components:
+  schemas:
+    DocumentInput:
+      type: object
+      required: [document_id, text]
+      properties:
+        document_id: {type: string}
+        text: {type: string}
+        source_system: {type: string}

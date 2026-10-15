@@ -1,0 +1,8 @@
+{
+  "documents": 242,
+  "auto_process": 164,
+  "human_review": 78,
+  "reject": 0,
+  "estimated_cost_usd": 0.5992,
+  "avg_latency_ms": 1.0
+}

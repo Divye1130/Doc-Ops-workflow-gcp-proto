@@ -1,0 +1,5574 @@
+[
+  {
+    "document_id": "DOC-00000",
+    "extracted": {
+      "document_id": "DOC-00000",
+      "document_type": "invoice",
+      "supplier": "Supplier 02",
+      "amount_gbp": 111297.19,
+      "invoice_number": "INV-00000",
+      "po_number": null,
+      "effective_date": "2026-04-08",
+      "confidence": 0.99
+    },
+    "classification": {
+      "category": "high_value_finance",
+      "priority": "high",
+      "rationale": "High-value financial document requires tighter control.",
+      "confidence": 0.93
+    },
+    "decision": "human_review",
+    "validation_errors": [],
+    "estimated_cost_usd": 0.002476,
+    "latency_ms": 2
+  },
+  {
+    "document_id": "DOC-00001",
+    "extracted": {
+      "document_id": "DOC-00001",
+      "document_type": "invoice",
+      "supplier": "Supplier 07",
+      "amount_gbp": 101585.75,
+      "invoice_number": "INV-00001",
+      "po_number": null,
+      "effective_date": "2026-09-03",
+      "confidence": 0.99
+    },
+    "classification": {
+      "category": "high_value_finance",
+      "priority": "high",
+      "rationale": "High-value financial document requires tighter control.",
+      "confidence": 0.93
+    },
+    "decision": "human_review",
+    "validation_errors": [],
+    "estimated_cost_usd": 0.002476,
+    "latency_ms": 1
+  },
+  {
+    "document_id": "DOC-00002",
+    "extracted": {
+      "document_id": "DOC-00002",
+      "document_type": "contract",
+      "supplier": "Supplier 03",
+      "amount_gbp": 4712.13,
+      "invoice_number": null,
+      "po_number": null,
+      "effective_date": "2026-04-08",
+      "confidence": 0.895
+    },
+    "classification": {
+      "category": "legal_commercial",
+      "priority": "medium",
+      "rationale": "Contract-like content should follow commercial review.",
+      "confidence": 0.9
+    },
+    "decision": "auto_process",
+    "validation_errors": [],
+    "estimated_cost_usd": 0.002477,
+    "latency_ms": 1
+  },
+  {
+    "document_id": "DOC-00003",
+    "extracted": {
+      "document_id": "DOC-00003",
+      "document_type": "invoice",
+      "supplier": "Supplier 13",
+      "amount_gbp": 107473.94,
+      "invoice_number": "INV-00003",
+      "po_number": null,
+      "effective_date": "2026-12-18",
+      "confidence": 0.99
+    },
+    "classification": {
+      "category": "high_value_finance",
+      "priority": "high",
+      "rationale": "High-value financial document requires tighter control.",
+      "confidence": 0.93
+    },
+    "decision": "human_review",
+    "validation_errors": [],
+    "estimated_cost_usd": 0.002476,
+    "latency_ms": 1
+  },
+  {
+    "document_id": "DOC-00004",
+    "extracted": {
+      "document_id": "DOC-00004",
+      "document_type": "contract",
+      "supplier": "Supplier 15",
+      "amount_gbp": 67519.05,
+      "invoice_number": null,
+      "po_number": null,
+      "effective_date": "2026-05-26",
+      "confidence": 0.895
+    },
+    "classification": {
+      "category": "legal_commercial",
+      "priority": "medium",
+      "rationale": "Contract-like content should follow commercial review.",
+      "confidence": 0.9
+    },
+    "decision": "auto_process",
+    "validation_errors": [],
+    "estimated_cost_usd": 0.002477,
+    "latency_ms": 1
+  },
+  {
+    "document_id": "DOC-00005",
+    "extracted": {
+      "document_id": "DOC-00005",
+      "document_type": "invoice",
+      "supplier": "Supplier 11",
+      "amount_gbp": 104796.37,
+      "invoice_number": "INV-00005",
+      "po_number": null,
+      "effective_date": "2026-06-09",
+      "confidence": 0.99
+    },
+    "classification": {
+      "category": "high_value_finance",
+      "priority": "high",
+      "rationale": "High-value financial document requires tighter control.",
+      "confidence": 0.93
+    },
+    "decision": "human_review",
+    "validation_errors": [],
+    "estimated_cost_usd": 0.002476,
+    "latency_ms": 1
+  },
+  {
+    "document_id": "DOC-00006",
+    "extracted": {
+      "document_id": "DOC-00006",
+      "document_type": "invoice",
+      "supplier": "Supplier 14",
+      "amount_gbp": 143592.66,
+      "invoice_number": "INV-00006",
+      "po_number": null,
+      "effective_date": "2026-06-04",
+      "confidence": 0.99
+    },
+    "classification": {
+      "category": "high_value_finance",
+      "priority": "high",
+      "rationale": "High-value financial document requires tighter control.",
+      "confidence": 0.93
+    },
+    "decision": "human_review",
+    "validation_errors": [],
+    "estimated_cost_usd": 0.002476,
+    "latency_ms": 1
+  },
+  {
+    "document_id": "DOC-00007",
+    "extracted": {
+      "document_id": "DOC-00007",
+      "document_type": "invoice",
+      "supplier": "Supplier 25",
+      "amount_gbp": 14733.28,
+      "invoice_number": "INV-00007",
+      "po_number": null,
+      "effective_date": "2026-06-20",
+      "confidence": 0.99
+    },
+    "classification": {
+      "category": "standard_finance",
+      "priority": "low",
+      "rationale": "Routine structured finance document.",
+      "confidence": 0.94
+    },
+    "decision": "auto_process",
+    "validation_errors": [],
+    "estimated_cost_usd": 0.002476,
+    "latency_ms": 1
+  },
+  {
+    "document_id": "DOC-00008",
+    "extracted": {
+      "document_id": "DOC-00008",
+      "document_type": "purchase_order",
+      "supplier": "Supplier 03",
+      "amount_gbp": 109527.34,
+      "invoice_number": null,
+      "po_number": "PO-00008",
+      "effective_date": "2026-09-04",
+      "confidence": 0.99
+    },
+    "classification": {
+      "category": "high_value_finance",
+      "priority": "high",
+      "rationale": "High-value financial document requires tighter control.",
+      "confidence": 0.93
+    },
+    "decision": "human_review",
+    "validation_errors": [],
+    "estimated_cost_usd": 0.002476,
+    "latency_ms": 1
+  },
+  {
+    "document_id": "DOC-00009",
+    "extracted": {
+      "document_id": "DOC-00009",
+      "document_type": "contract",
+      "supplier": "Supplier 06",
+      "amount_gbp": 82918.08,
+      "invoice_number": null,
+      "po_number": null,
+      "effective_date": "2026-11-20",
+      "confidence": 0.895
+    },
+    "classification": {
+      "category": "legal_commercial",
+      "priority": "medium",
+      "rationale": "Contract-like content should follow commercial review.",
+      "confidence": 0.9
+    },
+    "decision": "auto_process",
+    "validation_errors": [],
+    "estimated_cost_usd": 0.002477,
+    "latency_ms": 1
+  },
+  {
+    "document_id": "DOC-00010",
+    "extracted": {
+      "document_id": "DOC-00010",
+      "document_type": "purchase_order",
+      "supplier": "Supplier 13",
+      "amount_gbp": 105759.63,
+      "invoice_number": null,
+      "po_number": "PO-00010",
+      "effective_date": "2026-01-22",
+      "confidence": 0.99
+    },
+    "classification": {
+      "category": "high_value_finance",
+      "priority": "high",
+      "rationale": "High-value financial document requires tighter control.",
+      "confidence": 0.93
+    },
+    "decision": "human_review",
+    "validation_errors": [],
+    "estimated_cost_usd": 0.002476,
+    "latency_ms": 1
+  },
+  {
+    "document_id": "DOC-00011",
+    "extracted": {
+      "document_id": "DOC-00011",
+      "document_type": "invoice",
+      "supplier": "Supplier 19",
+      "amount_gbp": 147786.92,
+      "invoice_number": "INV-00011",
+      "po_number": null,
+      "effective_date": "2026-04-28",
+      "confidence": 0.99
+    },
+    "classification": {
+      "category": "high_value_finance",
+      "priority": "high",
+      "rationale": "High-value financial document requires tighter control.",
+      "confidence": 0.93
+    },
+    "decision": "human_review",
+    "validation_errors": [],
+    "estimated_cost_usd": 0.002476,
+    "latency_ms": 1
+  },
+  {
+    "document_id": "DOC-00012",
+    "extracted": {
+      "document_id": "DOC-00012",
+      "document_type": "invoice",
+      "supplier": "Supplier 25",
+      "amount_gbp": 41876.55,
+      "invoice_number": "INV-00012",
+      "po_number": null,
+      "effective_date": "2026-11-27",
+      "confidence": 0.99
+    },
+    "classification": {
+      "category": "standard_finance",
+      "priority": "low",
+      "rationale": "Routine structured finance document.",
+      "confidence": 0.94
+    },
+    "decision": "auto_process",
+    "validation_errors": [],
+    "estimated_cost_usd": 0.002476,
+    "latency_ms": 1
+  },
+  {
+    "document_id": "DOC-00013",
+    "extracted": {
+      "document_id": "DOC-00013",
+      "document_type": "purchase_order",
+      "supplier": "Supplier 11",
+      "amount_gbp": 55684.6,
+      "invoice_number": null,
+      "po_number": "PO-00013",
+      "effective_date": "2026-04-22",
+      "confidence": 0.99
+    },
+    "classification": {
+      "category": "standard_finance",
+      "priority": "low",
+      "rationale": "Routine structured finance document.",
+      "confidence": 0.94
+    },
+    "decision": "auto_process",
+    "validation_errors": [],
+    "estimated_cost_usd": 0.002476,
+    "latency_ms": 1
+  },
+  {
+    "document_id": "DOC-00014",
+    "extracted": {
+      "document_id": "DOC-00014",
+      "document_type": "purchase_order",
+      "supplier": "Supplier 05",
+      "amount_gbp": 91467.37,
+      "invoice_number": null,
+      "po_number": "PO-00014",
+      "effective_date": "2026-03-18",
+      "confidence": 0.99
+    },
+    "classification": {
+      "category": "standard_finance",
+      "priority": "low",
+      "rationale": "Routine structured finance document.",
+      "confidence": 0.94
+    },
+    "decision": "auto_process",
+    "validation_errors": [],
+    "estimated_cost_usd": 0.002476,
+    "latency_ms": 1
+  },
+  {
+    "document_id": "DOC-00015",
+    "extracted": {
+      "document_id": "DOC-00015",
+      "document_type": "invoice",
+      "supplier": "Supplier 11",
+      "amount_gbp": 69473.47,
+      "invoice_number": "INV-00015",
+      "po_number": null,
+      "effective_date": "2026-05-21",
+      "confidence": 0.99
+    },
+    "classification": {
+      "category": "standard_finance",
+      "priority": "low",
+      "rationale": "Routine structured finance document.",
+      "confidence": 0.94
+    },
+    "decision": "auto_process",
+    "validation_errors": [],
+    "estimated_cost_usd": 0.002476,
+    "latency_ms": 1
+  },
+  {
+    "document_id": "DOC-00016",
+    "extracted": {
+      "document_id": "DOC-00016",
+      "document_type": "invoice",
+      "supplier": "Supplier 21",
+      "amount_gbp": 126467.08,
+      "invoice_number": "INV-00016",
+      "po_number": null,
+      "effective_date": "2026-01-08",
+      "confidence": 0.99
+    },
+    "classification": {
+      "category": "high_value_finance",
+      "priority": "high",
+      "rationale": "High-value financial document requires tighter control.",
+      "confidence": 0.93
+    },
+    "decision": "human_review",
+    "validation_errors": [],
+    "estimated_cost_usd": 0.002476,
+    "latency_ms": 1
+  },
+  {
+    "document_id": "DOC-00017",
+    "extracted": {
+      "document_id": "DOC-00017",
+      "document_type": "invoice",
+      "supplier": "Supplier 21",
+      "amount_gbp": 60324.43,
+      "invoice_number": "INV-00017",
+      "po_number": null,
+      "effective_date": "2026-02-07",
+      "confidence": 0.99
+    },
+    "classification": {
+      "category": "standard_finance",
+      "priority": "low",
+      "rationale": "Routine structured finance document.",
+      "confidence": 0.94
+    },
+    "decision": "auto_process",
+    "validation_errors": [],
+    "estimated_cost_usd": 0.002476,
+    "latency_ms": 1
+  },
+  {
+    "document_id": "DOC-00018",
+    "extracted": {
+      "document_id": "DOC-00018",
+      "document_type": "purchase_order",
+      "supplier": "Supplier 14",
+      "amount_gbp": 98401.94,
+      "invoice_number": null,
+      "po_number": "PO-00018",
+      "effective_date": "2026-07-21",
+      "confidence": 0.99
+    },
+    "classification": {
+      "category": "standard_finance",
+      "priority": "low",
+      "rationale": "Routine structured finance document.",
+      "confidence": 0.94
+    },
+    "decision": "auto_process",
+    "validation_errors": [],
+    "estimated_cost_usd": 0.002476,
+    "latency_ms": 1
+  },
+  {
+    "document_id": "DOC-00019",
+    "extracted": {
+      "document_id": "DOC-00019",
+      "document_type": "contract",
+      "supplier": "Supplier 10",
+      "amount_gbp": 39915.8,
+      "invoice_number": null,
+      "po_number": null,
+      "effective_date": "2026-04-24",
+      "confidence": 0.895
+    },
+    "classification": {
+      "category": "legal_commercial",
+      "priority": "medium",
+      "rationale": "Contract-like content should follow commercial review.",
+      "confidence": 0.9
+    },
+    "decision": "auto_process",
+    "validation_errors": [],
+    "estimated_cost_usd": 0.002477,
+    "latency_ms": 1
+  },
+  {
+    "document_id": "DOC-00020",
+    "extracted": {
+      "document_id": "DOC-00020",
+      "document_type": "purchase_order",
+      "supplier": "Supplier 28",
+      "amount_gbp": 134698.98,
+      "invoice_number": null,
+      "po_number": "PO-00020",
+      "effective_date": "2026-07-12",
+      "confidence": 0.99
+    },
+    "classification": {
+      "category": "high_value_finance",
+      "priority": "high",
+      "rationale": "High-value financial document requires tighter control.",
+      "confidence": 0.93
+    },
+    "decision": "human_review",
+    "validation_errors": [],
+    "estimated_cost_usd": 0.002476,
+    "latency_ms": 1
+  },
+  {
+    "document_id": "DOC-00021",
+    "extracted": {
+      "document_id": "DOC-00021",
+      "document_type": "invoice",
+      "supplier": "Supplier 09",
+      "amount_gbp": 76551.56,
+      "invoice_number": "INV-00021",
+      "po_number": null,
+      "effective_date": "2026-02-25",
+      "confidence": 0.99
+    },
+    "classification": {
+      "category": "standard_finance",
+      "priority": "low",
+      "rationale": "Routine structured finance document.",
+      "confidence": 0.94
+    },
+    "decision": "auto_process",
+    "validation_errors": [],
+    "estimated_cost_usd": 0.002476,
+    "latency_ms": 1
+  },
+  {
+    "document_id": "DOC-00022",
+    "extracted": {
+      "document_id": "DOC-00022",
+      "document_type": "invoice",
+      "supplier": "Supplier 08",
+      "amount_gbp": 23137.99,
+      "invoice_number": "INV-00022",
+      "po_number": null,
+      "effective_date": "2026-03-26",
+      "confidence": 0.99
+    },
+    "classification": {
+      "category": "standard_finance",
+      "priority": "low",
+      "rationale": "Routine structured finance document.",
+      "confidence": 0.94
+    },
+    "decision": "auto_process",
+    "validation_errors": [],
+    "estimated_cost_usd": 0.002476,
+    "latency_ms": 1
+  },
+  {
+    "document_id": "DOC-00023",
+    "extracted": {
+      "document_id": "DOC-00023",
+      "document_type": "contract",
+      "supplier": "Supplier 05",
+      "amount_gbp": 57868.9,
+      "invoice_number": null,
+      "po_number": null,
+      "effective_date": "2026-10-15",
+      "confidence": 0.895
+    },
+    "classification": {
+      "category": "legal_commercial",
+      "priority": "medium",
+      "rationale": "Contract-like content should follow commercial review.",
+      "confidence": 0.9
+    },
+    "decision": "auto_process",
+    "validation_errors": [],
+    "estimated_cost_usd": 0.002477,
+    "latency_ms": 1
+  },
+  {
+    "document_id": "DOC-00024",
+    "extracted": {
+      "document_id": "DOC-00024",
+      "document_type": "purchase_order",
+      "supplier": "Supplier 01",
+      "amount_gbp": 102122.44,
+      "invoice_number": null,
+      "po_number": "PO-00024",
+      "effective_date": "2026-02-22",
+      "confidence": 0.99
+    },
+    "classification": {
+      "category": "high_value_finance",
+      "priority": "high",
+      "rationale": "High-value financial document requires tighter control.",
+      "confidence": 0.93
+    },
+    "decision": "human_review",
+    "validation_errors": [],
+    "estimated_cost_usd": 0.002476,
+    "latency_ms": 1
+  },
+  {
+    "document_id": "DOC-00025",
+    "extracted": {
+      "document_id": "DOC-00025",
+      "document_type": "purchase_order",
+      "supplier": "Supplier 22",
+      "amount_gbp": 16954.94,
+      "invoice_number": null,
+      "po_number": "PO-00025",
+      "effective_date": "2026-07-06",
+      "confidence": 0.99
+    },
+    "classification": {
+      "category": "standard_finance",
+      "priority": "low",
+      "rationale": "Routine structured finance document.",
+      "confidence": 0.94
+    },
+    "decision": "auto_process",
+    "validation_errors": [],
+    "estimated_cost_usd": 0.002476,
+    "latency_ms": 1
+  },
+  {
+    "document_id": "DOC-00026",
+    "extracted": {
+      "document_id": "DOC-00026",
+      "document_type": "contract",
+      "supplier": "Supplier 01",
+      "amount_gbp": 143083.94,
+      "invoice_number": null,
+      "po_number": null,
+      "effective_date": "2026-12-09",
+      "confidence": 0.895
+    },
+    "classification": {
+      "category": "high_value_finance",
+      "priority": "high",
+      "rationale": "High-value financial document requires tighter control.",
+      "confidence": 0.93
+    },
+    "decision": "human_review",
+    "validation_errors": [],
+    "estimated_cost_usd": 0.002478,
+    "latency_ms": 1
+  },
+  {
+    "document_id": "DOC-00027",
+    "extracted": {
+      "document_id": "DOC-00027",
+      "document_type": "invoice",
+      "supplier": "Supplier 33",
+      "amount_gbp": 136916.02,
+      "invoice_number": "INV-00027",
+      "po_number": null,
+      "effective_date": "2026-11-10",
+      "confidence": 0.99
+    },
+    "classification": {
+      "category": "high_value_finance",
+      "priority": "high",
+      "rationale": "High-value financial document requires tighter control.",
+      "confidence": 0.93
+    },
+    "decision": "human_review",
+    "validation_errors": [],
+    "estimated_cost_usd": 0.002476,
+    "latency_ms": 1
+  },
+  {
+    "document_id": "DOC-00028",
+    "extracted": {
+      "document_id": "DOC-00028",
+      "document_type": "invoice",
+      "supplier": "Supplier 10",
+      "amount_gbp": 56243.6,
+      "invoice_number": "INV-00028",
+      "po_number": null,
+      "effective_date": "2026-03-18",
+      "confidence": 0.99
+    },
+    "classification": {
+      "category": "standard_finance",
+      "priority": "low",
+      "rationale": "Routine structured finance document.",
+      "confidence": 0.94
+    },
+    "decision": "auto_process",
+    "validation_errors": [],
+    "estimated_cost_usd": 0.002476,
+    "latency_ms": 1
+  },
+  {
+    "document_id": "DOC-00029",
+    "extracted": {
+      "document_id": "DOC-00029",
+      "document_type": "invoice",
+      "supplier": "Supplier 21",
+      "amount_gbp": 73418.7,
+      "invoice_number": "INV-00029",
+      "po_number": null,
+      "effective_date": "2026-02-12",
+      "confidence": 0.99
+    },
+    "classification": {
+      "category": "standard_finance",
+      "priority": "low",
+      "rationale": "Routine structured finance document.",
+      "confidence": 0.94
+    },
+    "decision": "auto_process",
+    "validation_errors": [],
+    "estimated_cost_usd": 0.002476,
+    "latency_ms": 1
+  },
+  {
+    "document_id": "DOC-00030",
+    "extracted": {
+      "document_id": "DOC-00030",
+      "document_type": "purchase_order",
+      "supplier": "Supplier 16",
+      "amount_gbp": 8924.29,
+      "invoice_number": null,
+      "po_number": "PO-00030",
+      "effective_date": "2026-10-03",
+      "confidence": 0.99
+    },
+    "classification": {
+      "category": "standard_finance",
+      "priority": "low",
+      "rationale": "Routine structured finance document.",
+      "confidence": 0.94
+    },
+    "decision": "auto_process",
+    "validation_errors": [],
+    "estimated_cost_usd": 0.002476,
+    "latency_ms": 1
+  },
+  {
+    "document_id": "DOC-00031",
+    "extracted": {
+      "document_id": "DOC-00031",
+      "document_type": "invoice",
+      "supplier": "Supplier 32",
+      "amount_gbp": 122449.48,
+      "invoice_number": "INV-00031",
+      "po_number": null,
+      "effective_date": "2026-09-25",
+      "confidence": 0.99
+    },
+    "classification": {
+      "category": "high_value_finance",
+      "priority": "high",
+      "rationale": "High-value financial document requires tighter control.",
+      "confidence": 0.93
+    },
+    "decision": "human_review",
+    "validation_errors": [],
+    "estimated_cost_usd": 0.002476,
+    "latency_ms": 1
+  },
+  {
+    "document_id": "DOC-00032",
+    "extracted": {
+      "document_id": "DOC-00032",
+      "document_type": "invoice",
+      "supplier": "Supplier 09",
+      "amount_gbp": 99047.69,
+      "invoice_number": "INV-00032",
+      "po_number": null,
+      "effective_date": "2026-09-06",
+      "confidence": 0.99
+    },
+    "classification": {
+      "category": "standard_finance",
+      "priority": "low",
+      "rationale": "Routine structured finance document.",
+      "confidence": 0.94
+    },
+    "decision": "auto_process",
+    "validation_errors": [],
+    "estimated_cost_usd": 0.002476,
+    "latency_ms": 1
+  },
+  {
+    "document_id": "DOC-00033",
+    "extracted": {
+      "document_id": "DOC-00033",
+      "document_type": "purchase_order",
+      "supplier": "Supplier 34",
+      "amount_gbp": 130896.85,
+      "invoice_number": null,
+      "po_number": "PO-00033",
+      "effective_date": "2026-07-07",
+      "confidence": 0.99
+    },
+    "classification": {
+      "category": "high_value_finance",
+      "priority": "high",
+      "rationale": "High-value financial document requires tighter control.",
+      "confidence": 0.93
+    },
+    "decision": "human_review",
+    "validation_errors": [],
+    "estimated_cost_usd": 0.002476,
+    "latency_ms": 1
+  },
+  {
+    "document_id": "DOC-00034",
+    "extracted": {
+      "document_id": "DOC-00034",
+      "document_type": "invoice",
+      "supplier": "Supplier 20",
+      "amount_gbp": 59999.1,
+      "invoice_number": "INV-00034",
+      "po_number": null,
+      "effective_date": "2026-11-21",
+      "confidence": 0.99
+    },
+    "classification": {
+      "category": "standard_finance",
+      "priority": "low",
+      "rationale": "Routine structured finance document.",
+      "confidence": 0.94
+    },
+    "decision": "auto_process",
+    "validation_errors": [],
+    "estimated_cost_usd": 0.002476,
+    "latency_ms": 1
+  },
+  {
+    "document_id": "DOC-00035",
+    "extracted": {
+      "document_id": "DOC-00035",
+      "document_type": "purchase_order",
+      "supplier": "Supplier 29",
+      "amount_gbp": 134967.21,
+      "invoice_number": null,
+      "po_number": "PO-00035",
+      "effective_date": "2026-08-04",
+      "confidence": 0.99
+    },
+    "classification": {
+      "category": "high_value_finance",
+      "priority": "high",
+      "rationale": "High-value financial document requires tighter control.",
+      "confidence": 0.93
+    },
+    "decision": "human_review",
+    "validation_errors": [],
+    "estimated_cost_usd": 0.002476,
+    "latency_ms": 1
+  },
+  {
+    "document_id": "DOC-00036",
+    "extracted": {
+      "document_id": "DOC-00036",
+      "document_type": "invoice",
+      "supplier": "Supplier 15",
+      "amount_gbp": 9837.88,
+      "invoice_number": "INV-00036",
+      "po_number": null,
+      "effective_date": "2026-01-19",
+      "confidence": 0.99
+    },
+    "classification": {
+      "category": "standard_finance",
+      "priority": "low",
+      "rationale": "Routine structured finance document.",
+      "confidence": 0.94
+    },
+    "decision": "auto_process",
+    "validation_errors": [],
+    "estimated_cost_usd": 0.002475,
+    "latency_ms": 1
+  },
+  {
+    "document_id": "DOC-00037",
+    "extracted": {
+      "document_id": "DOC-00037",
+      "document_type": "invoice",
+      "supplier": "Supplier 15",
+      "amount_gbp": 1326.83,
+      "invoice_number": "INV-00037",
+      "po_number": null,
+      "effective_date": "2026-12-21",
+      "confidence": 0.99
+    },
+    "classification": {
+      "category": "standard_finance",
+      "priority": "low",
+      "rationale": "Routine structured finance document.",
+      "confidence": 0.94
+    },
+    "decision": "auto_process",
+    "validation_errors": [],
+    "estimated_cost_usd": 0.002475,
+    "latency_ms": 1
+  },
+  {
+    "document_id": "DOC-00038",
+    "extracted": {
+      "document_id": "DOC-00038",
+      "document_type": "invoice",
+      "supplier": "Supplier 15",
+      "amount_gbp": 10343.2,
+      "invoice_number": "INV-00038",
+      "po_number": null,
+      "effective_date": "2026-01-28",
+      "confidence": 0.99
+    },
+    "classification": {
+      "category": "standard_finance",
+      "priority": "low",
+      "rationale": "Routine structured finance document.",
+      "confidence": 0.94
+    },
+    "decision": "auto_process",
+    "validation_errors": [],
+    "estimated_cost_usd": 0.002476,
+    "latency_ms": 1
+  },
+  {
+    "document_id": "DOC-00039",
+    "extracted": {
+      "document_id": "DOC-00039",
+      "document_type": "purchase_order",
+      "supplier": "Supplier 05",
+      "amount_gbp": 77244.88,
+      "invoice_number": null,
+      "po_number": "PO-00039",
+      "effective_date": "2026-05-22",
+      "confidence": 0.99
+    },
+    "classification": {
+      "category": "standard_finance",
+      "priority": "low",
+      "rationale": "Routine structured finance document.",
+      "confidence": 0.94
+    },
+    "decision": "auto_process",
+    "validation_errors": [],
+    "estimated_cost_usd": 0.002476,
+    "latency_ms": 1
+  },
+  {
+    "document_id": "DOC-00040",
+    "extracted": {
+      "document_id": "DOC-00040",
+      "document_type": "contract",
+      "supplier": "Supplier 14",
+      "amount_gbp": 81000.28,
+      "invoice_number": null,
+      "po_number": null,
+      "effective_date": "2026-12-19",
+      "confidence": 0.895
+    },
+    "classification": {
+      "category": "legal_commercial",
+      "priority": "medium",
+      "rationale": "Contract-like content should follow commercial review.",
+      "confidence": 0.9
+    },
+    "decision": "auto_process",
+    "validation_errors": [],
+    "estimated_cost_usd": 0.002477,
+    "latency_ms": 1
+  },
+  {
+    "document_id": "DOC-00041",
+    "extracted": {
+      "document_id": "DOC-00041",
+      "document_type": "contract",
+      "supplier": "Supplier 16",
+      "amount_gbp": 117746.76,
+      "invoice_number": null,
+      "po_number": null,
+      "effective_date": "2026-07-07",
+      "confidence": 0.895
+    },
+    "classification": {
+      "category": "high_value_finance",
+      "priority": "high",
+      "rationale": "High-value financial document requires tighter control.",
+      "confidence": 0.93
+    },
+    "decision": "human_review",
+    "validation_errors": [],
+    "estimated_cost_usd": 0.002478,
+    "latency_ms": 1
+  },
+  {
+    "document_id": "DOC-00042",
+    "extracted": {
+      "document_id": "DOC-00042",
+      "document_type": "invoice",
+      "supplier": "Supplier 07",
+      "amount_gbp": 98932.67,
+      "invoice_number": "INV-00042",
+      "po_number": null,
+      "effective_date": "2026-06-14",
+      "confidence": 0.99
+    },
+    "classification": {
+      "category": "standard_finance",
+      "priority": "low",
+      "rationale": "Routine structured finance document.",
+      "confidence": 0.94
+    },
+    "decision": "auto_process",
+    "validation_errors": [],
+    "estimated_cost_usd": 0.002476,
+    "latency_ms": 1
+  },
+  {
+    "document_id": "DOC-00043",
+    "extracted": {
+      "document_id": "DOC-00043",
+      "document_type": "contract",
+      "supplier": "Supplier 30",
+      "amount_gbp": 129609.55,
+      "invoice_number": null,
+      "po_number": null,
+      "effective_date": "2026-01-22",
+      "confidence": 0.895
+    },
+    "classification": {
+      "category": "high_value_finance",
+      "priority": "high",
+      "rationale": "High-value financial document requires tighter control.",
+      "confidence": 0.93
+    },
+    "decision": "human_review",
+    "validation_errors": [],
+    "estimated_cost_usd": 0.002478,
+    "latency_ms": 1
+  },
+  {
+    "document_id": "DOC-00044",
+    "extracted": {
+      "document_id": "DOC-00044",
+      "document_type": "invoice",
+      "supplier": "Supplier 04",
+      "amount_gbp": 60542.54,
+      "invoice_number": "INV-00044",
+      "po_number": null,
+      "effective_date": "2026-06-26",
+      "confidence": 0.99
+    },
+    "classification": {
+      "category": "standard_finance",
+      "priority": "low",
+      "rationale": "Routine structured finance document.",
+      "confidence": 0.94
+    },
+    "decision": "auto_process",
+    "validation_errors": [],
+    "estimated_cost_usd": 0.002476,
+    "latency_ms": 1
+  },
+  {
+    "document_id": "DOC-00045",
+    "extracted": {
+      "document_id": "DOC-00045",
+      "document_type": "invoice",
+      "supplier": "Supplier 16",
+      "amount_gbp": 28940.61,
+      "invoice_number": "INV-00045",
+      "po_number": null,
+      "effective_date": "2026-09-15",
+      "confidence": 0.99
+    },
+    "classification": {
+      "category": "standard_finance",
+      "priority": "low",
+      "rationale": "Routine structured finance document.",
+      "confidence": 0.94
+    },
+    "decision": "auto_process",
+    "validation_errors": [],
+    "estimated_cost_usd": 0.002476,
+    "latency_ms": 1
+  },
+  {
+    "document_id": "DOC-00046",
+    "extracted": {
+      "document_id": "DOC-00046",
+      "document_type": "invoice",
+      "supplier": "Supplier 28",
+      "amount_gbp": 27727.33,
+      "invoice_number": "INV-00046",
+      "po_number": null,
+      "effective_date": "2026-08-08",
+      "confidence": 0.99
+    },
+    "classification": {
+      "category": "standard_finance",
+      "priority": "low",
+      "rationale": "Routine structured finance document.",
+      "confidence": 0.94
+    },
+    "decision": "auto_process",
+    "validation_errors": [],
+    "estimated_cost_usd": 0.002476,
+    "latency_ms": 1
+  },
+  {
+    "document_id": "DOC-00047",
+    "extracted": {
+      "document_id": "DOC-00047",
+      "document_type": "invoice",
+      "supplier": "Supplier 29",
+      "amount_gbp": 121251.33,
+      "invoice_number": "INV-00047",
+      "po_number": null,
+      "effective_date": "2026-09-04",
+      "confidence": 0.99
+    },
+    "classification": {
+      "category": "high_value_finance",
+      "priority": "high",
+      "rationale": "High-value financial document requires tighter control.",
+      "confidence": 0.93
+    },
+    "decision": "human_review",
+    "validation_errors": [],
+    "estimated_cost_usd": 0.002476,
+    "latency_ms": 1
+  },
+  {
+    "document_id": "DOC-00048",
+    "extracted": {
+      "document_id": "DOC-00048",
+      "document_type": "invoice",
+      "supplier": "Supplier 35",
+      "amount_gbp": 125445.13,
+      "invoice_number": "INV-00048",
+      "po_number": null,
+      "effective_date": "2026-02-25",
+      "confidence": 0.99
+    },
+    "classification": {
+      "category": "high_value_finance",
+      "priority": "high",
+      "rationale": "High-value financial document requires tighter control.",
+      "confidence": 0.93
+    },
+    "decision": "human_review",
+    "validation_errors": [],
+    "estimated_cost_usd": 0.002476,
+    "latency_ms": 1
+  },
+  {
+    "document_id": "DOC-00049",
+    "extracted": {
+      "document_id": "DOC-00049",
+      "document_type": "invoice",
+      "supplier": "Supplier 11",
+      "amount_gbp": 61110.51,
+      "invoice_number": "INV-00049",
+      "po_number": null,
+      "effective_date": "2026-08-07",
+      "confidence": 0.99
+    },
+    "classification": {
+      "category": "standard_finance",
+      "priority": "low",
+      "rationale": "Routine structured finance document.",
+      "confidence": 0.94
+    },
+    "decision": "auto_process",
+    "validation_errors": [],
+    "estimated_cost_usd": 0.002476,
+    "latency_ms": 1
+  },
+  {
+    "document_id": "DOC-00050",
+    "extracted": {
+      "document_id": "DOC-00050",
+      "document_type": "contract",
+      "supplier": "Supplier 04",
+      "amount_gbp": 24904.41,
+      "invoice_number": null,
+      "po_number": null,
+      "effective_date": "2026-01-13",
+      "confidence": 0.895
+    },
+    "classification": {
+      "category": "legal_commercial",
+      "priority": "medium",
+      "rationale": "Contract-like content should follow commercial review.",
+      "confidence": 0.9
+    },
+    "decision": "auto_process",
+    "validation_errors": [],
+    "estimated_cost_usd": 0.002477,
+    "latency_ms": 1
+  },
+  {
+    "document_id": "DOC-00051",
+    "extracted": {
+      "document_id": "DOC-00051",
+      "document_type": "purchase_order",
+      "supplier": "Supplier 30",
+      "amount_gbp": 42966.07,
+      "invoice_number": null,
+      "po_number": "PO-00051",
+      "effective_date": "2026-12-24",
+      "confidence": 0.99
+    },
+    "classification": {
+      "category": "standard_finance",
+      "priority": "low",
+      "rationale": "Routine structured finance document.",
+      "confidence": 0.94
+    },
+    "decision": "auto_process",
+    "validation_errors": [],
+    "estimated_cost_usd": 0.002476,
+    "latency_ms": 1
+  },
+  {
+    "document_id": "DOC-00052",
+    "extracted": {
+      "document_id": "DOC-00052",
+      "document_type": "contract",
+      "supplier": "Supplier 10",
+      "amount_gbp": 28687.21,
+      "invoice_number": null,
+      "po_number": null,
+      "effective_date": "2026-04-02",
+      "confidence": 0.895
+    },
+    "classification": {
+      "category": "legal_commercial",
+      "priority": "medium",
+      "rationale": "Contract-like content should follow commercial review.",
+      "confidence": 0.9
+    },
+    "decision": "auto_process",
+    "validation_errors": [],
+    "estimated_cost_usd": 0.002477,
+    "latency_ms": 1
+  },
+  {
+    "document_id": "DOC-00053",
+    "extracted": {
+      "document_id": "DOC-00053",
+      "document_type": "invoice",
+      "supplier": "Supplier 21",
+      "amount_gbp": 8810.5,
+      "invoice_number": "INV-00053",
+      "po_number": null,
+      "effective_date": "2026-10-16",
+      "confidence": 0.99
+    },
+    "classification": {
+      "category": "standard_finance",
+      "priority": "low",
+      "rationale": "Routine structured finance document.",
+      "confidence": 0.94
+    },
+    "decision": "auto_process",
+    "validation_errors": [],
+    "estimated_cost_usd": 0.002475,
+    "latency_ms": 1
+  },
+  {
+    "document_id": "DOC-00054",
+    "extracted": {
+      "document_id": "DOC-00054",
+      "document_type": "invoice",
+      "supplier": "Supplier 04",
+      "amount_gbp": 144126.64,
+      "invoice_number": "INV-00054",
+      "po_number": null,
+      "effective_date": "2026-02-28",
+      "confidence": 0.99
+    },
+    "classification": {
+      "category": "high_value_finance",
+      "priority": "high",
+      "rationale": "High-value financial document requires tighter control.",
+      "confidence": 0.93
+    },
+    "decision": "human_review",
+    "validation_errors": [],
+    "estimated_cost_usd": 0.002476,
+    "latency_ms": 1
+  },
+  {
+    "document_id": "DOC-00055",
+    "extracted": {
+      "document_id": "DOC-00055",
+      "document_type": "invoice",
+      "supplier": "Supplier 05",
+      "amount_gbp": 89356.51,
+      "invoice_number": "INV-00055",
+      "po_number": null,
+      "effective_date": "2026-11-28",
+      "confidence": 0.99
+    },
+    "classification": {
+      "category": "standard_finance",
+      "priority": "low",
+      "rationale": "Routine structured finance document.",
+      "confidence": 0.94
+    },
+    "decision": "auto_process",
+    "validation_errors": [],
+    "estimated_cost_usd": 0.002476,
+    "latency_ms": 1
+  },
+  {
+    "document_id": "DOC-00056",
+    "extracted": {
+      "document_id": "DOC-00056",
+      "document_type": "invoice",
+      "supplier": "Supplier 26",
+      "amount_gbp": 18203.02,
+      "invoice_number": "INV-00056",
+      "po_number": null,
+      "effective_date": "2026-10-08",
+      "confidence": 0.99
+    },
+    "classification": {
+      "category": "standard_finance",
+      "priority": "low",
+      "rationale": "Routine structured finance document.",
+      "confidence": 0.94
+    },
+    "decision": "auto_process",
+    "validation_errors": [],
+    "estimated_cost_usd": 0.002476,
+    "latency_ms": 1
+  },
+  {
+    "document_id": "DOC-00057",
+    "extracted": {
+      "document_id": "DOC-00057",
+      "document_type": "invoice",
+      "supplier": "Supplier 06",
+      "amount_gbp": 63028.93,
+      "invoice_number": "INV-00057",
+      "po_number": null,
+      "effective_date": "2026-10-19",
+      "confidence": 0.99
+    },
+    "classification": {
+      "category": "standard_finance",
+      "priority": "low",
+      "rationale": "Routine structured finance document.",
+      "confidence": 0.94
+    },
+    "decision": "auto_process",
+    "validation_errors": [],
+    "estimated_cost_usd": 0.002476,
+    "latency_ms": 1
+  },
+  {
+    "document_id": "DOC-00058",
+    "extracted": {
+      "document_id": "DOC-00058",
+      "document_type": "purchase_order",
+      "supplier": "Supplier 17",
+      "amount_gbp": 30837.82,
+      "invoice_number": null,
+      "po_number": "PO-00058",
+      "effective_date": "2026-12-11",
+      "confidence": 0.99
+    },
+    "classification": {
+      "category": "standard_finance",
+      "priority": "low",
+      "rationale": "Routine structured finance document.",
+      "confidence": 0.94
+    },
+    "decision": "auto_process",
+    "validation_errors": [],
+    "estimated_cost_usd": 0.002476,
+    "latency_ms": 1
+  },
+  {
+    "document_id": "DOC-00059",
+    "extracted": {
+      "document_id": "DOC-00059",
+      "document_type": "invoice",
+      "supplier": "Supplier 17",
+      "amount_gbp": 59518.93,
+      "invoice_number": "INV-00059",
+      "po_number": null,
+      "effective_date": "2026-11-21",
+      "confidence": 0.99
+    },
+    "classification": {
+      "category": "standard_finance",
+      "priority": "low",
+      "rationale": "Routine structured finance document.",
+      "confidence": 0.94
+    },
+    "decision": "auto_process",
+    "validation_errors": [],
+    "estimated_cost_usd": 0.002476,
+    "latency_ms": 1
+  },
+  {
+    "document_id": "DOC-00060",
+    "extracted": {
+      "document_id": "DOC-00060",
+      "document_type": "purchase_order",
+      "supplier": "Supplier 30",
+      "amount_gbp": 47597.54,
+      "invoice_number": null,
+      "po_number": "PO-00060",
+      "effective_date": "2026-02-01",
+      "confidence": 0.99
+    },
+    "classification": {
+      "category": "standard_finance",
+      "priority": "low",
+      "rationale": "Routine structured finance document.",
+      "confidence": 0.94
+    },
+    "decision": "auto_process",
+    "validation_errors": [],
+    "estimated_cost_usd": 0.002476,
+    "latency_ms": 1
+  },
+  {
+    "document_id": "DOC-00061",
+    "extracted": {
+      "document_id": "DOC-00061",
+      "document_type": "contract",
+      "supplier": "Supplier 07",
+      "amount_gbp": 11220.79,
+      "invoice_number": null,
+      "po_number": null,
+      "effective_date": "2026-04-17",
+      "confidence": 0.895
+    },
+    "classification": {
+      "category": "legal_commercial",
+      "priority": "medium",
+      "rationale": "Contract-like content should follow commercial review.",
+      "confidence": 0.9
+    },
+    "decision": "auto_process",
+    "validation_errors": [],
+    "estimated_cost_usd": 0.002477,
+    "latency_ms": 1
+  },
+  {
+    "document_id": "DOC-00062",
+    "extracted": {
+      "document_id": "DOC-00062",
+      "document_type": "purchase_order",
+      "supplier": "Supplier 09",
+      "amount_gbp": 140005.59,
+      "invoice_number": null,
+      "po_number": "PO-00062",
+      "effective_date": "2026-02-08",
+      "confidence": 0.99
+    },
+    "classification": {
+      "category": "high_value_finance",
+      "priority": "high",
+      "rationale": "High-value financial document requires tighter control.",
+      "confidence": 0.93
+    },
+    "decision": "human_review",
+    "validation_errors": [],
+    "estimated_cost_usd": 0.002476,
+    "latency_ms": 1
+  },
+  {
+    "document_id": "DOC-00063",
+    "extracted": {
+      "document_id": "DOC-00063",
+      "document_type": "purchase_order",
+      "supplier": "Supplier 19",
+      "amount_gbp": 23872.59,
+      "invoice_number": null,
+      "po_number": "PO-00063",
+      "effective_date": "2026-09-23",
+      "confidence": 0.99
+    },
+    "classification": {
+      "category": "standard_finance",
+      "priority": "low",
+      "rationale": "Routine structured finance document.",
+      "confidence": 0.94
+    },
+    "decision": "auto_process",
+    "validation_errors": [],
+    "estimated_cost_usd": 0.002476,
+    "latency_ms": 1
+  },
+  {
+    "document_id": "DOC-00064",
+    "extracted": {
+      "document_id": "DOC-00064",
+      "document_type": "purchase_order",
+      "supplier": "Supplier 34",
+      "amount_gbp": 1421.51,
+      "invoice_number": null,
+      "po_number": "PO-00064",
+      "effective_date": "2026-09-10",
+      "confidence": 0.99
+    },
+    "classification": {
+      "category": "standard_finance",
+      "priority": "low",
+      "rationale": "Routine structured finance document.",
+      "confidence": 0.94
+    },
+    "decision": "auto_process",
+    "validation_errors": [],
+    "estimated_cost_usd": 0.002476,
+    "latency_ms": 1
+  },
+  {
+    "document_id": "DOC-00065",
+    "extracted": {
+      "document_id": "DOC-00065",
+      "document_type": "invoice",
+      "supplier": "Supplier 09",
+      "amount_gbp": 39853.77,
+      "invoice_number": "INV-00065",
+      "po_number": null,
+      "effective_date": "2026-02-24",
+      "confidence": 0.99
+    },
+    "classification": {
+      "category": "standard_finance",
+      "priority": "low",
+      "rationale": "Routine structured finance document.",
+      "confidence": 0.94
+    },
+    "decision": "auto_process",
+    "validation_errors": [],
+    "estimated_cost_usd": 0.002476,
+    "latency_ms": 1
+  },
+  {
+    "document_id": "DOC-00066",
+    "extracted": {
+      "document_id": "DOC-00066",
+      "document_type": "invoice",
+      "supplier": "Supplier 18",
+      "amount_gbp": 42443.0,
+      "invoice_number": "INV-00066",
+      "po_number": null,
+      "effective_date": "2026-04-23",
+      "confidence": 0.99
+    },
+    "classification": {
+      "category": "standard_finance",
+      "priority": "low",
+      "rationale": "Routine structured finance document.",
+      "confidence": 0.94
+    },
+    "decision": "auto_process",
+    "validation_errors": [],
+    "estimated_cost_usd": 0.002476,
+    "latency_ms": 1
+  },
+  {
+    "document_id": "DOC-00067",
+    "extracted": {
+      "document_id": "DOC-00067",
+      "document_type": "purchase_order",
+      "supplier": "Supplier 14",
+      "amount_gbp": 103202.7,
+      "invoice_number": null,
+      "po_number": "PO-00067",
+      "effective_date": "2026-05-17",
+      "confidence": 0.99
+    },
+    "classification": {
+      "category": "high_value_finance",
+      "priority": "high",
+      "rationale": "High-value financial document requires tighter control.",
+      "confidence": 0.93
+    },
+    "decision": "human_review",
+    "validation_errors": [],
+    "estimated_cost_usd": 0.002476,
+    "latency_ms": 1
+  },
+  {
+    "document_id": "DOC-00068",
+    "extracted": {
+      "document_id": "DOC-00068",
+      "document_type": "contract",
+      "supplier": "Supplier 17",
+      "amount_gbp": 135824.14,
+      "invoice_number": null,
+      "po_number": null,
+      "effective_date": "2026-01-03",
+      "confidence": 0.895
+    },
+    "classification": {
+      "category": "high_value_finance",
+      "priority": "high",
+      "rationale": "High-value financial document requires tighter control.",
+      "confidence": 0.93
+    },
+    "decision": "human_review",
+    "validation_errors": [],
+    "estimated_cost_usd": 0.002478,
+    "latency_ms": 1
+  },
+  {
+    "document_id": "DOC-00069",
+    "extracted": {
+      "document_id": "DOC-00069",
+      "document_type": "contract",
+      "supplier": "Supplier 18",
+      "amount_gbp": 6851.99,
+      "invoice_number": null,
+      "po_number": null,
+      "effective_date": "2026-06-25",
+      "confidence": 0.895
+    },
+    "classification": {
+      "category": "legal_commercial",
+      "priority": "medium",
+      "rationale": "Contract-like content should follow commercial review.",
+      "confidence": 0.9
+    },
+    "decision": "auto_process",
+    "validation_errors": [],
+    "estimated_cost_usd": 0.002477,
+    "latency_ms": 1
+  },
+  {
+    "document_id": "DOC-00070",
+    "extracted": {
+      "document_id": "DOC-00070",
+      "document_type": "invoice",
+      "supplier": "Supplier 17",
+      "amount_gbp": 24446.9,
+      "invoice_number": "INV-00070",
+      "po_number": null,
+      "effective_date": "2026-08-18",
+      "confidence": 0.99
+    },
+    "classification": {
+      "category": "standard_finance",
+      "priority": "low",
+      "rationale": "Routine structured finance document.",
+      "confidence": 0.94
+    },
+    "decision": "auto_process",
+    "validation_errors": [],
+    "estimated_cost_usd": 0.002476,
+    "latency_ms": 1
+  },
+  {
+    "document_id": "DOC-00071",
+    "extracted": {
+      "document_id": "DOC-00071",
+      "document_type": "contract",
+      "supplier": "Supplier 01",
+      "amount_gbp": 17003.11,
+      "invoice_number": null,
+      "po_number": null,
+      "effective_date": "2026-12-05",
+      "confidence": 0.895
+    },
+    "classification": {
+      "category": "legal_commercial",
+      "priority": "medium",
+      "rationale": "Contract-like content should follow commercial review.",
+      "confidence": 0.9
+    },
+    "decision": "auto_process",
+    "validation_errors": [],
+    "estimated_cost_usd": 0.002477,
+    "latency_ms": 1
+  },
+  {
+    "document_id": "DOC-00072",
+    "extracted": {
+      "document_id": "DOC-00072",
+      "document_type": "invoice",
+      "supplier": "Supplier 24",
+      "amount_gbp": 87480.81,
+      "invoice_number": "INV-00072",
+      "po_number": null,
+      "effective_date": "2026-03-14",
+      "confidence": 0.99
+    },
+    "classification": {
+      "category": "standard_finance",
+      "priority": "low",
+      "rationale": "Routine structured finance document.",
+      "confidence": 0.94
+    },
+    "decision": "auto_process",
+    "validation_errors": [],
+    "estimated_cost_usd": 0.002476,
+    "latency_ms": 1
+  },
+  {
+    "document_id": "DOC-00073",
+    "extracted": {
+      "document_id": "DOC-00073",
+      "document_type": "invoice",
+      "supplier": "Supplier 03",
+      "amount_gbp": 46411.69,
+      "invoice_number": "INV-00073",
+      "po_number": null,
+      "effective_date": "2026-01-12",
+      "confidence": 0.99
+    },
+    "classification": {
+      "category": "standard_finance",
+      "priority": "low",
+      "rationale": "Routine structured finance document.",
+      "confidence": 0.94
+    },
+    "decision": "auto_process",
+    "validation_errors": [],
+    "estimated_cost_usd": 0.002476,
+    "latency_ms": 1
+  },
+  {
+    "document_id": "DOC-00074",
+    "extracted": {
+      "document_id": "DOC-00074",
+      "document_type": "invoice",
+      "supplier": "Supplier 16",
+      "amount_gbp": 100123.28,
+      "invoice_number": "INV-00074",
+      "po_number": null,
+      "effective_date": "2026-06-25",
+      "confidence": 0.99
+    },
+    "classification": {
+      "category": "high_value_finance",
+      "priority": "high",
+      "rationale": "High-value financial document requires tighter control.",
+      "confidence": 0.93
+    },
+    "decision": "human_review",
+    "validation_errors": [],
+    "estimated_cost_usd": 0.002476,
+    "latency_ms": 1
+  },
+  {
+    "document_id": "DOC-00075",
+    "extracted": {
+      "document_id": "DOC-00075",
+      "document_type": "contract",
+      "supplier": "Supplier 10",
+      "amount_gbp": 138883.13,
+      "invoice_number": null,
+      "po_number": null,
+      "effective_date": "2026-04-28",
+      "confidence": 0.895
+    },
+    "classification": {
+      "category": "high_value_finance",
+      "priority": "high",
+      "rationale": "High-value financial document requires tighter control.",
+      "confidence": 0.93
+    },
+    "decision": "human_review",
+    "validation_errors": [],
+    "estimated_cost_usd": 0.002478,
+    "latency_ms": 1
+  },
+  {
+    "document_id": "DOC-00076",
+    "extracted": {
+      "document_id": "DOC-00076",
+      "document_type": "invoice",
+      "supplier": "Supplier 12",
+      "amount_gbp": 132242.08,
+      "invoice_number": "INV-00076",
+      "po_number": null,
+      "effective_date": "2026-01-06",
+      "confidence": 0.99
+    },
+    "classification": {
+      "category": "high_value_finance",
+      "priority": "high",
+      "rationale": "High-value financial document requires tighter control.",
+      "confidence": 0.93
+    },
+    "decision": "human_review",
+    "validation_errors": [],
+    "estimated_cost_usd": 0.002476,
+    "latency_ms": 1
+  },
+  {
+    "document_id": "DOC-00077",
+    "extracted": {
+      "document_id": "DOC-00077",
+      "document_type": "purchase_order",
+      "supplier": "Supplier 27",
+      "amount_gbp": 120384.71,
+      "invoice_number": null,
+      "po_number": "PO-00077",
+      "effective_date": "2026-12-26",
+      "confidence": 0.99
+    },
+    "classification": {
+      "category": "high_value_finance",
+      "priority": "high",
+      "rationale": "High-value financial document requires tighter control.",
+      "confidence": 0.93
+    },
+    "decision": "human_review",
+    "validation_errors": [],
+    "estimated_cost_usd": 0.002476,
+    "latency_ms": 1
+  },
+  {
+    "document_id": "DOC-00078",
+    "extracted": {
+      "document_id": "DOC-00078",
+      "document_type": "invoice",
+      "supplier": "Supplier 18",
+      "amount_gbp": 24089.88,
+      "invoice_number": "INV-00078",
+      "po_number": null,
+      "effective_date": "2026-12-04",
+      "confidence": 0.99
+    },
+    "classification": {
+      "category": "standard_finance",
+      "priority": "low",
+      "rationale": "Routine structured finance document.",
+      "confidence": 0.94
+    },
+    "decision": "auto_process",
+    "validation_errors": [],
+    "estimated_cost_usd": 0.002476,
+    "latency_ms": 1
+  },
+  {
+    "document_id": "DOC-00079",
+    "extracted": {
+      "document_id": "DOC-00079",
+      "document_type": "contract",
+      "supplier": "Supplier 03",
+      "amount_gbp": 128824.34,
+      "invoice_number": null,
+      "po_number": null,
+      "effective_date": "2026-04-07",
+      "confidence": 0.895
+    },
+    "classification": {
+      "category": "high_value_finance",
+      "priority": "high",
+      "rationale": "High-value financial document requires tighter control.",
+      "confidence": 0.93
+    },
+    "decision": "human_review",
+    "validation_errors": [],
+    "estimated_cost_usd": 0.002478,
+    "latency_ms": 1
+  },
+  {
+    "document_id": "DOC-00080",
+    "extracted": {
+      "document_id": "DOC-00080",
+      "document_type": "contract",
+      "supplier": "Supplier 23",
+      "amount_gbp": 45952.33,
+      "invoice_number": null,
+      "po_number": null,
+      "effective_date": "2026-04-08",
+      "confidence": 0.895
+    },
+    "classification": {
+      "category": "legal_commercial",
+      "priority": "medium",
+      "rationale": "Contract-like content should follow commercial review.",
+      "confidence": 0.9
+    },
+    "decision": "auto_process",
+    "validation_errors": [],
+    "estimated_cost_usd": 0.002477,
+    "latency_ms": 1
+  },
+  {
+    "document_id": "DOC-00081",
+    "extracted": {
+      "document_id": "DOC-00081",
+      "document_type": "invoice",
+      "supplier": "Supplier 13",
+      "amount_gbp": 59920.28,
+      "invoice_number": "INV-00081",
+      "po_number": null,
+      "effective_date": "2026-05-28",
+      "confidence": 0.99
+    },
+    "classification": {
+      "category": "standard_finance",
+      "priority": "low",
+      "rationale": "Routine structured finance document.",
+      "confidence": 0.94
+    },
+    "decision": "auto_process",
+    "validation_errors": [],
+    "estimated_cost_usd": 0.002476,
+    "latency_ms": 1
+  },
+  {
+    "document_id": "DOC-00082",
+    "extracted": {
+      "document_id": "DOC-00082",
+      "document_type": "invoice",
+      "supplier": "Supplier 18",
+      "amount_gbp": 52834.13,
+      "invoice_number": "INV-00082",
+      "po_number": null,
+      "effective_date": "2026-09-13",
+      "confidence": 0.99
+    },
+    "classification": {
+      "category": "standard_finance",
+      "priority": "low",
+      "rationale": "Routine structured finance document.",
+      "confidence": 0.94
+    },
+    "decision": "auto_process",
+    "validation_errors": [],
+    "estimated_cost_usd": 0.002476,
+    "latency_ms": 1
+  },
+  {
+    "document_id": "DOC-00083",
+    "extracted": {
+      "document_id": "DOC-00083",
+      "document_type": "purchase_order",
+      "supplier": "Supplier 02",
+      "amount_gbp": 17522.43,
+      "invoice_number": null,
+      "po_number": "PO-00083",
+      "effective_date": "2026-05-06",
+      "confidence": 0.99
+    },
+    "classification": {
+      "category": "standard_finance",
+      "priority": "low",
+      "rationale": "Routine structured finance document.",
+      "confidence": 0.94
+    },
+    "decision": "auto_process",
+    "validation_errors": [],
+    "estimated_cost_usd": 0.002476,
+    "latency_ms": 1
+  },
+  {
+    "document_id": "DOC-00084",
+    "extracted": {
+      "document_id": "DOC-00084",
+      "document_type": "purchase_order",
+      "supplier": "Supplier 03",
+      "amount_gbp": 16483.28,
+      "invoice_number": null,
+      "po_number": "PO-00084",
+      "effective_date": "2026-07-12",
+      "confidence": 0.99
+    },
+    "classification": {
+      "category": "standard_finance",
+      "priority": "low",
+      "rationale": "Routine structured finance document.",
+      "confidence": 0.94
+    },
+    "decision": "auto_process",
+    "validation_errors": [],
+    "estimated_cost_usd": 0.002476,
+    "latency_ms": 1
+  },
+  {
+    "document_id": "DOC-00085",
+    "extracted": {
+      "document_id": "DOC-00085",
+      "document_type": "purchase_order",
+      "supplier": "Supplier 28",
+      "amount_gbp": 91029.78,
+      "invoice_number": null,
+      "po_number": "PO-00085",
+      "effective_date": "2026-09-04",
+      "confidence": 0.99
+    },
+    "classification": {
+      "category": "standard_finance",
+      "priority": "low",
+      "rationale": "Routine structured finance document.",
+      "confidence": 0.94
+    },
+    "decision": "auto_process",
+    "validation_errors": [],
+    "estimated_cost_usd": 0.002476,
+    "latency_ms": 1
+  },
+  {
+    "document_id": "DOC-00086",
+    "extracted": {
+      "document_id": "DOC-00086",
+      "document_type": "contract",
+      "supplier": "Supplier 13",
+      "amount_gbp": 38394.7,
+      "invoice_number": null,
+      "po_number": null,
+      "effective_date": "2026-12-14",
+      "confidence": 0.895
+    },
+    "classification": {
+      "category": "legal_commercial",
+      "priority": "medium",
+      "rationale": "Contract-like content should follow commercial review.",
+      "confidence": 0.9
+    },
+    "decision": "auto_process",
+    "validation_errors": [],
+    "estimated_cost_usd": 0.002477,
+    "latency_ms": 1
+  },
+  {
+    "document_id": "DOC-00087",
+    "extracted": {
+      "document_id": "DOC-00087",
+      "document_type": "invoice",
+      "supplier": "Supplier 34",
+      "amount_gbp": 138854.88,
+      "invoice_number": "INV-00087",
+      "po_number": null,
+      "effective_date": "2026-09-22",
+      "confidence": 0.99
+    },
+    "classification": {
+      "category": "high_value_finance",
+      "priority": "high",
+      "rationale": "High-value financial document requires tighter control.",
+      "confidence": 0.93
+    },
+    "decision": "human_review",
+    "validation_errors": [],
+    "estimated_cost_usd": 0.002476,
+    "latency_ms": 1
+  },
+  {
+    "document_id": "DOC-00088",
+    "extracted": {
+      "document_id": "DOC-00088",
+      "document_type": "invoice",
+      "supplier": "Supplier 24",
+      "amount_gbp": 64836.79,
+      "invoice_number": "INV-00088",
+      "po_number": null,
+      "effective_date": "2026-11-11",
+      "confidence": 0.99
+    },
+    "classification": {
+      "category": "standard_finance",
+      "priority": "low",
+      "rationale": "Routine structured finance document.",
+      "confidence": 0.94
+    },
+    "decision": "auto_process",
+    "validation_errors": [],
+    "estimated_cost_usd": 0.002476,
+    "latency_ms": 1
+  },
+  {
+    "document_id": "DOC-00089",
+    "extracted": {
+      "document_id": "DOC-00089",
+      "document_type": "purchase_order",
+      "supplier": "Supplier 08",
+      "amount_gbp": 108033.2,
+      "invoice_number": null,
+      "po_number": "PO-00089",
+      "effective_date": "2026-05-17",
+      "confidence": 0.99
+    },
+    "classification": {
+      "category": "high_value_finance",
+      "priority": "high",
+      "rationale": "High-value financial document requires tighter control.",
+      "confidence": 0.93
+    },
+    "decision": "human_review",
+    "validation_errors": [],
+    "estimated_cost_usd": 0.002476,
+    "latency_ms": 1
+  },
+  {
+    "document_id": "DOC-00090",
+    "extracted": {
+      "document_id": "DOC-00090",
+      "document_type": "purchase_order",
+      "supplier": "Supplier 27",
+      "amount_gbp": 49095.89,
+      "invoice_number": null,
+      "po_number": "PO-00090",
+      "effective_date": "2026-12-10",
+      "confidence": 0.99
+    },
+    "classification": {
+      "category": "standard_finance",
+      "priority": "low",
+      "rationale": "Routine structured finance document.",
+      "confidence": 0.94
+    },
+    "decision": "auto_process",
+    "validation_errors": [],
+    "estimated_cost_usd": 0.002476,
+    "latency_ms": 1
+  },
+  {
+    "document_id": "DOC-00091",
+    "extracted": {
+      "document_id": "DOC-00091",
+      "document_type": "invoice",
+      "supplier": "Supplier 13",
+      "amount_gbp": 63211.84,
+      "invoice_number": "INV-00091",
+      "po_number": null,
+      "effective_date": "2026-07-22",
+      "confidence": 0.99
+    },
+    "classification": {
+      "category": "standard_finance",
+      "priority": "low",
+      "rationale": "Routine structured finance document.",
+      "confidence": 0.94
+    },
+    "decision": "auto_process",
+    "validation_errors": [],
+    "estimated_cost_usd": 0.002476,
+    "latency_ms": 1
+  },
+  {
+    "document_id": "DOC-00092",
+    "extracted": {
+      "document_id": "DOC-00092",
+      "document_type": "invoice",
+      "supplier": "Supplier 20",
+      "amount_gbp": 61059.76,
+      "invoice_number": "INV-00092",
+      "po_number": null,
+      "effective_date": "2026-01-10",
+      "confidence": 0.99
+    },
+    "classification": {
+      "category": "standard_finance",
+      "priority": "low",
+      "rationale": "Routine structured finance document.",
+      "confidence": 0.94
+    },
+    "decision": "auto_process",
+    "validation_errors": [],
+    "estimated_cost_usd": 0.002476,
+    "latency_ms": 1
+  },
+  {
+    "document_id": "DOC-00093",
+    "extracted": {
+      "document_id": "DOC-00093",
+      "document_type": "purchase_order",
+      "supplier": "Supplier 14",
+      "amount_gbp": 64625.75,
+      "invoice_number": null,
+      "po_number": "PO-00093",
+      "effective_date": "2026-10-20",
+      "confidence": 0.99
+    },
+    "classification": {
+      "category": "standard_finance",
+      "priority": "low",
+      "rationale": "Routine structured finance document.",
+      "confidence": 0.94
+    },
+    "decision": "auto_process",
+    "validation_errors": [],
+    "estimated_cost_usd": 0.002476,
+    "latency_ms": 1
+  },
+  {
+    "document_id": "DOC-00094",
+    "extracted": {
+      "document_id": "DOC-00094",
+      "document_type": "purchase_order",
+      "supplier": "Supplier 30",
+      "amount_gbp": 66407.46,
+      "invoice_number": null,
+      "po_number": "PO-00094",
+      "effective_date": "2026-11-07",
+      "confidence": 0.99
+    },
+    "classification": {
+      "category": "standard_finance",
+      "priority": "low",
+      "rationale": "Routine structured finance document.",
+      "confidence": 0.94
+    },
+    "decision": "auto_process",
+    "validation_errors": [],
+    "estimated_cost_usd": 0.002476,
+    "latency_ms": 1
+  },
+  {
+    "document_id": "DOC-00095",
+    "extracted": {
+      "document_id": "DOC-00095",
+      "document_type": "contract",
+      "supplier": "Supplier 11",
+      "amount_gbp": 98912.9,
+      "invoice_number": null,
+      "po_number": null,
+      "effective_date": "2026-05-17",
+      "confidence": 0.895
+    },
+    "classification": {
+      "category": "legal_commercial",
+      "priority": "medium",
+      "rationale": "Contract-like content should follow commercial review.",
+      "confidence": 0.9
+    },
+    "decision": "auto_process",
+    "validation_errors": [],
+    "estimated_cost_usd": 0.002477,
+    "latency_ms": 1
+  },
+  {
+    "document_id": "DOC-00096",
+    "extracted": {
+      "document_id": "DOC-00096",
+      "document_type": "purchase_order",
+      "supplier": "Supplier 06",
+      "amount_gbp": 122808.91,
+      "invoice_number": null,
+      "po_number": "PO-00096",
+      "effective_date": "2026-04-22",
+      "confidence": 0.99
+    },
+    "classification": {
+      "category": "high_value_finance",
+      "priority": "high",
+      "rationale": "High-value financial document requires tighter control.",
+      "confidence": 0.93
+    },
+    "decision": "human_review",
+    "validation_errors": [],
+    "estimated_cost_usd": 0.002476,
+    "latency_ms": 1
+  },
+  {
+    "document_id": "DOC-00097",
+    "extracted": {
+      "document_id": "DOC-00097",
+      "document_type": "purchase_order",
+      "supplier": "Supplier 15",
+      "amount_gbp": 121032.79,
+      "invoice_number": null,
+      "po_number": "PO-00097",
+      "effective_date": "2026-03-01",
+      "confidence": 0.99
+    },
+    "classification": {
+      "category": "high_value_finance",
+      "priority": "high",
+      "rationale": "High-value financial document requires tighter control.",
+      "confidence": 0.93
+    },
+    "decision": "human_review",
+    "validation_errors": [],
+    "estimated_cost_usd": 0.002476,
+    "latency_ms": 1
+  },
+  {
+    "document_id": "DOC-00098",
+    "extracted": {
+      "document_id": "DOC-00098",
+      "document_type": "invoice",
+      "supplier": "Supplier 16",
+      "amount_gbp": 147594.42,
+      "invoice_number": "INV-00098",
+      "po_number": null,
+      "effective_date": "2026-10-28",
+      "confidence": 0.99
+    },
+    "classification": {
+      "category": "high_value_finance",
+      "priority": "high",
+      "rationale": "High-value financial document requires tighter control.",
+      "confidence": 0.93
+    },
+    "decision": "human_review",
+    "validation_errors": [],
+    "estimated_cost_usd": 0.002476,
+    "latency_ms": 1
+  },
+  {
+    "document_id": "DOC-00099",
+    "extracted": {
+      "document_id": "DOC-00099",
+      "document_type": "invoice",
+      "supplier": "Supplier 30",
+      "amount_gbp": 62312.54,
+      "invoice_number": "INV-00099",
+      "po_number": null,
+      "effective_date": "2026-11-19",
+      "confidence": 0.99
+    },
+    "classification": {
+      "category": "standard_finance",
+      "priority": "low",
+      "rationale": "Routine structured finance document.",
+      "confidence": 0.94
+    },
+    "decision": "auto_process",
+    "validation_errors": [],
+    "estimated_cost_usd": 0.002476,
+    "latency_ms": 1
+  },
+  {
+    "document_id": "DOC-00100",
+    "extracted": {
+      "document_id": "DOC-00100",
+      "document_type": "invoice",
+      "supplier": "Supplier 25",
+      "amount_gbp": 74282.98,
+      "invoice_number": "INV-00100",
+      "po_number": null,
+      "effective_date": "2026-04-05",
+      "confidence": 0.99
+    },
+    "classification": {
+      "category": "standard_finance",
+      "priority": "low",
+      "rationale": "Routine structured finance document.",
+      "confidence": 0.94
+    },
+    "decision": "auto_process",
+    "validation_errors": [],
+    "estimated_cost_usd": 0.002476,
+    "latency_ms": 1
+  },
+  {
+    "document_id": "DOC-00101",
+    "extracted": {
+      "document_id": "DOC-00101",
+      "document_type": "invoice",
+      "supplier": "Supplier 07",
+      "amount_gbp": 116818.46,
+      "invoice_number": "INV-00101",
+      "po_number": null,
+      "effective_date": "2026-04-06",
+      "confidence": 0.99
+    },
+    "classification": {
+      "category": "high_value_finance",
+      "priority": "high",
+      "rationale": "High-value financial document requires tighter control.",
+      "confidence": 0.93
+    },
+    "decision": "human_review",
+    "validation_errors": [],
+    "estimated_cost_usd": 0.002476,
+    "latency_ms": 1
+  },
+  {
+    "document_id": "DOC-00102",
+    "extracted": {
+      "document_id": "DOC-00102",
+      "document_type": "contract",
+      "supplier": "Supplier 04",
+      "amount_gbp": 83721.52,
+      "invoice_number": null,
+      "po_number": null,
+      "effective_date": "2026-02-15",
+      "confidence": 0.895
+    },
+    "classification": {
+      "category": "legal_commercial",
+      "priority": "medium",
+      "rationale": "Contract-like content should follow commercial review.",
+      "confidence": 0.9
+    },
+    "decision": "auto_process",
+    "validation_errors": [],
+    "estimated_cost_usd": 0.002477,
+    "latency_ms": 1
+  },
+  {
+    "document_id": "DOC-00103",
+    "extracted": {
+      "document_id": "DOC-00103",
+      "document_type": "invoice",
+      "supplier": "Supplier 30",
+      "amount_gbp": 100219.77,
+      "invoice_number": "INV-00103",
+      "po_number": null,
+      "effective_date": "2026-09-20",
+      "confidence": 0.99
+    },
+    "classification": {
+      "category": "high_value_finance",
+      "priority": "high",
+      "rationale": "High-value financial document requires tighter control.",
+      "confidence": 0.93
+    },
+    "decision": "human_review",
+    "validation_errors": [],
+    "estimated_cost_usd": 0.002476,
+    "latency_ms": 1
+  },
+  {
+    "document_id": "DOC-00104",
+    "extracted": {
+      "document_id": "DOC-00104",
+      "document_type": "purchase_order",
+      "supplier": "Supplier 29",
+      "amount_gbp": 91994.69,
+      "invoice_number": null,
+      "po_number": "PO-00104",
+      "effective_date": "2026-12-17",
+      "confidence": 0.99
+    },
+    "classification": {
+      "category": "standard_finance",
+      "priority": "low",
+      "rationale": "Routine structured finance document.",
+      "confidence": 0.94
+    },
+    "decision": "auto_process",
+    "validation_errors": [],
+    "estimated_cost_usd": 0.002476,
+    "latency_ms": 1
+  },
+  {
+    "document_id": "DOC-00105",
+    "extracted": {
+      "document_id": "DOC-00105",
+      "document_type": "contract",
+      "supplier": "Supplier 29",
+      "amount_gbp": 134606.91,
+      "invoice_number": null,
+      "po_number": null,
+      "effective_date": "2026-12-28",
+      "confidence": 0.895
+    },
+    "classification": {
+      "category": "high_value_finance",
+      "priority": "high",
+      "rationale": "High-value financial document requires tighter control.",
+      "confidence": 0.93
+    },
+    "decision": "human_review",
+    "validation_errors": [],
+    "estimated_cost_usd": 0.002478,
+    "latency_ms": 1
+  },
+  {
+    "document_id": "DOC-00106",
+    "extracted": {
+      "document_id": "DOC-00106",
+      "document_type": "contract",
+      "supplier": "Supplier 29",
+      "amount_gbp": 39063.93,
+      "invoice_number": null,
+      "po_number": null,
+      "effective_date": "2026-04-27",
+      "confidence": 0.895
+    },
+    "classification": {
+      "category": "legal_commercial",
+      "priority": "medium",
+      "rationale": "Contract-like content should follow commercial review.",
+      "confidence": 0.9
+    },
+    "decision": "auto_process",
+    "validation_errors": [],
+    "estimated_cost_usd": 0.002477,
+    "latency_ms": 1
+  },
+  {
+    "document_id": "DOC-00107",
+    "extracted": {
+      "document_id": "DOC-00107",
+      "document_type": "purchase_order",
+      "supplier": "Supplier 34",
+      "amount_gbp": 72818.4,
+      "invoice_number": null,
+      "po_number": "PO-00107",
+      "effective_date": "2026-04-09",
+      "confidence": 0.99
+    },
+    "classification": {
+      "category": "standard_finance",
+      "priority": "low",
+      "rationale": "Routine structured finance document.",
+      "confidence": 0.94
+    },
+    "decision": "auto_process",
+    "validation_errors": [],
+    "estimated_cost_usd": 0.002476,
+    "latency_ms": 1
+  },
+  {
+    "document_id": "DOC-00108",
+    "extracted": {
+      "document_id": "DOC-00108",
+      "document_type": "contract",
+      "supplier": "Supplier 05",
+      "amount_gbp": 107103.34,
+      "invoice_number": null,
+      "po_number": null,
+      "effective_date": "2026-04-09",
+      "confidence": 0.895
+    },
+    "classification": {
+      "category": "high_value_finance",
+      "priority": "high",
+      "rationale": "High-value financial document requires tighter control.",
+      "confidence": 0.93
+    },
+    "decision": "human_review",
+    "validation_errors": [],
+    "estimated_cost_usd": 0.002478,
+    "latency_ms": 1
+  },
+  {
+    "document_id": "DOC-00109",
+    "extracted": {
+      "document_id": "DOC-00109",
+      "document_type": "purchase_order",
+      "supplier": "Supplier 21",
+      "amount_gbp": 133980.77,
+      "invoice_number": null,
+      "po_number": "PO-00109",
+      "effective_date": "2026-02-05",
+      "confidence": 0.99
+    },
+    "classification": {
+      "category": "high_value_finance",
+      "priority": "high",
+      "rationale": "High-value financial document requires tighter control.",
+      "confidence": 0.93
+    },
+    "decision": "human_review",
+    "validation_errors": [],
+    "estimated_cost_usd": 0.002476,
+    "latency_ms": 1
+  },
+  {
+    "document_id": "DOC-00110",
+    "extracted": {
+      "document_id": "DOC-00110",
+      "document_type": "invoice",
+      "supplier": "Supplier 15",
+      "amount_gbp": 57609.54,
+      "invoice_number": "INV-00110",
+      "po_number": null,
+      "effective_date": "2026-03-23",
+      "confidence": 0.99
+    },
+    "classification": {
+      "category": "standard_finance",
+      "priority": "low",
+      "rationale": "Routine structured finance document.",
+      "confidence": 0.94
+    },
+    "decision": "auto_process",
+    "validation_errors": [],
+    "estimated_cost_usd": 0.002476,
+    "latency_ms": 1
+  },
+  {
+    "document_id": "DOC-00111",
+    "extracted": {
+      "document_id": "DOC-00111",
+      "document_type": "invoice",
+      "supplier": "Supplier 05",
+      "amount_gbp": 62376.47,
+      "invoice_number": "INV-00111",
+      "po_number": null,
+      "effective_date": "2026-06-18",
+      "confidence": 0.99
+    },
+    "classification": {
+      "category": "standard_finance",
+      "priority": "low",
+      "rationale": "Routine structured finance document.",
+      "confidence": 0.94
+    },
+    "decision": "auto_process",
+    "validation_errors": [],
+    "estimated_cost_usd": 0.002476,
+    "latency_ms": 1
+  },
+  {
+    "document_id": "DOC-00112",
+    "extracted": {
+      "document_id": "DOC-00112",
+      "document_type": "contract",
+      "supplier": "Supplier 27",
+      "amount_gbp": 9574.29,
+      "invoice_number": null,
+      "po_number": null,
+      "effective_date": "2026-07-13",
+      "confidence": 0.895
+    },
+    "classification": {
+      "category": "legal_commercial",
+      "priority": "medium",
+      "rationale": "Contract-like content should follow commercial review.",
+      "confidence": 0.9
+    },
+    "decision": "auto_process",
+    "validation_errors": [],
+    "estimated_cost_usd": 0.002477,
+    "latency_ms": 1
+  },
+  {
+    "document_id": "DOC-00113",
+    "extracted": {
+      "document_id": "DOC-00113",
+      "document_type": "invoice",
+      "supplier": "Supplier 25",
+      "amount_gbp": 71677.71,
+      "invoice_number": "INV-00113",
+      "po_number": null,
+      "effective_date": "2026-06-10",
+      "confidence": 0.99
+    },
+    "classification": {
+      "category": "standard_finance",
+      "priority": "low",
+      "rationale": "Routine structured finance document.",
+      "confidence": 0.94
+    },
+    "decision": "auto_process",
+    "validation_errors": [],
+    "estimated_cost_usd": 0.002476,
+    "latency_ms": 1
+  },
+  {
+    "document_id": "DOC-00114",
+    "extracted": {
+      "document_id": "DOC-00114",
+      "document_type": "contract",
+      "supplier": "Supplier 27",
+      "amount_gbp": 80848.53,
+      "invoice_number": null,
+      "po_number": null,
+      "effective_date": "2026-12-18",
+      "confidence": 0.895
+    },
+    "classification": {
+      "category": "legal_commercial",
+      "priority": "medium",
+      "rationale": "Contract-like content should follow commercial review.",
+      "confidence": 0.9
+    },
+    "decision": "auto_process",
+    "validation_errors": [],
+    "estimated_cost_usd": 0.002477,
+    "latency_ms": 1
+  },
+  {
+    "document_id": "DOC-00115",
+    "extracted": {
+      "document_id": "DOC-00115",
+      "document_type": "invoice",
+      "supplier": "Supplier 32",
+      "amount_gbp": 33108.39,
+      "invoice_number": "INV-00115",
+      "po_number": null,
+      "effective_date": "2026-07-16",
+      "confidence": 0.99
+    },
+    "classification": {
+      "category": "standard_finance",
+      "priority": "low",
+      "rationale": "Routine structured finance document.",
+      "confidence": 0.94
+    },
+    "decision": "auto_process",
+    "validation_errors": [],
+    "estimated_cost_usd": 0.002476,
+    "latency_ms": 1
+  },
+  {
+    "document_id": "DOC-00116",
+    "extracted": {
+      "document_id": "DOC-00116",
+      "document_type": "invoice",
+      "supplier": "Supplier 25",
+      "amount_gbp": 50585.4,
+      "invoice_number": "INV-00116",
+      "po_number": null,
+      "effective_date": "2026-11-26",
+      "confidence": 0.99
+    },
+    "classification": {
+      "category": "standard_finance",
+      "priority": "low",
+      "rationale": "Routine structured finance document.",
+      "confidence": 0.94
+    },
+    "decision": "auto_process",
+    "validation_errors": [],
+    "estimated_cost_usd": 0.002476,
+    "latency_ms": 1
+  },
+  {
+    "document_id": "DOC-00117",
+    "extracted": {
+      "document_id": "DOC-00117",
+      "document_type": "contract",
+      "supplier": "Supplier 11",
+      "amount_gbp": 126115.72,
+      "invoice_number": null,
+      "po_number": null,
+      "effective_date": "2026-03-20",
+      "confidence": 0.895
+    },
+    "classification": {
+      "category": "high_value_finance",
+      "priority": "high",
+      "rationale": "High-value financial document requires tighter control.",
+      "confidence": 0.93
+    },
+    "decision": "human_review",
+    "validation_errors": [],
+    "estimated_cost_usd": 0.002478,
+    "latency_ms": 1
+  },
+  {
+    "document_id": "DOC-00118",
+    "extracted": {
+      "document_id": "DOC-00118",
+      "document_type": "invoice",
+      "supplier": "Supplier 26",
+      "amount_gbp": 88885.94,
+      "invoice_number": "INV-00118",
+      "po_number": null,
+      "effective_date": "2026-11-01",
+      "confidence": 0.99
+    },
+    "classification": {
+      "category": "standard_finance",
+      "priority": "low",
+      "rationale": "Routine structured finance document.",
+      "confidence": 0.94
+    },
+    "decision": "auto_process",
+    "validation_errors": [],
+    "estimated_cost_usd": 0.002476,
+    "latency_ms": 1
+  },
+  {
+    "document_id": "DOC-00119",
+    "extracted": {
+      "document_id": "DOC-00119",
+      "document_type": "invoice",
+      "supplier": "Supplier 28",
+      "amount_gbp": 20571.0,
+      "invoice_number": "INV-00119",
+      "po_number": null,
+      "effective_date": "2026-08-06",
+      "confidence": 0.99
+    },
+    "classification": {
+      "category": "standard_finance",
+      "priority": "low",
+      "rationale": "Routine structured finance document.",
+      "confidence": 0.94
+    },
+    "decision": "auto_process",
+    "validation_errors": [],
+    "estimated_cost_usd": 0.002476,
+    "latency_ms": 1
+  },
+  {
+    "document_id": "DOC-00120",
+    "extracted": {
+      "document_id": "DOC-00120",
+      "document_type": "invoice",
+      "supplier": "Supplier 17",
+      "amount_gbp": 57020.8,
+      "invoice_number": "INV-00120",
+      "po_number": null,
+      "effective_date": "2026-04-15",
+      "confidence": 0.99
+    },
+    "classification": {
+      "category": "standard_finance",
+      "priority": "low",
+      "rationale": "Routine structured finance document.",
+      "confidence": 0.94
+    },
+    "decision": "auto_process",
+    "validation_errors": [],
+    "estimated_cost_usd": 0.002476,
+    "latency_ms": 1
+  },
+  {
+    "document_id": "DOC-00121",
+    "extracted": {
+      "document_id": "DOC-00121",
+      "document_type": "purchase_order",
+      "supplier": "Supplier 22",
+      "amount_gbp": 114244.15,
+      "invoice_number": null,
+      "po_number": "PO-00121",
+      "effective_date": "2026-07-09",
+      "confidence": 0.99
+    },
+    "classification": {
+      "category": "high_value_finance",
+      "priority": "high",
+      "rationale": "High-value financial document requires tighter control.",
+      "confidence": 0.93
+    },
+    "decision": "human_review",
+    "validation_errors": [],
+    "estimated_cost_usd": 0.002476,
+    "latency_ms": 1
+  },
+  {
+    "document_id": "DOC-00122",
+    "extracted": {
+      "document_id": "DOC-00122",
+      "document_type": "contract",
+      "supplier": "Supplier 17",
+      "amount_gbp": 125277.91,
+      "invoice_number": null,
+      "po_number": null,
+      "effective_date": "2026-08-01",
+      "confidence": 0.895
+    },
+    "classification": {
+      "category": "high_value_finance",
+      "priority": "high",
+      "rationale": "High-value financial document requires tighter control.",
+      "confidence": 0.93
+    },
+    "decision": "human_review",
+    "validation_errors": [],
+    "estimated_cost_usd": 0.002478,
+    "latency_ms": 1
+  },
+  {
+    "document_id": "DOC-00123",
+    "extracted": {
+      "document_id": "DOC-00123",
+      "document_type": "invoice",
+      "supplier": "Supplier 23",
+      "amount_gbp": 33827.27,
+      "invoice_number": "INV-00123",
+      "po_number": null,
+      "effective_date": "2026-02-25",
+      "confidence": 0.99
+    },
+    "classification": {
+      "category": "standard_finance",
+      "priority": "low",
+      "rationale": "Routine structured finance document.",
+      "confidence": 0.94
+    },
+    "decision": "auto_process",
+    "validation_errors": [],
+    "estimated_cost_usd": 0.002476,
+    "latency_ms": 1
+  },
+  {
+    "document_id": "DOC-00124",
+    "extracted": {
+      "document_id": "DOC-00124",
+      "document_type": "invoice",
+      "supplier": "Supplier 02",
+      "amount_gbp": 142454.36,
+      "invoice_number": "INV-00124",
+      "po_number": null,
+      "effective_date": "2026-04-27",
+      "confidence": 0.99
+    },
+    "classification": {
+      "category": "high_value_finance",
+      "priority": "high",
+      "rationale": "High-value financial document requires tighter control.",
+      "confidence": 0.93
+    },
+    "decision": "human_review",
+    "validation_errors": [],
+    "estimated_cost_usd": 0.002476,
+    "latency_ms": 1
+  },
+  {
+    "document_id": "DOC-00125",
+    "extracted": {
+      "document_id": "DOC-00125",
+      "document_type": "invoice",
+      "supplier": "Supplier 10",
+      "amount_gbp": 35972.11,
+      "invoice_number": "INV-00125",
+      "po_number": null,
+      "effective_date": "2026-08-22",
+      "confidence": 0.99
+    },
+    "classification": {
+      "category": "standard_finance",
+      "priority": "low",
+      "rationale": "Routine structured finance document.",
+      "confidence": 0.94
+    },
+    "decision": "auto_process",
+    "validation_errors": [],
+    "estimated_cost_usd": 0.002476,
+    "latency_ms": 1
+  },
+  {
+    "document_id": "DOC-00126",
+    "extracted": {
+      "document_id": "DOC-00126",
+      "document_type": "invoice",
+      "supplier": "Supplier 14",
+      "amount_gbp": 69888.84,
+      "invoice_number": "INV-00126",
+      "po_number": null,
+      "effective_date": "2026-05-25",
+      "confidence": 0.99
+    },
+    "classification": {
+      "category": "standard_finance",
+      "priority": "low",
+      "rationale": "Routine structured finance document.",
+      "confidence": 0.94
+    },
+    "decision": "auto_process",
+    "validation_errors": [],
+    "estimated_cost_usd": 0.002476,
+    "latency_ms": 1
+  },
+  {
+    "document_id": "DOC-00127",
+    "extracted": {
+      "document_id": "DOC-00127",
+      "document_type": "purchase_order",
+      "supplier": "Supplier 11",
+      "amount_gbp": 90982.43,
+      "invoice_number": null,
+      "po_number": "PO-00127",
+      "effective_date": "2026-12-23",
+      "confidence": 0.99
+    },
+    "classification": {
+      "category": "standard_finance",
+      "priority": "low",
+      "rationale": "Routine structured finance document.",
+      "confidence": 0.94
+    },
+    "decision": "auto_process",
+    "validation_errors": [],
+    "estimated_cost_usd": 0.002476,
+    "latency_ms": 1
+  },
+  {
+    "document_id": "DOC-00128",
+    "extracted": {
+      "document_id": "DOC-00128",
+      "document_type": "invoice",
+      "supplier": "Supplier 11",
+      "amount_gbp": 144716.94,
+      "invoice_number": "INV-00128",
+      "po_number": null,
+      "effective_date": "2026-02-19",
+      "confidence": 0.99
+    },
+    "classification": {
+      "category": "high_value_finance",
+      "priority": "high",
+      "rationale": "High-value financial document requires tighter control.",
+      "confidence": 0.93
+    },
+    "decision": "human_review",
+    "validation_errors": [],
+    "estimated_cost_usd": 0.002476,
+    "latency_ms": 1
+  },
+  {
+    "document_id": "DOC-00129",
+    "extracted": {
+      "document_id": "DOC-00129",
+      "document_type": "invoice",
+      "supplier": "Supplier 20",
+      "amount_gbp": 86475.56,
+      "invoice_number": "INV-00129",
+      "po_number": null,
+      "effective_date": "2026-07-13",
+      "confidence": 0.99
+    },
+    "classification": {
+      "category": "standard_finance",
+      "priority": "low",
+      "rationale": "Routine structured finance document.",
+      "confidence": 0.94
+    },
+    "decision": "auto_process",
+    "validation_errors": [],
+    "estimated_cost_usd": 0.002476,
+    "latency_ms": 1
+  },
+  {
+    "document_id": "DOC-00130",
+    "extracted": {
+      "document_id": "DOC-00130",
+      "document_type": "invoice",
+      "supplier": "Supplier 05",
+      "amount_gbp": 88916.65,
+      "invoice_number": "INV-00130",
+      "po_number": null,
+      "effective_date": "2026-11-08",
+      "confidence": 0.99
+    },
+    "classification": {
+      "category": "standard_finance",
+      "priority": "low",
+      "rationale": "Routine structured finance document.",
+      "confidence": 0.94
+    },
+    "decision": "auto_process",
+    "validation_errors": [],
+    "estimated_cost_usd": 0.002476,
+    "latency_ms": 1
+  },
+  {
+    "document_id": "DOC-00131",
+    "extracted": {
+      "document_id": "DOC-00131",
+      "document_type": "invoice",
+      "supplier": "Supplier 20",
+      "amount_gbp": 127581.41,
+      "invoice_number": "INV-00131",
+      "po_number": null,
+      "effective_date": "2026-10-26",
+      "confidence": 0.99
+    },
+    "classification": {
+      "category": "high_value_finance",
+      "priority": "high",
+      "rationale": "High-value financial document requires tighter control.",
+      "confidence": 0.93
+    },
+    "decision": "human_review",
+    "validation_errors": [],
+    "estimated_cost_usd": 0.002476,
+    "latency_ms": 1
+  },
+  {
+    "document_id": "DOC-00132",
+    "extracted": {
+      "document_id": "DOC-00132",
+      "document_type": "invoice",
+      "supplier": "Supplier 03",
+      "amount_gbp": 52243.76,
+      "invoice_number": "INV-00132",
+      "po_number": null,
+      "effective_date": "2026-07-22",
+      "confidence": 0.99
+    },
+    "classification": {
+      "category": "standard_finance",
+      "priority": "low",
+      "rationale": "Routine structured finance document.",
+      "confidence": 0.94
+    },
+    "decision": "auto_process",
+    "validation_errors": [],
+    "estimated_cost_usd": 0.002476,
+    "latency_ms": 1
+  },
+  {
+    "document_id": "DOC-00133",
+    "extracted": {
+      "document_id": "DOC-00133",
+      "document_type": "purchase_order",
+      "supplier": "Supplier 05",
+      "amount_gbp": 76017.63,
+      "invoice_number": null,
+      "po_number": "PO-00133",
+      "effective_date": "2026-06-01",
+      "confidence": 0.99
+    },
+    "classification": {
+      "category": "standard_finance",
+      "priority": "low",
+      "rationale": "Routine structured finance document.",
+      "confidence": 0.94
+    },
+    "decision": "auto_process",
+    "validation_errors": [],
+    "estimated_cost_usd": 0.002476,
+    "latency_ms": 1
+  },
+  {
+    "document_id": "DOC-00134",
+    "extracted": {
+      "document_id": "DOC-00134",
+      "document_type": "contract",
+      "supplier": "Supplier 32",
+      "amount_gbp": 16054.45,
+      "invoice_number": null,
+      "po_number": null,
+      "effective_date": "2026-06-21",
+      "confidence": 0.895
+    },
+    "classification": {
+      "category": "legal_commercial",
+      "priority": "medium",
+      "rationale": "Contract-like content should follow commercial review.",
+      "confidence": 0.9
+    },
+    "decision": "auto_process",
+    "validation_errors": [],
+    "estimated_cost_usd": 0.002477,
+    "latency_ms": 1
+  },
+  {
+    "document_id": "DOC-00135",
+    "extracted": {
+      "document_id": "DOC-00135",
+      "document_type": "contract",
+      "supplier": "Supplier 10",
+      "amount_gbp": 65464.2,
+      "invoice_number": null,
+      "po_number": null,
+      "effective_date": "2026-12-17",
+      "confidence": 0.895
+    },
+    "classification": {
+      "category": "legal_commercial",
+      "priority": "medium",
+      "rationale": "Contract-like content should follow commercial review.",
+      "confidence": 0.9
+    },
+    "decision": "auto_process",
+    "validation_errors": [],
+    "estimated_cost_usd": 0.002477,
+    "latency_ms": 1
+  },
+  {
+    "document_id": "DOC-00136",
+    "extracted": {
+      "document_id": "DOC-00136",
+      "document_type": "purchase_order",
+      "supplier": "Supplier 35",
+      "amount_gbp": 116252.56,
+      "invoice_number": null,
+      "po_number": "PO-00136",
+      "effective_date": "2026-08-14",
+      "confidence": 0.99
+    },
+    "classification": {
+      "category": "high_value_finance",
+      "priority": "high",
+      "rationale": "High-value financial document requires tighter control.",
+      "confidence": 0.93
+    },
+    "decision": "human_review",
+    "validation_errors": [],
+    "estimated_cost_usd": 0.002476,
+    "latency_ms": 1
+  },
+  {
+    "document_id": "DOC-00137",
+    "extracted": {
+      "document_id": "DOC-00137",
+      "document_type": "purchase_order",
+      "supplier": "Supplier 21",
+      "amount_gbp": 127794.05,
+      "invoice_number": null,
+      "po_number": "PO-00137",
+      "effective_date": "2026-02-09",
+      "confidence": 0.99
+    },
+    "classification": {
+      "category": "high_value_finance",
+      "priority": "high",
+      "rationale": "High-value financial document requires tighter control.",
+      "confidence": 0.93
+    },
+    "decision": "human_review",
+    "validation_errors": [],
+    "estimated_cost_usd": 0.002476,
+    "latency_ms": 1
+  },
+  {
+    "document_id": "DOC-00138",
+    "extracted": {
+      "document_id": "DOC-00138",
+      "document_type": "contract",
+      "supplier": "Supplier 16",
+      "amount_gbp": 112633.82,
+      "invoice_number": null,
+      "po_number": null,
+      "effective_date": "2026-10-20",
+      "confidence": 0.895
+    },
+    "classification": {
+      "category": "high_value_finance",
+      "priority": "high",
+      "rationale": "High-value financial document requires tighter control.",
+      "confidence": 0.93
+    },
+    "decision": "human_review",
+    "validation_errors": [],
+    "estimated_cost_usd": 0.002478,
+    "latency_ms": 1
+  },
+  {
+    "document_id": "DOC-00139",
+    "extracted": {
+      "document_id": "DOC-00139",
+      "document_type": "contract",
+      "supplier": "Supplier 22",
+      "amount_gbp": 4547.82,
+      "invoice_number": null,
+      "po_number": null,
+      "effective_date": "2026-06-06",
+      "confidence": 0.895
+    },
+    "classification": {
+      "category": "legal_commercial",
+      "priority": "medium",
+      "rationale": "Contract-like content should follow commercial review.",
+      "confidence": 0.9
+    },
+    "decision": "auto_process",
+    "validation_errors": [],
+    "estimated_cost_usd": 0.002477,
+    "latency_ms": 1
+  },
+  {
+    "document_id": "DOC-00140",
+    "extracted": {
+      "document_id": "DOC-00140",
+      "document_type": "contract",
+      "supplier": "Supplier 14",
+      "amount_gbp": 53385.04,
+      "invoice_number": null,
+      "po_number": null,
+      "effective_date": "2026-05-11",
+      "confidence": 0.895
+    },
+    "classification": {
+      "category": "legal_commercial",
+      "priority": "medium",
+      "rationale": "Contract-like content should follow commercial review.",
+      "confidence": 0.9
+    },
+    "decision": "auto_process",
+    "validation_errors": [],
+    "estimated_cost_usd": 0.002477,
+    "latency_ms": 1
+  },
+  {
+    "document_id": "DOC-00141",
+    "extracted": {
+      "document_id": "DOC-00141",
+      "document_type": "purchase_order",
+      "supplier": "Supplier 18",
+      "amount_gbp": 83479.71,
+      "invoice_number": null,
+      "po_number": "PO-00141",
+      "effective_date": "2026-09-07",
+      "confidence": 0.99
+    },
+    "classification": {
+      "category": "standard_finance",
+      "priority": "low",
+      "rationale": "Routine structured finance document.",
+      "confidence": 0.94
+    },
+    "decision": "auto_process",
+    "validation_errors": [],
+    "estimated_cost_usd": 0.002476,
+    "latency_ms": 1
+  },
+  {
+    "document_id": "DOC-00142",
+    "extracted": {
+      "document_id": "DOC-00142",
+      "document_type": "invoice",
+      "supplier": "Supplier 16",
+      "amount_gbp": 108081.18,
+      "invoice_number": "INV-00142",
+      "po_number": null,
+      "effective_date": "2026-08-18",
+      "confidence": 0.99
+    },
+    "classification": {
+      "category": "high_value_finance",
+      "priority": "high",
+      "rationale": "High-value financial document requires tighter control.",
+      "confidence": 0.93
+    },
+    "decision": "human_review",
+    "validation_errors": [],
+    "estimated_cost_usd": 0.002476,
+    "latency_ms": 1
+  },
+  {
+    "document_id": "DOC-00143",
+    "extracted": {
+      "document_id": "DOC-00143",
+      "document_type": "invoice",
+      "supplier": "Supplier 31",
+      "amount_gbp": 96973.96,
+      "invoice_number": "INV-00143",
+      "po_number": null,
+      "effective_date": "2026-08-15",
+      "confidence": 0.99
+    },
+    "classification": {
+      "category": "standard_finance",
+      "priority": "low",
+      "rationale": "Routine structured finance document.",
+      "confidence": 0.94
+    },
+    "decision": "auto_process",
+    "validation_errors": [],
+    "estimated_cost_usd": 0.002476,
+    "latency_ms": 1
+  },
+  {
+    "document_id": "DOC-00144",
+    "extracted": {
+      "document_id": "DOC-00144",
+      "document_type": "invoice",
+      "supplier": "Supplier 06",
+      "amount_gbp": 44311.78,
+      "invoice_number": "INV-00144",
+      "po_number": null,
+      "effective_date": "2026-07-23",
+      "confidence": 0.99
+    },
+    "classification": {
+      "category": "standard_finance",
+      "priority": "low",
+      "rationale": "Routine structured finance document.",
+      "confidence": 0.94
+    },
+    "decision": "auto_process",
+    "validation_errors": [],
+    "estimated_cost_usd": 0.002476,
+    "latency_ms": 1
+  },
+  {
+    "document_id": "DOC-00145",
+    "extracted": {
+      "document_id": "DOC-00145",
+      "document_type": "invoice",
+      "supplier": "Supplier 20",
+      "amount_gbp": 99678.01,
+      "invoice_number": "INV-00145",
+      "po_number": null,
+      "effective_date": "2026-06-16",
+      "confidence": 0.99
+    },
+    "classification": {
+      "category": "standard_finance",
+      "priority": "low",
+      "rationale": "Routine structured finance document.",
+      "confidence": 0.94
+    },
+    "decision": "auto_process",
+    "validation_errors": [],
+    "estimated_cost_usd": 0.002476,
+    "latency_ms": 1
+  },
+  {
+    "document_id": "DOC-00146",
+    "extracted": {
+      "document_id": "DOC-00146",
+      "document_type": "purchase_order",
+      "supplier": "Supplier 28",
+      "amount_gbp": 149495.56,
+      "invoice_number": null,
+      "po_number": "PO-00146",
+      "effective_date": "2026-09-11",
+      "confidence": 0.99
+    },
+    "classification": {
+      "category": "high_value_finance",
+      "priority": "high",
+      "rationale": "High-value financial document requires tighter control.",
+      "confidence": 0.93
+    },
+    "decision": "human_review",
+    "validation_errors": [],
+    "estimated_cost_usd": 0.002476,
+    "latency_ms": 1
+  },
+  {
+    "document_id": "DOC-00147",
+    "extracted": {
+      "document_id": "DOC-00147",
+      "document_type": "purchase_order",
+      "supplier": "Supplier 30",
+      "amount_gbp": 40819.73,
+      "invoice_number": null,
+      "po_number": "PO-00147",
+      "effective_date": "2026-05-08",
+      "confidence": 0.99
+    },
+    "classification": {
+      "category": "standard_finance",
+      "priority": "low",
+      "rationale": "Routine structured finance document.",
+      "confidence": 0.94
+    },
+    "decision": "auto_process",
+    "validation_errors": [],
+    "estimated_cost_usd": 0.002476,
+    "latency_ms": 1
+  },
+  {
+    "document_id": "DOC-00148",
+    "extracted": {
+      "document_id": "DOC-00148",
+      "document_type": "invoice",
+      "supplier": "Supplier 13",
+      "amount_gbp": 47503.3,
+      "invoice_number": "INV-00148",
+      "po_number": null,
+      "effective_date": "2026-12-18",
+      "confidence": 0.99
+    },
+    "classification": {
+      "category": "standard_finance",
+      "priority": "low",
+      "rationale": "Routine structured finance document.",
+      "confidence": 0.94
+    },
+    "decision": "auto_process",
+    "validation_errors": [],
+    "estimated_cost_usd": 0.002476,
+    "latency_ms": 1
+  },
+  {
+    "document_id": "DOC-00149",
+    "extracted": {
+      "document_id": "DOC-00149",
+      "document_type": "invoice",
+      "supplier": "Supplier 13",
+      "amount_gbp": 32653.6,
+      "invoice_number": "INV-00149",
+      "po_number": null,
+      "effective_date": "2026-08-09",
+      "confidence": 0.99
+    },
+    "classification": {
+      "category": "standard_finance",
+      "priority": "low",
+      "rationale": "Routine structured finance document.",
+      "confidence": 0.94
+    },
+    "decision": "auto_process",
+    "validation_errors": [],
+    "estimated_cost_usd": 0.002476,
+    "latency_ms": 1
+  },
+  {
+    "document_id": "DOC-00150",
+    "extracted": {
+      "document_id": "DOC-00150",
+      "document_type": "purchase_order",
+      "supplier": "Supplier 07",
+      "amount_gbp": 124936.1,
+      "invoice_number": null,
+      "po_number": "PO-00150",
+      "effective_date": "2026-05-08",
+      "confidence": 0.99
+    },
+    "classification": {
+      "category": "high_value_finance",
+      "priority": "high",
+      "rationale": "High-value financial document requires tighter control.",
+      "confidence": 0.93
+    },
+    "decision": "human_review",
+    "validation_errors": [],
+    "estimated_cost_usd": 0.002476,
+    "latency_ms": 1
+  },
+  {
+    "document_id": "DOC-00151",
+    "extracted": {
+      "document_id": "DOC-00151",
+      "document_type": "purchase_order",
+      "supplier": "Supplier 12",
+      "amount_gbp": 45514.57,
+      "invoice_number": null,
+      "po_number": "PO-00151",
+      "effective_date": "2026-12-18",
+      "confidence": 0.99
+    },
+    "classification": {
+      "category": "standard_finance",
+      "priority": "low",
+      "rationale": "Routine structured finance document.",
+      "confidence": 0.94
+    },
+    "decision": "auto_process",
+    "validation_errors": [],
+    "estimated_cost_usd": 0.002476,
+    "latency_ms": 1
+  },
+  {
+    "document_id": "DOC-00152",
+    "extracted": {
+      "document_id": "DOC-00152",
+      "document_type": "invoice",
+      "supplier": "Supplier 18",
+      "amount_gbp": 7065.98,
+      "invoice_number": "INV-00152",
+      "po_number": null,
+      "effective_date": "2026-01-18",
+      "confidence": 0.99
+    },
+    "classification": {
+      "category": "standard_finance",
+      "priority": "low",
+      "rationale": "Routine structured finance document.",
+      "confidence": 0.94
+    },
+    "decision": "auto_process",
+    "validation_errors": [],
+    "estimated_cost_usd": 0.002475,
+    "latency_ms": 1
+  },
+  {
+    "document_id": "DOC-00153",
+    "extracted": {
+      "document_id": "DOC-00153",
+      "document_type": "purchase_order",
+      "supplier": "Supplier 09",
+      "amount_gbp": 95770.98,
+      "invoice_number": null,
+      "po_number": "PO-00153",
+      "effective_date": "2026-08-04",
+      "confidence": 0.99
+    },
+    "classification": {
+      "category": "standard_finance",
+      "priority": "low",
+      "rationale": "Routine structured finance document.",
+      "confidence": 0.94
+    },
+    "decision": "auto_process",
+    "validation_errors": [],
+    "estimated_cost_usd": 0.002476,
+    "latency_ms": 1
+  },
+  {
+    "document_id": "DOC-00154",
+    "extracted": {
+      "document_id": "DOC-00154",
+      "document_type": "invoice",
+      "supplier": "Supplier 19",
+      "amount_gbp": 70542.19,
+      "invoice_number": "INV-00154",
+      "po_number": null,
+      "effective_date": "2026-08-11",
+      "confidence": 0.99
+    },
+    "classification": {
+      "category": "standard_finance",
+      "priority": "low",
+      "rationale": "Routine structured finance document.",
+      "confidence": 0.94
+    },
+    "decision": "auto_process",
+    "validation_errors": [],
+    "estimated_cost_usd": 0.002476,
+    "latency_ms": 1
+  },
+  {
+    "document_id": "DOC-00155",
+    "extracted": {
+      "document_id": "DOC-00155",
+      "document_type": "invoice",
+      "supplier": "Supplier 04",
+      "amount_gbp": 38058.64,
+      "invoice_number": "INV-00155",
+      "po_number": null,
+      "effective_date": "2026-08-04",
+      "confidence": 0.99
+    },
+    "classification": {
+      "category": "standard_finance",
+      "priority": "low",
+      "rationale": "Routine structured finance document.",
+      "confidence": 0.94
+    },
+    "decision": "auto_process",
+    "validation_errors": [],
+    "estimated_cost_usd": 0.002476,
+    "latency_ms": 1
+  },
+  {
+    "document_id": "DOC-00156",
+    "extracted": {
+      "document_id": "DOC-00156",
+      "document_type": "invoice",
+      "supplier": "Supplier 26",
+      "amount_gbp": 73889.05,
+      "invoice_number": "INV-00156",
+      "po_number": null,
+      "effective_date": "2026-10-21",
+      "confidence": 0.99
+    },
+    "classification": {
+      "category": "standard_finance",
+      "priority": "low",
+      "rationale": "Routine structured finance document.",
+      "confidence": 0.94
+    },
+    "decision": "auto_process",
+    "validation_errors": [],
+    "estimated_cost_usd": 0.002476,
+    "latency_ms": 1
+  },
+  {
+    "document_id": "DOC-00157",
+    "extracted": {
+      "document_id": "DOC-00157",
+      "document_type": "invoice",
+      "supplier": "Supplier 10",
+      "amount_gbp": 22592.34,
+      "invoice_number": "INV-00157",
+      "po_number": null,
+      "effective_date": "2026-10-10",
+      "confidence": 0.99
+    },
+    "classification": {
+      "category": "standard_finance",
+      "priority": "low",
+      "rationale": "Routine structured finance document.",
+      "confidence": 0.94
+    },
+    "decision": "auto_process",
+    "validation_errors": [],
+    "estimated_cost_usd": 0.002476,
+    "latency_ms": 1
+  },
+  {
+    "document_id": "DOC-00158",
+    "extracted": {
+      "document_id": "DOC-00158",
+      "document_type": "invoice",
+      "supplier": "Supplier 16",
+      "amount_gbp": 17988.12,
+      "invoice_number": "INV-00158",
+      "po_number": null,
+      "effective_date": "2026-07-20",
+      "confidence": 0.99
+    },
+    "classification": {
+      "category": "standard_finance",
+      "priority": "low",
+      "rationale": "Routine structured finance document.",
+      "confidence": 0.94
+    },
+    "decision": "auto_process",
+    "validation_errors": [],
+    "estimated_cost_usd": 0.002476,
+    "latency_ms": 1
+  },
+  {
+    "document_id": "DOC-00159",
+    "extracted": {
+      "document_id": "DOC-00159",
+      "document_type": "invoice",
+      "supplier": "Supplier 34",
+      "amount_gbp": 57211.61,
+      "invoice_number": "INV-00159",
+      "po_number": null,
+      "effective_date": "2026-08-10",
+      "confidence": 0.99
+    },
+    "classification": {
+      "category": "standard_finance",
+      "priority": "low",
+      "rationale": "Routine structured finance document.",
+      "confidence": 0.94
+    },
+    "decision": "auto_process",
+    "validation_errors": [],
+    "estimated_cost_usd": 0.002476,
+    "latency_ms": 1
+  },
+  {
+    "document_id": "DOC-00160",
+    "extracted": {
+      "document_id": "DOC-00160",
+      "document_type": "contract",
+      "supplier": "Supplier 20",
+      "amount_gbp": 85402.26,
+      "invoice_number": null,
+      "po_number": null,
+      "effective_date": "2026-01-20",
+      "confidence": 0.895
+    },
+    "classification": {
+      "category": "legal_commercial",
+      "priority": "medium",
+      "rationale": "Contract-like content should follow commercial review.",
+      "confidence": 0.9
+    },
+    "decision": "auto_process",
+    "validation_errors": [],
+    "estimated_cost_usd": 0.002477,
+    "latency_ms": 1
+  },
+  {
+    "document_id": "DOC-00161",
+    "extracted": {
+      "document_id": "DOC-00161",
+      "document_type": "invoice",
+      "supplier": "Supplier 14",
+      "amount_gbp": 93920.88,
+      "invoice_number": "INV-00161",
+      "po_number": null,
+      "effective_date": "2026-05-22",
+      "confidence": 0.99
+    },
+    "classification": {
+      "category": "standard_finance",
+      "priority": "low",
+      "rationale": "Routine structured finance document.",
+      "confidence": 0.94
+    },
+    "decision": "auto_process",
+    "validation_errors": [],
+    "estimated_cost_usd": 0.002476,
+    "latency_ms": 1
+  },
+  {
+    "document_id": "DOC-00162",
+    "extracted": {
+      "document_id": "DOC-00162",
+      "document_type": "invoice",
+      "supplier": "Supplier 11",
+      "amount_gbp": 36169.81,
+      "invoice_number": "INV-00162",
+      "po_number": null,
+      "effective_date": "2026-09-03",
+      "confidence": 0.99
+    },
+    "classification": {
+      "category": "standard_finance",
+      "priority": "low",
+      "rationale": "Routine structured finance document.",
+      "confidence": 0.94
+    },
+    "decision": "auto_process",
+    "validation_errors": [],
+    "estimated_cost_usd": 0.002476,
+    "latency_ms": 1
+  },
+  {
+    "document_id": "DOC-00163",
+    "extracted": {
+      "document_id": "DOC-00163",
+      "document_type": "invoice",
+      "supplier": "Supplier 01",
+      "amount_gbp": 61425.51,
+      "invoice_number": "INV-00163",
+      "po_number": null,
+      "effective_date": "2026-12-20",
+      "confidence": 0.99
+    },
+    "classification": {
+      "category": "standard_finance",
+      "priority": "low",
+      "rationale": "Routine structured finance document.",
+      "confidence": 0.94
+    },
+    "decision": "auto_process",
+    "validation_errors": [],
+    "estimated_cost_usd": 0.002476,
+    "latency_ms": 1
+  },
+  {
+    "document_id": "DOC-00164",
+    "extracted": {
+      "document_id": "DOC-00164",
+      "document_type": "contract",
+      "supplier": "Supplier 19",
+      "amount_gbp": 5137.82,
+      "invoice_number": null,
+      "po_number": null,
+      "effective_date": "2026-05-23",
+      "confidence": 0.895
+    },
+    "classification": {
+      "category": "legal_commercial",
+      "priority": "medium",
+      "rationale": "Contract-like content should follow commercial review.",
+      "confidence": 0.9
+    },
+    "decision": "auto_process",
+    "validation_errors": [],
+    "estimated_cost_usd": 0.002477,
+    "latency_ms": 1
+  },
+  {
+    "document_id": "DOC-00165",
+    "extracted": {
+      "document_id": "DOC-00165",
+      "document_type": "purchase_order",
+      "supplier": "Supplier 30",
+      "amount_gbp": 10909.17,
+      "invoice_number": null,
+      "po_number": "PO-00165",
+      "effective_date": "2026-04-09",
+      "confidence": 0.99
+    },
+    "classification": {
+      "category": "standard_finance",
+      "priority": "low",
+      "rationale": "Routine structured finance document.",
+      "confidence": 0.94
+    },
+    "decision": "auto_process",
+    "validation_errors": [],
+    "estimated_cost_usd": 0.002476,
+    "latency_ms": 1
+  },
+  {
+    "document_id": "DOC-00166",
+    "extracted": {
+      "document_id": "DOC-00166",
+      "document_type": "invoice",
+      "supplier": "Supplier 28",
+      "amount_gbp": 17437.75,
+      "invoice_number": "INV-00166",
+      "po_number": null,
+      "effective_date": "2026-04-21",
+      "confidence": 0.99
+    },
+    "classification": {
+      "category": "standard_finance",
+      "priority": "low",
+      "rationale": "Routine structured finance document.",
+      "confidence": 0.94
+    },
+    "decision": "auto_process",
+    "validation_errors": [],
+    "estimated_cost_usd": 0.002476,
+    "latency_ms": 1
+  },
+  {
+    "document_id": "DOC-00167",
+    "extracted": {
+      "document_id": "DOC-00167",
+      "document_type": "invoice",
+      "supplier": "Supplier 18",
+      "amount_gbp": 124038.02,
+      "invoice_number": "INV-00167",
+      "po_number": null,
+      "effective_date": "2026-02-02",
+      "confidence": 0.99
+    },
+    "classification": {
+      "category": "high_value_finance",
+      "priority": "high",
+      "rationale": "High-value financial document requires tighter control.",
+      "confidence": 0.93
+    },
+    "decision": "human_review",
+    "validation_errors": [],
+    "estimated_cost_usd": 0.002476,
+    "latency_ms": 1
+  },
+  {
+    "document_id": "DOC-00168",
+    "extracted": {
+      "document_id": "DOC-00168",
+      "document_type": "invoice",
+      "supplier": "Supplier 20",
+      "amount_gbp": 89357.84,
+      "invoice_number": "INV-00168",
+      "po_number": null,
+      "effective_date": "2026-10-10",
+      "confidence": 0.99
+    },
+    "classification": {
+      "category": "standard_finance",
+      "priority": "low",
+      "rationale": "Routine structured finance document.",
+      "confidence": 0.94
+    },
+    "decision": "auto_process",
+    "validation_errors": [],
+    "estimated_cost_usd": 0.002476,
+    "latency_ms": 1
+  },
+  {
+    "document_id": "DOC-00169",
+    "extracted": {
+      "document_id": "DOC-00169",
+      "document_type": "contract",
+      "supplier": "Supplier 08",
+      "amount_gbp": 70437.52,
+      "invoice_number": null,
+      "po_number": null,
+      "effective_date": "2026-05-23",
+      "confidence": 0.895
+    },
+    "classification": {
+      "category": "legal_commercial",
+      "priority": "medium",
+      "rationale": "Contract-like content should follow commercial review.",
+      "confidence": 0.9
+    },
+    "decision": "auto_process",
+    "validation_errors": [],
+    "estimated_cost_usd": 0.002477,
+    "latency_ms": 1
+  },
+  {
+    "document_id": "DOC-00170",
+    "extracted": {
+      "document_id": "DOC-00170",
+      "document_type": "contract",
+      "supplier": "Supplier 18",
+      "amount_gbp": 75195.71,
+      "invoice_number": null,
+      "po_number": null,
+      "effective_date": "2026-08-15",
+      "confidence": 0.895
+    },
+    "classification": {
+      "category": "legal_commercial",
+      "priority": "medium",
+      "rationale": "Contract-like content should follow commercial review.",
+      "confidence": 0.9
+    },
+    "decision": "auto_process",
+    "validation_errors": [],
+    "estimated_cost_usd": 0.002477,
+    "latency_ms": 1
+  },
+  {
+    "document_id": "DOC-00171",
+    "extracted": {
+      "document_id": "DOC-00171",
+      "document_type": "invoice",
+      "supplier": "Supplier 03",
+      "amount_gbp": 133441.08,
+      "invoice_number": "INV-00171",
+      "po_number": null,
+      "effective_date": "2026-12-11",
+      "confidence": 0.99
+    },
+    "classification": {
+      "category": "high_value_finance",
+      "priority": "high",
+      "rationale": "High-value financial document requires tighter control.",
+      "confidence": 0.93
+    },
+    "decision": "human_review",
+    "validation_errors": [],
+    "estimated_cost_usd": 0.002476,
+    "latency_ms": 1
+  },
+  {
+    "document_id": "DOC-00172",
+    "extracted": {
+      "document_id": "DOC-00172",
+      "document_type": "purchase_order",
+      "supplier": "Supplier 02",
+      "amount_gbp": 13926.2,
+      "invoice_number": null,
+      "po_number": "PO-00172",
+      "effective_date": "2026-11-27",
+      "confidence": 0.99
+    },
+    "classification": {
+      "category": "standard_finance",
+      "priority": "low",
+      "rationale": "Routine structured finance document.",
+      "confidence": 0.94
+    },
+    "decision": "auto_process",
+    "validation_errors": [],
+    "estimated_cost_usd": 0.002476,
+    "latency_ms": 1
+  },
+  {
+    "document_id": "DOC-00173",
+    "extracted": {
+      "document_id": "DOC-00173",
+      "document_type": "invoice",
+      "supplier": "Supplier 18",
+      "amount_gbp": 86542.99,
+      "invoice_number": "INV-00173",
+      "po_number": null,
+      "effective_date": "2026-03-16",
+      "confidence": 0.99
+    },
+    "classification": {
+      "category": "standard_finance",
+      "priority": "low",
+      "rationale": "Routine structured finance document.",
+      "confidence": 0.94
+    },
+    "decision": "auto_process",
+    "validation_errors": [],
+    "estimated_cost_usd": 0.002476,
+    "latency_ms": 1
+  },
+  {
+    "document_id": "DOC-00174",
+    "extracted": {
+      "document_id": "DOC-00174",
+      "document_type": "contract",
+      "supplier": "Supplier 18",
+      "amount_gbp": 27428.0,
+      "invoice_number": null,
+      "po_number": null,
+      "effective_date": "2026-10-14",
+      "confidence": 0.895
+    },
+    "classification": {
+      "category": "legal_commercial",
+      "priority": "medium",
+      "rationale": "Contract-like content should follow commercial review.",
+      "confidence": 0.9
+    },
+    "decision": "auto_process",
+    "validation_errors": [],
+    "estimated_cost_usd": 0.002477,
+    "latency_ms": 1
+  },
+  {
+    "document_id": "DOC-00175",
+    "extracted": {
+      "document_id": "DOC-00175",
+      "document_type": "contract",
+      "supplier": "Supplier 06",
+      "amount_gbp": 70634.06,
+      "invoice_number": null,
+      "po_number": null,
+      "effective_date": "2026-07-11",
+      "confidence": 0.895
+    },
+    "classification": {
+      "category": "legal_commercial",
+      "priority": "medium",
+      "rationale": "Contract-like content should follow commercial review.",
+      "confidence": 0.9
+    },
+    "decision": "auto_process",
+    "validation_errors": [],
+    "estimated_cost_usd": 0.002477,
+    "latency_ms": 1
+  },
+  {
+    "document_id": "DOC-00176",
+    "extracted": {
+      "document_id": "DOC-00176",
+      "document_type": "purchase_order",
+      "supplier": "Supplier 07",
+      "amount_gbp": 128695.53,
+      "invoice_number": null,
+      "po_number": "PO-00176",
+      "effective_date": "2026-06-14",
+      "confidence": 0.99
+    },
+    "classification": {
+      "category": "high_value_finance",
+      "priority": "high",
+      "rationale": "High-value financial document requires tighter control.",
+      "confidence": 0.93
+    },
+    "decision": "human_review",
+    "validation_errors": [],
+    "estimated_cost_usd": 0.002476,
+    "latency_ms": 1
+  },
+  {
+    "document_id": "DOC-00177",
+    "extracted": {
+      "document_id": "DOC-00177",
+      "document_type": "contract",
+      "supplier": "Supplier 19",
+      "amount_gbp": 99471.88,
+      "invoice_number": null,
+      "po_number": null,
+      "effective_date": "2026-07-27",
+      "confidence": 0.895
+    },
+    "classification": {
+      "category": "legal_commercial",
+      "priority": "medium",
+      "rationale": "Contract-like content should follow commercial review.",
+      "confidence": 0.9
+    },
+    "decision": "auto_process",
+    "validation_errors": [],
+    "estimated_cost_usd": 0.002477,
+    "latency_ms": 1
+  },
+  {
+    "document_id": "DOC-00178",
+    "extracted": {
+      "document_id": "DOC-00178",
+      "document_type": "invoice",
+      "supplier": "Supplier 30",
+      "amount_gbp": 13436.95,
+      "invoice_number": "INV-00178",
+      "po_number": null,
+      "effective_date": "2026-05-11",
+      "confidence": 0.99
+    },
+    "classification": {
+      "category": "standard_finance",
+      "priority": "low",
+      "rationale": "Routine structured finance document.",
+      "confidence": 0.94
+    },
+    "decision": "auto_process",
+    "validation_errors": [],
+    "estimated_cost_usd": 0.002476,
+    "latency_ms": 1
+  },
+  {
+    "document_id": "DOC-00179",
+    "extracted": {
+      "document_id": "DOC-00179",
+      "document_type": "invoice",
+      "supplier": "Supplier 26",
+      "amount_gbp": 129770.36,
+      "invoice_number": "INV-00179",
+      "po_number": null,
+      "effective_date": "2026-01-22",
+      "confidence": 0.99
+    },
+    "classification": {
+      "category": "high_value_finance",
+      "priority": "high",
+      "rationale": "High-value financial document requires tighter control.",
+      "confidence": 0.93
+    },
+    "decision": "human_review",
+    "validation_errors": [],
+    "estimated_cost_usd": 0.002476,
+    "latency_ms": 1
+  },
+  {
+    "document_id": "DOC-00180",
+    "extracted": {
+      "document_id": "DOC-00180",
+      "document_type": "contract",
+      "supplier": "Supplier 27",
+      "amount_gbp": 8367.06,
+      "invoice_number": null,
+      "po_number": null,
+      "effective_date": "2026-09-12",
+      "confidence": 0.895
+    },
+    "classification": {
+      "category": "legal_commercial",
+      "priority": "medium",
+      "rationale": "Contract-like content should follow commercial review.",
+      "confidence": 0.9
+    },
+    "decision": "auto_process",
+    "validation_errors": [],
+    "estimated_cost_usd": 0.002477,
+    "latency_ms": 1
+  },
+  {
+    "document_id": "DOC-00181",
+    "extracted": {
+      "document_id": "DOC-00181",
+      "document_type": "contract",
+      "supplier": "Supplier 29",
+      "amount_gbp": 114058.58,
+      "invoice_number": null,
+      "po_number": null,
+      "effective_date": "2026-04-09",
+      "confidence": 0.895
+    },
+    "classification": {
+      "category": "high_value_finance",
+      "priority": "high",
+      "rationale": "High-value financial document requires tighter control.",
+      "confidence": 0.93
+    },
+    "decision": "human_review",
+    "validation_errors": [],
+    "estimated_cost_usd": 0.002478,
+    "latency_ms": 1
+  },
+  {
+    "document_id": "DOC-00182",
+    "extracted": {
+      "document_id": "DOC-00182",
+      "document_type": "invoice",
+      "supplier": "Supplier 19",
+      "amount_gbp": 65857.89,
+      "invoice_number": "INV-00182",
+      "po_number": null,
+      "effective_date": "2026-12-16",
+      "confidence": 0.99
+    },
+    "classification": {
+      "category": "standard_finance",
+      "priority": "low",
+      "rationale": "Routine structured finance document.",
+      "confidence": 0.94
+    },
+    "decision": "auto_process",
+    "validation_errors": [],
+    "estimated_cost_usd": 0.002476,
+    "latency_ms": 1
+  },
+  {
+    "document_id": "DOC-00183",
+    "extracted": {
+      "document_id": "DOC-00183",
+      "document_type": "invoice",
+      "supplier": "Supplier 02",
+      "amount_gbp": 145978.74,
+      "invoice_number": "INV-00183",
+      "po_number": null,
+      "effective_date": "2026-10-26",
+      "confidence": 0.99
+    },
+    "classification": {
+      "category": "high_value_finance",
+      "priority": "high",
+      "rationale": "High-value financial document requires tighter control.",
+      "confidence": 0.93
+    },
+    "decision": "human_review",
+    "validation_errors": [],
+    "estimated_cost_usd": 0.002476,
+    "latency_ms": 1
+  },
+  {
+    "document_id": "DOC-00184",
+    "extracted": {
+      "document_id": "DOC-00184",
+      "document_type": "invoice",
+      "supplier": "Supplier 11",
+      "amount_gbp": 46784.83,
+      "invoice_number": "INV-00184",
+      "po_number": null,
+      "effective_date": "2026-01-18",
+      "confidence": 0.99
+    },
+    "classification": {
+      "category": "standard_finance",
+      "priority": "low",
+      "rationale": "Routine structured finance document.",
+      "confidence": 0.94
+    },
+    "decision": "auto_process",
+    "validation_errors": [],
+    "estimated_cost_usd": 0.002476,
+    "latency_ms": 1
+  },
+  {
+    "document_id": "DOC-00185",
+    "extracted": {
+      "document_id": "DOC-00185",
+      "document_type": "contract",
+      "supplier": "Supplier 06",
+      "amount_gbp": 33898.92,
+      "invoice_number": null,
+      "po_number": null,
+      "effective_date": "2026-02-15",
+      "confidence": 0.895
+    },
+    "classification": {
+      "category": "legal_commercial",
+      "priority": "medium",
+      "rationale": "Contract-like content should follow commercial review.",
+      "confidence": 0.9
+    },
+    "decision": "auto_process",
+    "validation_errors": [],
+    "estimated_cost_usd": 0.002477,
+    "latency_ms": 1
+  },
+  {
+    "document_id": "DOC-00186",
+    "extracted": {
+      "document_id": "DOC-00186",
+      "document_type": "invoice",
+      "supplier": "Supplier 10",
+      "amount_gbp": 74881.73,
+      "invoice_number": "INV-00186",
+      "po_number": null,
+      "effective_date": "2026-12-10",
+      "confidence": 0.99
+    },
+    "classification": {
+      "category": "standard_finance",
+      "priority": "low",
+      "rationale": "Routine structured finance document.",
+      "confidence": 0.94
+    },
+    "decision": "auto_process",
+    "validation_errors": [],
+    "estimated_cost_usd": 0.002476,
+    "latency_ms": 1
+  },
+  {
+    "document_id": "DOC-00187",
+    "extracted": {
+      "document_id": "DOC-00187",
+      "document_type": "purchase_order",
+      "supplier": "Supplier 27",
+      "amount_gbp": 125249.91,
+      "invoice_number": null,
+      "po_number": "PO-00187",
+      "effective_date": "2026-08-08",
+      "confidence": 0.99
+    },
+    "classification": {
+      "category": "high_value_finance",
+      "priority": "high",
+      "rationale": "High-value financial document requires tighter control.",
+      "confidence": 0.93
+    },
+    "decision": "human_review",
+    "validation_errors": [],
+    "estimated_cost_usd": 0.002476,
+    "latency_ms": 1
+  },
+  {
+    "document_id": "DOC-00188",
+    "extracted": {
+      "document_id": "DOC-00188",
+      "document_type": "contract",
+      "supplier": "Supplier 10",
+      "amount_gbp": 57692.01,
+      "invoice_number": null,
+      "po_number": null,
+      "effective_date": "2026-10-17",
+      "confidence": 0.895
+    },
+    "classification": {
+      "category": "legal_commercial",
+      "priority": "medium",
+      "rationale": "Contract-like content should follow commercial review.",
+      "confidence": 0.9
+    },
+    "decision": "auto_process",
+    "validation_errors": [],
+    "estimated_cost_usd": 0.002477,
+    "latency_ms": 1
+  },
+  {
+    "document_id": "DOC-00189",
+    "extracted": {
+      "document_id": "DOC-00189",
+      "document_type": "invoice",
+      "supplier": "Supplier 05",
+      "amount_gbp": 41618.05,
+      "invoice_number": "INV-00189",
+      "po_number": null,
+      "effective_date": "2026-07-11",
+      "confidence": 0.99
+    },
+    "classification": {
+      "category": "standard_finance",
+      "priority": "low",
+      "rationale": "Routine structured finance document.",
+      "confidence": 0.94
+    },
+    "decision": "auto_process",
+    "validation_errors": [],
+    "estimated_cost_usd": 0.002476,
+    "latency_ms": 1
+  },
+  {
+    "document_id": "DOC-00190",
+    "extracted": {
+      "document_id": "DOC-00190",
+      "document_type": "purchase_order",
+      "supplier": "Supplier 01",
+      "amount_gbp": 42605.14,
+      "invoice_number": null,
+      "po_number": "PO-00190",
+      "effective_date": "2026-05-27",
+      "confidence": 0.99
+    },
+    "classification": {
+      "category": "standard_finance",
+      "priority": "low",
+      "rationale": "Routine structured finance document.",
+      "confidence": 0.94
+    },
+    "decision": "auto_process",
+    "validation_errors": [],
+    "estimated_cost_usd": 0.002476,
+    "latency_ms": 1
+  },
+  {
+    "document_id": "DOC-00191",
+    "extracted": {
+      "document_id": "DOC-00191",
+      "document_type": "contract",
+      "supplier": "Supplier 10",
+      "amount_gbp": 67120.47,
+      "invoice_number": null,
+      "po_number": null,
+      "effective_date": "2026-08-12",
+      "confidence": 0.895
+    },
+    "classification": {
+      "category": "legal_commercial",
+      "priority": "medium",
+      "rationale": "Contract-like content should follow commercial review.",
+      "confidence": 0.9
+    },
+    "decision": "auto_process",
+    "validation_errors": [],
+    "estimated_cost_usd": 0.002477,
+    "latency_ms": 1
+  },
+  {
+    "document_id": "DOC-00192",
+    "extracted": {
+      "document_id": "DOC-00192",
+      "document_type": "purchase_order",
+      "supplier": "Supplier 35",
+      "amount_gbp": 56737.21,
+      "invoice_number": null,
+      "po_number": "PO-00192",
+      "effective_date": "2026-06-28",
+      "confidence": 0.99
+    },
+    "classification": {
+      "category": "standard_finance",
+      "priority": "low",
+      "rationale": "Routine structured finance document.",
+      "confidence": 0.94
+    },
+    "decision": "auto_process",
+    "validation_errors": [],
+    "estimated_cost_usd": 0.002476,
+    "latency_ms": 1
+  },
+  {
+    "document_id": "DOC-00193",
+    "extracted": {
+      "document_id": "DOC-00193",
+      "document_type": "invoice",
+      "supplier": "Supplier 16",
+      "amount_gbp": 85876.7,
+      "invoice_number": "INV-00193",
+      "po_number": null,
+      "effective_date": "2026-04-28",
+      "confidence": 0.99
+    },
+    "classification": {
+      "category": "standard_finance",
+      "priority": "low",
+      "rationale": "Routine structured finance document.",
+      "confidence": 0.94
+    },
+    "decision": "auto_process",
+    "validation_errors": [],
+    "estimated_cost_usd": 0.002476,
+    "latency_ms": 1
+  },
+  {
+    "document_id": "DOC-00194",
+    "extracted": {
+      "document_id": "DOC-00194",
+      "document_type": "contract",
+      "supplier": "Supplier 03",
+      "amount_gbp": 47896.91,
+      "invoice_number": null,
+      "po_number": null,
+      "effective_date": "2026-08-23",
+      "confidence": 0.895
+    },
+    "classification": {
+      "category": "legal_commercial",
+      "priority": "medium",
+      "rationale": "Contract-like content should follow commercial review.",
+      "confidence": 0.9
+    },
+    "decision": "auto_process",
+    "validation_errors": [],
+    "estimated_cost_usd": 0.002477,
+    "latency_ms": 1
+  },
+  {
+    "document_id": "DOC-00195",
+    "extracted": {
+      "document_id": "DOC-00195",
+      "document_type": "contract",
+      "supplier": "Supplier 25",
+      "amount_gbp": 148265.0,
+      "invoice_number": null,
+      "po_number": null,
+      "effective_date": "2026-11-05",
+      "confidence": 0.895
+    },
+    "classification": {
+      "category": "high_value_finance",
+      "priority": "high",
+      "rationale": "High-value financial document requires tighter control.",
+      "confidence": 0.93
+    },
+    "decision": "human_review",
+    "validation_errors": [],
+    "estimated_cost_usd": 0.002478,
+    "latency_ms": 1
+  },
+  {
+    "document_id": "DOC-00196",
+    "extracted": {
+      "document_id": "DOC-00196",
+      "document_type": "contract",
+      "supplier": "Supplier 03",
+      "amount_gbp": 19155.38,
+      "invoice_number": null,
+      "po_number": null,
+      "effective_date": "2026-10-11",
+      "confidence": 0.895
+    },
+    "classification": {
+      "category": "legal_commercial",
+      "priority": "medium",
+      "rationale": "Contract-like content should follow commercial review.",
+      "confidence": 0.9
+    },
+    "decision": "auto_process",
+    "validation_errors": [],
+    "estimated_cost_usd": 0.002477,
+    "latency_ms": 1
+  },
+  {
+    "document_id": "DOC-00197",
+    "extracted": {
+      "document_id": "DOC-00197",
+      "document_type": "invoice",
+      "supplier": "Supplier 29",
+      "amount_gbp": 15181.83,
+      "invoice_number": "INV-00197",
+      "po_number": null,
+      "effective_date": "2026-08-01",
+      "confidence": 0.99
+    },
+    "classification": {
+      "category": "standard_finance",
+      "priority": "low",
+      "rationale": "Routine structured finance document.",
+      "confidence": 0.94
+    },
+    "decision": "auto_process",
+    "validation_errors": [],
+    "estimated_cost_usd": 0.002476,
+    "latency_ms": 1
+  },
+  {
+    "document_id": "DOC-00198",
+    "extracted": {
+      "document_id": "DOC-00198",
+      "document_type": "invoice",
+      "supplier": "Supplier 27",
+      "amount_gbp": 130672.21,
+      "invoice_number": "INV-00198",
+      "po_number": null,
+      "effective_date": "2026-03-03",
+      "confidence": 0.99
+    },
+    "classification": {
+      "category": "high_value_finance",
+      "priority": "high",
+      "rationale": "High-value financial document requires tighter control.",
+      "confidence": 0.93
+    },
+    "decision": "human_review",
+    "validation_errors": [],
+    "estimated_cost_usd": 0.002476,
+    "latency_ms": 1
+  },
+  {
+    "document_id": "DOC-00199",
+    "extracted": {
+      "document_id": "DOC-00199",
+      "document_type": "contract",
+      "supplier": "Supplier 17",
+      "amount_gbp": 50949.54,
+      "invoice_number": null,
+      "po_number": null,
+      "effective_date": "2026-12-13",
+      "confidence": 0.895
+    },
+    "classification": {
+      "category": "legal_commercial",
+      "priority": "medium",
+      "rationale": "Contract-like content should follow commercial review.",
+      "confidence": 0.9
+    },
+    "decision": "auto_process",
+    "validation_errors": [],
+    "estimated_cost_usd": 0.002477,
+    "latency_ms": 1
+  },
+  {
+    "document_id": "DOC-00200",
+    "extracted": {
+      "document_id": "DOC-00200",
+      "document_type": "invoice",
+      "supplier": "Supplier 22",
+      "amount_gbp": 127888.12,
+      "invoice_number": "INV-00200",
+      "po_number": null,
+      "effective_date": "2026-09-13",
+      "confidence": 0.99
+    },
+    "classification": {
+      "category": "high_value_finance",
+      "priority": "high",
+      "rationale": "High-value financial document requires tighter control.",
+      "confidence": 0.93
+    },
+    "decision": "human_review",
+    "validation_errors": [],
+    "estimated_cost_usd": 0.002476,
+    "latency_ms": 1
+  },
+  {
+    "document_id": "DOC-00201",
+    "extracted": {
+      "document_id": "DOC-00201",
+      "document_type": "purchase_order",
+      "supplier": "Supplier 32",
+      "amount_gbp": 130889.36,
+      "invoice_number": null,
+      "po_number": "PO-00201",
+      "effective_date": "2026-01-20",
+      "confidence": 0.99
+    },
+    "classification": {
+      "category": "high_value_finance",
+      "priority": "high",
+      "rationale": "High-value financial document requires tighter control.",
+      "confidence": 0.93
+    },
+    "decision": "human_review",
+    "validation_errors": [],
+    "estimated_cost_usd": 0.002476,
+    "latency_ms": 1
+  },
+  {
+    "document_id": "DOC-00202",
+    "extracted": {
+      "document_id": "DOC-00202",
+      "document_type": "invoice",
+      "supplier": "Supplier 16",
+      "amount_gbp": 94766.36,
+      "invoice_number": "INV-00202",
+      "po_number": null,
+      "effective_date": "2026-05-08",
+      "confidence": 0.99
+    },
+    "classification": {
+      "category": "standard_finance",
+      "priority": "low",
+      "rationale": "Routine structured finance document.",
+      "confidence": 0.94
+    },
+    "decision": "auto_process",
+    "validation_errors": [],
+    "estimated_cost_usd": 0.002476,
+    "latency_ms": 1
+  },
+  {
+    "document_id": "DOC-00203",
+    "extracted": {
+      "document_id": "DOC-00203",
+      "document_type": "invoice",
+      "supplier": "Supplier 28",
+      "amount_gbp": 146756.07,
+      "invoice_number": "INV-00203",
+      "po_number": null,
+      "effective_date": "2026-11-23",
+      "confidence": 0.99
+    },
+    "classification": {
+      "category": "high_value_finance",
+      "priority": "high",
+      "rationale": "High-value financial document requires tighter control.",
+      "confidence": 0.93
+    },
+    "decision": "human_review",
+    "validation_errors": [],
+    "estimated_cost_usd": 0.002476,
+    "latency_ms": 1
+  },
+  {
+    "document_id": "DOC-00204",
+    "extracted": {
+      "document_id": "DOC-00204",
+      "document_type": "invoice",
+      "supplier": "Supplier 29",
+      "amount_gbp": 25163.13,
+      "invoice_number": "INV-00204",
+      "po_number": null,
+      "effective_date": "2026-05-01",
+      "confidence": 0.99
+    },
+    "classification": {
+      "category": "standard_finance",
+      "priority": "low",
+      "rationale": "Routine structured finance document.",
+      "confidence": 0.94
+    },
+    "decision": "auto_process",
+    "validation_errors": [],
+    "estimated_cost_usd": 0.002476,
+    "latency_ms": 1
+  },
+  {
+    "document_id": "DOC-00205",
+    "extracted": {
+      "document_id": "DOC-00205",
+      "document_type": "invoice",
+      "supplier": "Supplier 21",
+      "amount_gbp": 119472.48,
+      "invoice_number": "INV-00205",
+      "po_number": null,
+      "effective_date": "2026-05-12",
+      "confidence": 0.99
+    },
+    "classification": {
+      "category": "high_value_finance",
+      "priority": "high",
+      "rationale": "High-value financial document requires tighter control.",
+      "confidence": 0.93
+    },
+    "decision": "human_review",
+    "validation_errors": [],
+    "estimated_cost_usd": 0.002476,
+    "latency_ms": 1
+  },
+  {
+    "document_id": "DOC-00206",
+    "extracted": {
+      "document_id": "DOC-00206",
+      "document_type": "purchase_order",
+      "supplier": "Supplier 28",
+      "amount_gbp": 22049.08,
+      "invoice_number": null,
+      "po_number": "PO-00206",
+      "effective_date": "2026-09-14",
+      "confidence": 0.99
+    },
+    "classification": {
+      "category": "standard_finance",
+      "priority": "low",
+      "rationale": "Routine structured finance document.",
+      "confidence": 0.94
+    },
+    "decision": "auto_process",
+    "validation_errors": [],
+    "estimated_cost_usd": 0.002476,
+    "latency_ms": 1
+  },
+  {
+    "document_id": "DOC-00207",
+    "extracted": {
+      "document_id": "DOC-00207",
+      "document_type": "invoice",
+      "supplier": "Supplier 11",
+      "amount_gbp": 26466.64,
+      "invoice_number": "INV-00207",
+      "po_number": null,
+      "effective_date": "2026-10-28",
+      "confidence": 0.99
+    },
+    "classification": {
+      "category": "standard_finance",
+      "priority": "low",
+      "rationale": "Routine structured finance document.",
+      "confidence": 0.94
+    },
+    "decision": "auto_process",
+    "validation_errors": [],
+    "estimated_cost_usd": 0.002476,
+    "latency_ms": 1
+  },
+  {
+    "document_id": "DOC-00208",
+    "extracted": {
+      "document_id": "DOC-00208",
+      "document_type": "contract",
+      "supplier": "Supplier 16",
+      "amount_gbp": 74775.67,
+      "invoice_number": null,
+      "po_number": null,
+      "effective_date": "2026-10-05",
+      "confidence": 0.895
+    },
+    "classification": {
+      "category": "legal_commercial",
+      "priority": "medium",
+      "rationale": "Contract-like content should follow commercial review.",
+      "confidence": 0.9
+    },
+    "decision": "auto_process",
+    "validation_errors": [],
+    "estimated_cost_usd": 0.002477,
+    "latency_ms": 1
+  },
+  {
+    "document_id": "DOC-00209",
+    "extracted": {
+      "document_id": "DOC-00209",
+      "document_type": "invoice",
+      "supplier": "Supplier 30",
+      "amount_gbp": 95776.22,
+      "invoice_number": "INV-00209",
+      "po_number": null,
+      "effective_date": "2026-08-09",
+      "confidence": 0.99
+    },
+    "classification": {
+      "category": "standard_finance",
+      "priority": "low",
+      "rationale": "Routine structured finance document.",
+      "confidence": 0.94
+    },
+    "decision": "auto_process",
+    "validation_errors": [],
+    "estimated_cost_usd": 0.002476,
+    "latency_ms": 1
+  },
+  {
+    "document_id": "DOC-00210",
+    "extracted": {
+      "document_id": "DOC-00210",
+      "document_type": "invoice",
+      "supplier": "Supplier 30",
+      "amount_gbp": 135206.11,
+      "invoice_number": "INV-00210",
+      "po_number": null,
+      "effective_date": "2026-11-18",
+      "confidence": 0.99
+    },
+    "classification": {
+      "category": "high_value_finance",
+      "priority": "high",
+      "rationale": "High-value financial document requires tighter control.",
+      "confidence": 0.93
+    },
+    "decision": "human_review",
+    "validation_errors": [],
+    "estimated_cost_usd": 0.002476,
+    "latency_ms": 1
+  },
+  {
+    "document_id": "DOC-00211",
+    "extracted": {
+      "document_id": "DOC-00211",
+      "document_type": "invoice",
+      "supplier": "Supplier 05",
+      "amount_gbp": 66399.04,
+      "invoice_number": "INV-00211",
+      "po_number": null,
+      "effective_date": "2026-06-19",
+      "confidence": 0.99
+    },
+    "classification": {
+      "category": "standard_finance",
+      "priority": "low",
+      "rationale": "Routine structured finance document.",
+      "confidence": 0.94
+    },
+    "decision": "auto_process",
+    "validation_errors": [],
+    "estimated_cost_usd": 0.002476,
+    "latency_ms": 1
+  },
+  {
+    "document_id": "DOC-00212",
+    "extracted": {
+      "document_id": "DOC-00212",
+      "document_type": "purchase_order",
+      "supplier": "Supplier 28",
+      "amount_gbp": 103624.45,
+      "invoice_number": null,
+      "po_number": "PO-00212",
+      "effective_date": "2026-08-28",
+      "confidence": 0.99
+    },
+    "classification": {
+      "category": "high_value_finance",
+      "priority": "high",
+      "rationale": "High-value financial document requires tighter control.",
+      "confidence": 0.93
+    },
+    "decision": "human_review",
+    "validation_errors": [],
+    "estimated_cost_usd": 0.002476,
+    "latency_ms": 1
+  },
+  {
+    "document_id": "DOC-00213",
+    "extracted": {
+      "document_id": "DOC-00213",
+      "document_type": "purchase_order",
+      "supplier": "Supplier 13",
+      "amount_gbp": 149906.19,
+      "invoice_number": null,
+      "po_number": "PO-00213",
+      "effective_date": "2026-08-04",
+      "confidence": 0.99
+    },
+    "classification": {
+      "category": "high_value_finance",
+      "priority": "high",
+      "rationale": "High-value financial document requires tighter control.",
+      "confidence": 0.93
+    },
+    "decision": "human_review",
+    "validation_errors": [],
+    "estimated_cost_usd": 0.002476,
+    "latency_ms": 1
+  },
+  {
+    "document_id": "DOC-00214",
+    "extracted": {
+      "document_id": "DOC-00214",
+      "document_type": "invoice",
+      "supplier": "Supplier 25",
+      "amount_gbp": 85895.42,
+      "invoice_number": "INV-00214",
+      "po_number": null,
+      "effective_date": "2026-10-10",
+      "confidence": 0.99
+    },
+    "classification": {
+      "category": "standard_finance",
+      "priority": "low",
+      "rationale": "Routine structured finance document.",
+      "confidence": 0.94
+    },
+    "decision": "auto_process",
+    "validation_errors": [],
+    "estimated_cost_usd": 0.002476,
+    "latency_ms": 1
+  },
+  {
+    "document_id": "DOC-00215",
+    "extracted": {
+      "document_id": "DOC-00215",
+      "document_type": "purchase_order",
+      "supplier": "Supplier 02",
+      "amount_gbp": 146697.19,
+      "invoice_number": null,
+      "po_number": "PO-00215",
+      "effective_date": "2026-11-13",
+      "confidence": 0.99
+    },
+    "classification": {
+      "category": "high_value_finance",
+      "priority": "high",
+      "rationale": "High-value financial document requires tighter control.",
+      "confidence": 0.93
+    },
+    "decision": "human_review",
+    "validation_errors": [],
+    "estimated_cost_usd": 0.002476,
+    "latency_ms": 1
+  },
+  {
+    "document_id": "DOC-00216",
+    "extracted": {
+      "document_id": "DOC-00216",
+      "document_type": "purchase_order",
+      "supplier": "Supplier 01",
+      "amount_gbp": 84997.87,
+      "invoice_number": null,
+      "po_number": "PO-00216",
+      "effective_date": "2026-11-25",
+      "confidence": 0.99
+    },
+    "classification": {
+      "category": "standard_finance",
+      "priority": "low",
+      "rationale": "Routine structured finance document.",
+      "confidence": 0.94
+    },
+    "decision": "auto_process",
+    "validation_errors": [],
+    "estimated_cost_usd": 0.002476,
+    "latency_ms": 1
+  },
+  {
+    "document_id": "DOC-00217",
+    "extracted": {
+      "document_id": "DOC-00217",
+      "document_type": "invoice",
+      "supplier": "Supplier 32",
+      "amount_gbp": 124967.63,
+      "invoice_number": "INV-00217",
+      "po_number": null,
+      "effective_date": "2026-05-25",
+      "confidence": 0.99
+    },
+    "classification": {
+      "category": "high_value_finance",
+      "priority": "high",
+      "rationale": "High-value financial document requires tighter control.",
+      "confidence": 0.93
+    },
+    "decision": "human_review",
+    "validation_errors": [],
+    "estimated_cost_usd": 0.002476,
+    "latency_ms": 1
+  },
+  {
+    "document_id": "DOC-00218",
+    "extracted": {
+      "document_id": "DOC-00218",
+      "document_type": "invoice",
+      "supplier": "Supplier 23",
+      "amount_gbp": 33045.93,
+      "invoice_number": "INV-00218",
+      "po_number": null,
+      "effective_date": "2026-04-20",
+      "confidence": 0.99
+    },
+    "classification": {
+      "category": "standard_finance",
+      "priority": "low",
+      "rationale": "Routine structured finance document.",
+      "confidence": 0.94
+    },
+    "decision": "auto_process",
+    "validation_errors": [],
+    "estimated_cost_usd": 0.002476,
+    "latency_ms": 1
+  },
+  {
+    "document_id": "DOC-00219",
+    "extracted": {
+      "document_id": "DOC-00219",
+      "document_type": "purchase_order",
+      "supplier": "Supplier 09",
+      "amount_gbp": 94330.15,
+      "invoice_number": null,
+      "po_number": "PO-00219",
+      "effective_date": "2026-11-21",
+      "confidence": 0.99
+    },
+    "classification": {
+      "category": "standard_finance",
+      "priority": "low",
+      "rationale": "Routine structured finance document.",
+      "confidence": 0.94
+    },
+    "decision": "auto_process",
+    "validation_errors": [],
+    "estimated_cost_usd": 0.002476,
+    "latency_ms": 1
+  },
+  {
+    "document_id": "DOC-00220",
+    "extracted": {
+      "document_id": "DOC-00220",
+      "document_type": "invoice",
+      "supplier": "Supplier 20",
+      "amount_gbp": 118344.42,
+      "invoice_number": "INV-00220",
+      "po_number": null,
+      "effective_date": "2026-01-19",
+      "confidence": 0.99
+    },
+    "classification": {
+      "category": "high_value_finance",
+      "priority": "high",
+      "rationale": "High-value financial document requires tighter control.",
+      "confidence": 0.93
+    },
+    "decision": "human_review",
+    "validation_errors": [],
+    "estimated_cost_usd": 0.002476,
+    "latency_ms": 1
+  },
+  {
+    "document_id": "DOC-00221",
+    "extracted": {
+      "document_id": "DOC-00221",
+      "document_type": "purchase_order",
+      "supplier": "Supplier 09",
+      "amount_gbp": 13747.47,
+      "invoice_number": null,
+      "po_number": "PO-00221",
+      "effective_date": "2026-05-11",
+      "confidence": 0.99
+    },
+    "classification": {
+      "category": "standard_finance",
+      "priority": "low",
+      "rationale": "Routine structured finance document.",
+      "confidence": 0.94
+    },
+    "decision": "auto_process",
+    "validation_errors": [],
+    "estimated_cost_usd": 0.002476,
+    "latency_ms": 1
+  },
+  {
+    "document_id": "DOC-00222",
+    "extracted": {
+      "document_id": "DOC-00222",
+      "document_type": "contract",
+      "supplier": "Supplier 12",
+      "amount_gbp": 30319.02,
+      "invoice_number": null,
+      "po_number": null,
+      "effective_date": "2026-09-12",
+      "confidence": 0.895
+    },
+    "classification": {
+      "category": "legal_commercial",
+      "priority": "medium",
+      "rationale": "Contract-like content should follow commercial review.",
+      "confidence": 0.9
+    },
+    "decision": "auto_process",
+    "validation_errors": [],
+    "estimated_cost_usd": 0.002477,
+    "latency_ms": 1
+  },
+  {
+    "document_id": "DOC-00223",
+    "extracted": {
+      "document_id": "DOC-00223",
+      "document_type": "purchase_order",
+      "supplier": "Supplier 11",
+      "amount_gbp": 38731.27,
+      "invoice_number": null,
+      "po_number": "PO-00223",
+      "effective_date": "2026-08-26",
+      "confidence": 0.99
+    },
+    "classification": {
+      "category": "standard_finance",
+      "priority": "low",
+      "rationale": "Routine structured finance document.",
+      "confidence": 0.94
+    },
+    "decision": "auto_process",
+    "validation_errors": [],
+    "estimated_cost_usd": 0.002476,
+    "latency_ms": 1
+  },
+  {
+    "document_id": "DOC-00224",
+    "extracted": {
+      "document_id": "DOC-00224",
+      "document_type": "purchase_order",
+      "supplier": "Supplier 22",
+      "amount_gbp": 120683.82,
+      "invoice_number": null,
+      "po_number": "PO-00224",
+      "effective_date": "2026-08-03",
+      "confidence": 0.99
+    },
+    "classification": {
+      "category": "high_value_finance",
+      "priority": "high",
+      "rationale": "High-value financial document requires tighter control.",
+      "confidence": 0.93
+    },
+    "decision": "human_review",
+    "validation_errors": [],
+    "estimated_cost_usd": 0.002476,
+    "latency_ms": 1
+  },
+  {
+    "document_id": "DOC-00225",
+    "extracted": {
+      "document_id": "DOC-00225",
+      "document_type": "invoice",
+      "supplier": "Supplier 15",
+      "amount_gbp": 129056.05,
+      "invoice_number": "INV-00225",
+      "po_number": null,
+      "effective_date": "2026-12-22",
+      "confidence": 0.99
+    },
+    "classification": {
+      "category": "high_value_finance",
+      "priority": "high",
+      "rationale": "High-value financial document requires tighter control.",
+      "confidence": 0.93
+    },
+    "decision": "human_review",
+    "validation_errors": [],
+    "estimated_cost_usd": 0.002476,
+    "latency_ms": 1
+  },
+  {
+    "document_id": "DOC-00226",
+    "extracted": {
+      "document_id": "DOC-00226",
+      "document_type": "contract",
+      "supplier": "Supplier 24",
+      "amount_gbp": 13772.86,
+      "invoice_number": null,
+      "po_number": null,
+      "effective_date": "2026-07-01",
+      "confidence": 0.895
+    },
+    "classification": {
+      "category": "legal_commercial",
+      "priority": "medium",
+      "rationale": "Contract-like content should follow commercial review.",
+      "confidence": 0.9
+    },
+    "decision": "auto_process",
+    "validation_errors": [],
+    "estimated_cost_usd": 0.002477,
+    "latency_ms": 1
+  },
+  {
+    "document_id": "DOC-00227",
+    "extracted": {
+      "document_id": "DOC-00227",
+      "document_type": "purchase_order",
+      "supplier": "Supplier 35",
+      "amount_gbp": 18757.41,
+      "invoice_number": null,
+      "po_number": "PO-00227",
+      "effective_date": "2026-06-22",
+      "confidence": 0.99
+    },
+    "classification": {
+      "category": "standard_finance",
+      "priority": "low",
+      "rationale": "Routine structured finance document.",
+      "confidence": 0.94
+    },
+    "decision": "auto_process",
+    "validation_errors": [],
+    "estimated_cost_usd": 0.002476,
+    "latency_ms": 1
+  },
+  {
+    "document_id": "DOC-00228",
+    "extracted": {
+      "document_id": "DOC-00228",
+      "document_type": "purchase_order",
+      "supplier": "Supplier 25",
+      "amount_gbp": 123406.99,
+      "invoice_number": null,
+      "po_number": "PO-00228",
+      "effective_date": "2026-06-04",
+      "confidence": 0.99
+    },
+    "classification": {
+      "category": "high_value_finance",
+      "priority": "high",
+      "rationale": "High-value financial document requires tighter control.",
+      "confidence": 0.93
+    },
+    "decision": "human_review",
+    "validation_errors": [],
+    "estimated_cost_usd": 0.002476,
+    "latency_ms": 1
+  },
+  {
+    "document_id": "DOC-00229",
+    "extracted": {
+      "document_id": "DOC-00229",
+      "document_type": "invoice",
+      "supplier": "Supplier 31",
+      "amount_gbp": 3997.44,
+      "invoice_number": "INV-00229",
+      "po_number": null,
+      "effective_date": "2026-09-11",
+      "confidence": 0.99
+    },
+    "classification": {
+      "category": "standard_finance",
+      "priority": "low",
+      "rationale": "Routine structured finance document.",
+      "confidence": 0.94
+    },
+    "decision": "auto_process",
+    "validation_errors": [],
+    "estimated_cost_usd": 0.002475,
+    "latency_ms": 1
+  },
+  {
+    "document_id": "DOC-00230",
+    "extracted": {
+      "document_id": "DOC-00230",
+      "document_type": "invoice",
+      "supplier": "Supplier 05",
+      "amount_gbp": 95401.74,
+      "invoice_number": "INV-00230",
+      "po_number": null,
+      "effective_date": "2026-08-23",
+      "confidence": 0.99
+    },
+    "classification": {
+      "category": "standard_finance",
+      "priority": "low",
+      "rationale": "Routine structured finance document.",
+      "confidence": 0.94
+    },
+    "decision": "auto_process",
+    "validation_errors": [],
+    "estimated_cost_usd": 0.002476,
+    "latency_ms": 1
+  },
+  {
+    "document_id": "DOC-00231",
+    "extracted": {
+      "document_id": "DOC-00231",
+      "document_type": "purchase_order",
+      "supplier": "Supplier 27",
+      "amount_gbp": 17722.22,
+      "invoice_number": null,
+      "po_number": "PO-00231",
+      "effective_date": "2026-01-02",
+      "confidence": 0.99
+    },
+    "classification": {
+      "category": "standard_finance",
+      "priority": "low",
+      "rationale": "Routine structured finance document.",
+      "confidence": 0.94
+    },
+    "decision": "auto_process",
+    "validation_errors": [],
+    "estimated_cost_usd": 0.002476,
+    "latency_ms": 1
+  },
+  {
+    "document_id": "DOC-00232",
+    "extracted": {
+      "document_id": "DOC-00232",
+      "document_type": "purchase_order",
+      "supplier": "Supplier 32",
+      "amount_gbp": 17639.04,
+      "invoice_number": null,
+      "po_number": "PO-00232",
+      "effective_date": "2026-04-18",
+      "confidence": 0.99
+    },
+    "classification": {
+      "category": "standard_finance",
+      "priority": "low",
+      "rationale": "Routine structured finance document.",
+      "confidence": 0.94
+    },
+    "decision": "auto_process",
+    "validation_errors": [],
+    "estimated_cost_usd": 0.002476,
+    "latency_ms": 1
+  },
+  {
+    "document_id": "DOC-00233",
+    "extracted": {
+      "document_id": "DOC-00233",
+      "document_type": "invoice",
+      "supplier": "Supplier 25",
+      "amount_gbp": 68183.15,
+      "invoice_number": "INV-00233",
+      "po_number": null,
+      "effective_date": "2026-11-24",
+      "confidence": 0.99
+    },
+    "classification": {
+      "category": "standard_finance",
+      "priority": "low",
+      "rationale": "Routine structured finance document.",
+      "confidence": 0.94
+    },
+    "decision": "auto_process",
+    "validation_errors": [],
+    "estimated_cost_usd": 0.002476,
+    "latency_ms": 1
+  },
+  {
+    "document_id": "DOC-00234",
+    "extracted": {
+      "document_id": "DOC-00234",
+      "document_type": "contract",
+      "supplier": "Supplier 10",
+      "amount_gbp": 132840.71,
+      "invoice_number": null,
+      "po_number": null,
+      "effective_date": "2026-11-04",
+      "confidence": 0.895
+    },
+    "classification": {
+      "category": "high_value_finance",
+      "priority": "high",
+      "rationale": "High-value financial document requires tighter control.",
+      "confidence": 0.93
+    },
+    "decision": "human_review",
+    "validation_errors": [],
+    "estimated_cost_usd": 0.002478,
+    "latency_ms": 1
+  },
+  {
+    "document_id": "DOC-00235",
+    "extracted": {
+      "document_id": "DOC-00235",
+      "document_type": "contract",
+      "supplier": "Supplier 27",
+      "amount_gbp": 140873.2,
+      "invoice_number": null,
+      "po_number": null,
+      "effective_date": "2026-05-02",
+      "confidence": 0.895
+    },
+    "classification": {
+      "category": "high_value_finance",
+      "priority": "high",
+      "rationale": "High-value financial document requires tighter control.",
+      "confidence": 0.93
+    },
+    "decision": "human_review",
+    "validation_errors": [],
+    "estimated_cost_usd": 0.002478,
+    "latency_ms": 1
+  },
+  {
+    "document_id": "DOC-00236",
+    "extracted": {
+      "document_id": "DOC-00236",
+      "document_type": "purchase_order",
+      "supplier": "Supplier 14",
+      "amount_gbp": 66646.62,
+      "invoice_number": null,
+      "po_number": "PO-00236",
+      "effective_date": "2026-04-28",
+      "confidence": 0.99
+    },
+    "classification": {
+      "category": "standard_finance",
+      "priority": "low",
+      "rationale": "Routine structured finance document.",
+      "confidence": 0.94
+    },
+    "decision": "auto_process",
+    "validation_errors": [],
+    "estimated_cost_usd": 0.002476,
+    "latency_ms": 1
+  },
+  {
+    "document_id": "DOC-00237",
+    "extracted": {
+      "document_id": "DOC-00237",
+      "document_type": "purchase_order",
+      "supplier": "Supplier 07",
+      "amount_gbp": 147143.93,
+      "invoice_number": null,
+      "po_number": "PO-00237",
+      "effective_date": "2026-06-18",
+      "confidence": 0.99
+    },
+    "classification": {
+      "category": "high_value_finance",
+      "priority": "high",
+      "rationale": "High-value financial document requires tighter control.",
+      "confidence": 0.93
+    },
+    "decision": "human_review",
+    "validation_errors": [],
+    "estimated_cost_usd": 0.002476,
+    "latency_ms": 1
+  },
+  {
+    "document_id": "DOC-00238",
+    "extracted": {
+      "document_id": "DOC-00238",
+      "document_type": "purchase_order",
+      "supplier": "Supplier 04",
+      "amount_gbp": 59871.41,
+      "invoice_number": null,
+      "po_number": "PO-00238",
+      "effective_date": "2026-04-04",
+      "confidence": 0.99
+    },
+    "classification": {
+      "category": "standard_finance",
+      "priority": "low",
+      "rationale": "Routine structured finance document.",
+      "confidence": 0.94
+    },
+    "decision": "auto_process",
+    "validation_errors": [],
+    "estimated_cost_usd": 0.002476,
+    "latency_ms": 1
+  },
+  {
+    "document_id": "DOC-00239",
+    "extracted": {
+      "document_id": "DOC-00239",
+      "document_type": "contract",
+      "supplier": "Supplier 06",
+      "amount_gbp": 99499.62,
+      "invoice_number": null,
+      "po_number": null,
+      "effective_date": "2026-11-21",
+      "confidence": 0.895
+    },
+    "classification": {
+      "category": "legal_commercial",
+      "priority": "medium",
+      "rationale": "Contract-like content should follow commercial review.",
+      "confidence": 0.9
+    },
+    "decision": "auto_process",
+    "validation_errors": [],
+    "estimated_cost_usd": 0.002477,
+    "latency_ms": 1
+  },
+  {
+    "document_id": "BAD-001",
+    "extracted": {
+      "document_id": "BAD-001",
+      "document_type": "unknown",
+      "supplier": null,
+      "amount_gbp": null,
+      "invoice_number": null,
+      "po_number": null,
+      "effective_date": null,
+      "confidence": 0.58
+    },
+    "classification": {
+      "category": "unclassified",
+      "priority": "high",
+      "rationale": "Document type is unclear.",
+      "confidence": 0.62
+    },
+    "decision": "human_review",
+    "validation_errors": [
+      "unknown_document_type",
+      "missing_supplier",
+      "low_extraction_confidence"
+    ],
+    "estimated_cost_usd": 0.002462,
+    "latency_ms": 1
+  },
+  {
+    "document_id": "BAD-002",
+    "extracted": {
+      "document_id": "BAD-002",
+      "document_type": "invoice",
+      "supplier": null,
+      "amount_gbp": 1000.0,
+      "invoice_number": "INV-BAD",
+      "po_number": null,
+      "effective_date": "2026-02-01",
+      "confidence": 0.895
+    },
+    "classification": {
+      "category": "standard_finance",
+      "priority": "low",
+      "rationale": "Routine structured finance document.",
+      "confidence": 0.94
+    },
+    "decision": "human_review",
+    "validation_errors": [
+      "missing_supplier"
+    ],
+    "estimated_cost_usd": 0.002468,
+    "latency_ms": 1
+  }
+]

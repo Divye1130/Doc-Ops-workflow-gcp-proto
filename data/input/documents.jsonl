@@ -1,0 +1,242 @@
+{"document_id": "DOC-00000", "text": "Invoice\nSupplier: Supplier 02\nInvoice Number: INV-00000\nDate: 2026-04-08\nTotal GBP 111,297.19", "source_system": "synthetic_fixture"}
+{"document_id": "DOC-00001", "text": "Invoice\nSupplier: Supplier 07\nInvoice Number: INV-00001\nDate: 2026-09-03\nTotal GBP 101,585.75", "source_system": "synthetic_fixture"}
+{"document_id": "DOC-00002", "text": "Commercial Agreement\nSupplier: Supplier 03\nEffective Date: 2026-04-08\nContract Value GBP 4,712.13", "source_system": "synthetic_fixture"}
+{"document_id": "DOC-00003", "text": "Invoice\nSupplier: Supplier 13\nInvoice Number: INV-00003\nDate: 2026-12-18\nTotal GBP 107,473.94", "source_system": "synthetic_fixture"}
+{"document_id": "DOC-00004", "text": "Commercial Agreement\nSupplier: Supplier 15\nEffective Date: 2026-05-26\nContract Value GBP 67,519.05", "source_system": "synthetic_fixture"}
+{"document_id": "DOC-00005", "text": "Invoice\nSupplier: Supplier 11\nInvoice Number: INV-00005\nDate: 2026-06-09\nTotal GBP 104,796.37", "source_system": "synthetic_fixture"}
+{"document_id": "DOC-00006", "text": "Invoice\nSupplier: Supplier 14\nInvoice Number: INV-00006\nDate: 2026-06-04\nTotal GBP 143,592.66", "source_system": "synthetic_fixture"}
+{"document_id": "DOC-00007", "text": "Invoice\nSupplier: Supplier 25\nInvoice Number: INV-00007\nDate: 2026-06-20\nTotal GBP 14,733.28", "source_system": "synthetic_fixture"}
+{"document_id": "DOC-00008", "text": "Purchase Order\nSupplier: Supplier 03\nPO Number: PO-00008\nDate: 2026-09-04\nTotal GBP 109,527.34", "source_system": "synthetic_fixture"}
+{"document_id": "DOC-00009", "text": "Commercial Agreement\nSupplier: Supplier 06\nEffective Date: 2026-11-20\nContract Value GBP 82,918.08", "source_system": "synthetic_fixture"}
+{"document_id": "DOC-00010", "text": "Purchase Order\nSupplier: Supplier 13\nPO Number: PO-00010\nDate: 2026-01-22\nTotal GBP 105,759.63", "source_system": "synthetic_fixture"}
+{"document_id": "DOC-00011", "text": "Invoice\nSupplier: Supplier 19\nInvoice Number: INV-00011\nDate: 2026-04-28\nTotal GBP 147,786.92", "source_system": "synthetic_fixture"}
+{"document_id": "DOC-00012", "text": "Invoice\nSupplier: Supplier 25\nInvoice Number: INV-00012\nDate: 2026-11-27\nTotal GBP 41,876.55", "source_system": "synthetic_fixture"}
+{"document_id": "DOC-00013", "text": "Purchase Order\nSupplier: Supplier 11\nPO Number: PO-00013\nDate: 2026-04-22\nTotal GBP 55,684.60", "source_system": "synthetic_fixture"}
+{"document_id": "DOC-00014", "text": "Purchase Order\nSupplier: Supplier 05\nPO Number: PO-00014\nDate: 2026-03-18\nTotal GBP 91,467.37", "source_system": "synthetic_fixture"}
+{"document_id": "DOC-00015", "text": "Invoice\nSupplier: Supplier 11\nInvoice Number: INV-00015\nDate: 2026-05-21\nTotal GBP 69,473.47", "source_system": "synthetic_fixture"}
+{"document_id": "DOC-00016", "text": "Invoice\nSupplier: Supplier 21\nInvoice Number: INV-00016\nDate: 2026-01-08\nTotal GBP 126,467.08", "source_system": "synthetic_fixture"}
+{"document_id": "DOC-00017", "text": "Invoice\nSupplier: Supplier 21\nInvoice Number: INV-00017\nDate: 2026-02-07\nTotal GBP 60,324.43", "source_system": "synthetic_fixture"}
+{"document_id": "DOC-00018", "text": "Purchase Order\nSupplier: Supplier 14\nPO Number: PO-00018\nDate: 2026-07-21\nTotal GBP 98,401.94", "source_system": "synthetic_fixture"}
+{"document_id": "DOC-00019", "text": "Commercial Agreement\nSupplier: Supplier 10\nEffective Date: 2026-04-24\nContract Value GBP 39,915.80", "source_system": "synthetic_fixture"}
+{"document_id": "DOC-00020", "text": "Purchase Order\nSupplier: Supplier 28\nPO Number: PO-00020\nDate: 2026-07-12\nTotal GBP 134,698.98", "source_system": "synthetic_fixture"}
+{"document_id": "DOC-00021", "text": "Invoice\nSupplier: Supplier 09\nInvoice Number: INV-00021\nDate: 2026-02-25\nTotal GBP 76,551.56", "source_system": "synthetic_fixture"}
+{"document_id": "DOC-00022", "text": "Invoice\nSupplier: Supplier 08\nInvoice Number: INV-00022\nDate: 2026-03-26\nTotal GBP 23,137.99", "source_system": "synthetic_fixture"}
+{"document_id": "DOC-00023", "text": "Commercial Agreement\nSupplier: Supplier 05\nEffective Date: 2026-10-15\nContract Value GBP 57,868.90", "source_system": "synthetic_fixture"}
+{"document_id": "DOC-00024", "text": "Purchase Order\nSupplier: Supplier 01\nPO Number: PO-00024\nDate: 2026-02-22\nTotal GBP 102,122.44", "source_system": "synthetic_fixture"}
+{"document_id": "DOC-00025", "text": "Purchase Order\nSupplier: Supplier 22\nPO Number: PO-00025\nDate: 2026-07-06\nTotal GBP 16,954.94", "source_system": "synthetic_fixture"}
+{"document_id": "DOC-00026", "text": "Commercial Agreement\nSupplier: Supplier 01\nEffective Date: 2026-12-09\nContract Value GBP 143,083.94", "source_system": "synthetic_fixture"}
+{"document_id": "DOC-00027", "text": "Invoice\nSupplier: Supplier 33\nInvoice Number: INV-00027\nDate: 2026-11-10\nTotal GBP 136,916.02", "source_system": "synthetic_fixture"}
+{"document_id": "DOC-00028", "text": "Invoice\nSupplier: Supplier 10\nInvoice Number: INV-00028\nDate: 2026-03-18\nTotal GBP 56,243.60", "source_system": "synthetic_fixture"}
+{"document_id": "DOC-00029", "text": "Invoice\nSupplier: Supplier 21\nInvoice Number: INV-00029\nDate: 2026-02-12\nTotal GBP 73,418.70", "source_system": "synthetic_fixture"}
+{"document_id": "DOC-00030", "text": "Purchase Order\nSupplier: Supplier 16\nPO Number: PO-00030\nDate: 2026-10-03\nTotal GBP 8,924.29", "source_system": "synthetic_fixture"}
+{"document_id": "DOC-00031", "text": "Invoice\nSupplier: Supplier 32\nInvoice Number: INV-00031\nDate: 2026-09-25\nTotal GBP 122,449.48", "source_system": "synthetic_fixture"}
+{"document_id": "DOC-00032", "text": "Invoice\nSupplier: Supplier 09\nInvoice Number: INV-00032\nDate: 2026-09-06\nTotal GBP 99,047.69", "source_system": "synthetic_fixture"}
+{"document_id": "DOC-00033", "text": "Purchase Order\nSupplier: Supplier 34\nPO Number: PO-00033\nDate: 2026-07-07\nTotal GBP 130,896.85", "source_system": "synthetic_fixture"}
+{"document_id": "DOC-00034", "text": "Invoice\nSupplier: Supplier 20\nInvoice Number: INV-00034\nDate: 2026-11-21\nTotal GBP 59,999.10", "source_system": "synthetic_fixture"}
+{"document_id": "DOC-00035", "text": "Purchase Order\nSupplier: Supplier 29\nPO Number: PO-00035\nDate: 2026-08-04\nTotal GBP 134,967.21", "source_system": "synthetic_fixture"}
+{"document_id": "DOC-00036", "text": "Invoice\nSupplier: Supplier 15\nInvoice Number: INV-00036\nDate: 2026-01-19\nTotal GBP 9,837.88", "source_system": "synthetic_fixture"}
+{"document_id": "DOC-00037", "text": "Invoice\nSupplier: Supplier 15\nInvoice Number: INV-00037\nDate: 2026-12-21\nTotal GBP 1,326.83", "source_system": "synthetic_fixture"}
+{"document_id": "DOC-00038", "text": "Invoice\nSupplier: Supplier 15\nInvoice Number: INV-00038\nDate: 2026-01-28\nTotal GBP 10,343.20", "source_system": "synthetic_fixture"}
+{"document_id": "DOC-00039", "text": "Purchase Order\nSupplier: Supplier 05\nPO Number: PO-00039\nDate: 2026-05-22\nTotal GBP 77,244.88", "source_system": "synthetic_fixture"}
+{"document_id": "DOC-00040", "text": "Commercial Agreement\nSupplier: Supplier 14\nEffective Date: 2026-12-19\nContract Value GBP 81,000.28", "source_system": "synthetic_fixture"}
+{"document_id": "DOC-00041", "text": "Commercial Agreement\nSupplier: Supplier 16\nEffective Date: 2026-07-07\nContract Value GBP 117,746.76", "source_system": "synthetic_fixture"}
+{"document_id": "DOC-00042", "text": "Invoice\nSupplier: Supplier 07\nInvoice Number: INV-00042\nDate: 2026-06-14\nTotal GBP 98,932.67", "source_system": "synthetic_fixture"}
+{"document_id": "DOC-00043", "text": "Commercial Agreement\nSupplier: Supplier 30\nEffective Date: 2026-01-22\nContract Value GBP 129,609.55", "source_system": "synthetic_fixture"}
+{"document_id": "DOC-00044", "text": "Invoice\nSupplier: Supplier 04\nInvoice Number: INV-00044\nDate: 2026-06-26\nTotal GBP 60,542.54", "source_system": "synthetic_fixture"}
+{"document_id": "DOC-00045", "text": "Invoice\nSupplier: Supplier 16\nInvoice Number: INV-00045\nDate: 2026-09-15\nTotal GBP 28,940.61", "source_system": "synthetic_fixture"}
+{"document_id": "DOC-00046", "text": "Invoice\nSupplier: Supplier 28\nInvoice Number: INV-00046\nDate: 2026-08-08\nTotal GBP 27,727.33", "source_system": "synthetic_fixture"}
+{"document_id": "DOC-00047", "text": "Invoice\nSupplier: Supplier 29\nInvoice Number: INV-00047\nDate: 2026-09-04\nTotal GBP 121,251.33", "source_system": "synthetic_fixture"}
+{"document_id": "DOC-00048", "text": "Invoice\nSupplier: Supplier 35\nInvoice Number: INV-00048\nDate: 2026-02-25\nTotal GBP 125,445.13", "source_system": "synthetic_fixture"}
+{"document_id": "DOC-00049", "text": "Invoice\nSupplier: Supplier 11\nInvoice Number: INV-00049\nDate: 2026-08-07\nTotal GBP 61,110.51", "source_system": "synthetic_fixture"}
+{"document_id": "DOC-00050", "text": "Commercial Agreement\nSupplier: Supplier 04\nEffective Date: 2026-01-13\nContract Value GBP 24,904.41", "source_system": "synthetic_fixture"}
+{"document_id": "DOC-00051", "text": "Purchase Order\nSupplier: Supplier 30\nPO Number: PO-00051\nDate: 2026-12-24\nTotal GBP 42,966.07", "source_system": "synthetic_fixture"}
+{"document_id": "DOC-00052", "text": "Commercial Agreement\nSupplier: Supplier 10\nEffective Date: 2026-04-02\nContract Value GBP 28,687.21", "source_system": "synthetic_fixture"}
+{"document_id": "DOC-00053", "text": "Invoice\nSupplier: Supplier 21\nInvoice Number: INV-00053\nDate: 2026-10-16\nTotal GBP 8,810.50", "source_system": "synthetic_fixture"}
+{"document_id": "DOC-00054", "text": "Invoice\nSupplier: Supplier 04\nInvoice Number: INV-00054\nDate: 2026-02-28\nTotal GBP 144,126.64", "source_system": "synthetic_fixture"}
+{"document_id": "DOC-00055", "text": "Invoice\nSupplier: Supplier 05\nInvoice Number: INV-00055\nDate: 2026-11-28\nTotal GBP 89,356.51", "source_system": "synthetic_fixture"}
+{"document_id": "DOC-00056", "text": "Invoice\nSupplier: Supplier 26\nInvoice Number: INV-00056\nDate: 2026-10-08\nTotal GBP 18,203.02", "source_system": "synthetic_fixture"}
+{"document_id": "DOC-00057", "text": "Invoice\nSupplier: Supplier 06\nInvoice Number: INV-00057\nDate: 2026-10-19\nTotal GBP 63,028.93", "source_system": "synthetic_fixture"}
+{"document_id": "DOC-00058", "text": "Purchase Order\nSupplier: Supplier 17\nPO Number: PO-00058\nDate: 2026-12-11\nTotal GBP 30,837.82", "source_system": "synthetic_fixture"}
+{"document_id": "DOC-00059", "text": "Invoice\nSupplier: Supplier 17\nInvoice Number: INV-00059\nDate: 2026-11-21\nTotal GBP 59,518.93", "source_system": "synthetic_fixture"}
+{"document_id": "DOC-00060", "text": "Purchase Order\nSupplier: Supplier 30\nPO Number: PO-00060\nDate: 2026-02-01\nTotal GBP 47,597.54", "source_system": "synthetic_fixture"}
+{"document_id": "DOC-00061", "text": "Commercial Agreement\nSupplier: Supplier 07\nEffective Date: 2026-04-17\nContract Value GBP 11,220.79", "source_system": "synthetic_fixture"}
+{"document_id": "DOC-00062", "text": "Purchase Order\nSupplier: Supplier 09\nPO Number: PO-00062\nDate: 2026-02-08\nTotal GBP 140,005.59", "source_system": "synthetic_fixture"}
+{"document_id": "DOC-00063", "text": "Purchase Order\nSupplier: Supplier 19\nPO Number: PO-00063\nDate: 2026-09-23\nTotal GBP 23,872.59", "source_system": "synthetic_fixture"}
+{"document_id": "DOC-00064", "text": "Purchase Order\nSupplier: Supplier 34\nPO Number: PO-00064\nDate: 2026-09-10\nTotal GBP 1,421.51", "source_system": "synthetic_fixture"}
+{"document_id": "DOC-00065", "text": "Invoice\nSupplier: Supplier 09\nInvoice Number: INV-00065\nDate: 2026-02-24\nTotal GBP 39,853.77", "source_system": "synthetic_fixture"}
+{"document_id": "DOC-00066", "text": "Invoice\nSupplier: Supplier 18\nInvoice Number: INV-00066\nDate: 2026-04-23\nTotal GBP 42,443.00", "source_system": "synthetic_fixture"}
+{"document_id": "DOC-00067", "text": "Purchase Order\nSupplier: Supplier 14\nPO Number: PO-00067\nDate: 2026-05-17\nTotal GBP 103,202.70", "source_system": "synthetic_fixture"}
+{"document_id": "DOC-00068", "text": "Commercial Agreement\nSupplier: Supplier 17\nEffective Date: 2026-01-03\nContract Value GBP 135,824.14", "source_system": "synthetic_fixture"}
+{"document_id": "DOC-00069", "text": "Commercial Agreement\nSupplier: Supplier 18\nEffective Date: 2026-06-25\nContract Value GBP 6,851.99", "source_system": "synthetic_fixture"}
+{"document_id": "DOC-00070", "text": "Invoice\nSupplier: Supplier 17\nInvoice Number: INV-00070\nDate: 2026-08-18\nTotal GBP 24,446.90", "source_system": "synthetic_fixture"}
+{"document_id": "DOC-00071", "text": "Commercial Agreement\nSupplier: Supplier 01\nEffective Date: 2026-12-05\nContract Value GBP 17,003.11", "source_system": "synthetic_fixture"}
+{"document_id": "DOC-00072", "text": "Invoice\nSupplier: Supplier 24\nInvoice Number: INV-00072\nDate: 2026-03-14\nTotal GBP 87,480.81", "source_system": "synthetic_fixture"}
+{"document_id": "DOC-00073", "text": "Invoice\nSupplier: Supplier 03\nInvoice Number: INV-00073\nDate: 2026-01-12\nTotal GBP 46,411.69", "source_system": "synthetic_fixture"}
+{"document_id": "DOC-00074", "text": "Invoice\nSupplier: Supplier 16\nInvoice Number: INV-00074\nDate: 2026-06-25\nTotal GBP 100,123.28", "source_system": "synthetic_fixture"}
+{"document_id": "DOC-00075", "text": "Commercial Agreement\nSupplier: Supplier 10\nEffective Date: 2026-04-28\nContract Value GBP 138,883.13", "source_system": "synthetic_fixture"}
+{"document_id": "DOC-00076", "text": "Invoice\nSupplier: Supplier 12\nInvoice Number: INV-00076\nDate: 2026-01-06\nTotal GBP 132,242.08", "source_system": "synthetic_fixture"}
+{"document_id": "DOC-00077", "text": "Purchase Order\nSupplier: Supplier 27\nPO Number: PO-00077\nDate: 2026-12-26\nTotal GBP 120,384.71", "source_system": "synthetic_fixture"}
+{"document_id": "DOC-00078", "text": "Invoice\nSupplier: Supplier 18\nInvoice Number: INV-00078\nDate: 2026-12-04\nTotal GBP 24,089.88", "source_system": "synthetic_fixture"}
+{"document_id": "DOC-00079", "text": "Commercial Agreement\nSupplier: Supplier 03\nEffective Date: 2026-04-07\nContract Value GBP 128,824.34", "source_system": "synthetic_fixture"}
+{"document_id": "DOC-00080", "text": "Commercial Agreement\nSupplier: Supplier 23\nEffective Date: 2026-04-08\nContract Value GBP 45,952.33", "source_system": "synthetic_fixture"}
+{"document_id": "DOC-00081", "text": "Invoice\nSupplier: Supplier 13\nInvoice Number: INV-00081\nDate: 2026-05-28\nTotal GBP 59,920.28", "source_system": "synthetic_fixture"}
+{"document_id": "DOC-00082", "text": "Invoice\nSupplier: Supplier 18\nInvoice Number: INV-00082\nDate: 2026-09-13\nTotal GBP 52,834.13", "source_system": "synthetic_fixture"}
+{"document_id": "DOC-00083", "text": "Purchase Order\nSupplier: Supplier 02\nPO Number: PO-00083\nDate: 2026-05-06\nTotal GBP 17,522.43", "source_system": "synthetic_fixture"}
+{"document_id": "DOC-00084", "text": "Purchase Order\nSupplier: Supplier 03\nPO Number: PO-00084\nDate: 2026-07-12\nTotal GBP 16,483.28", "source_system": "synthetic_fixture"}
+{"document_id": "DOC-00085", "text": "Purchase Order\nSupplier: Supplier 28\nPO Number: PO-00085\nDate: 2026-09-04\nTotal GBP 91,029.78", "source_system": "synthetic_fixture"}
+{"document_id": "DOC-00086", "text": "Commercial Agreement\nSupplier: Supplier 13\nEffective Date: 2026-12-14\nContract Value GBP 38,394.70", "source_system": "synthetic_fixture"}
+{"document_id": "DOC-00087", "text": "Invoice\nSupplier: Supplier 34\nInvoice Number: INV-00087\nDate: 2026-09-22\nTotal GBP 138,854.88", "source_system": "synthetic_fixture"}
+{"document_id": "DOC-00088", "text": "Invoice\nSupplier: Supplier 24\nInvoice Number: INV-00088\nDate: 2026-11-11\nTotal GBP 64,836.79", "source_system": "synthetic_fixture"}
+{"document_id": "DOC-00089", "text": "Purchase Order\nSupplier: Supplier 08\nPO Number: PO-00089\nDate: 2026-05-17\nTotal GBP 108,033.20", "source_system": "synthetic_fixture"}
+{"document_id": "DOC-00090", "text": "Purchase Order\nSupplier: Supplier 27\nPO Number: PO-00090\nDate: 2026-12-10\nTotal GBP 49,095.89", "source_system": "synthetic_fixture"}
+{"document_id": "DOC-00091", "text": "Invoice\nSupplier: Supplier 13\nInvoice Number: INV-00091\nDate: 2026-07-22\nTotal GBP 63,211.84", "source_system": "synthetic_fixture"}
+{"document_id": "DOC-00092", "text": "Invoice\nSupplier: Supplier 20\nInvoice Number: INV-00092\nDate: 2026-01-10\nTotal GBP 61,059.76", "source_system": "synthetic_fixture"}
+{"document_id": "DOC-00093", "text": "Purchase Order\nSupplier: Supplier 14\nPO Number: PO-00093\nDate: 2026-10-20\nTotal GBP 64,625.75", "source_system": "synthetic_fixture"}
+{"document_id": "DOC-00094", "text": "Purchase Order\nSupplier: Supplier 30\nPO Number: PO-00094\nDate: 2026-11-07\nTotal GBP 66,407.46", "source_system": "synthetic_fixture"}
+{"document_id": "DOC-00095", "text": "Commercial Agreement\nSupplier: Supplier 11\nEffective Date: 2026-05-17\nContract Value GBP 98,912.90", "source_system": "synthetic_fixture"}
+{"document_id": "DOC-00096", "text": "Purchase Order\nSupplier: Supplier 06\nPO Number: PO-00096\nDate: 2026-04-22\nTotal GBP 122,808.91", "source_system": "synthetic_fixture"}
+{"document_id": "DOC-00097", "text": "Purchase Order\nSupplier: Supplier 15\nPO Number: PO-00097\nDate: 2026-03-01\nTotal GBP 121,032.79", "source_system": "synthetic_fixture"}
+{"document_id": "DOC-00098", "text": "Invoice\nSupplier: Supplier 16\nInvoice Number: INV-00098\nDate: 2026-10-28\nTotal GBP 147,594.42", "source_system": "synthetic_fixture"}
+{"document_id": "DOC-00099", "text": "Invoice\nSupplier: Supplier 30\nInvoice Number: INV-00099\nDate: 2026-11-19\nTotal GBP 62,312.54", "source_system": "synthetic_fixture"}
+{"document_id": "DOC-00100", "text": "Invoice\nSupplier: Supplier 25\nInvoice Number: INV-00100\nDate: 2026-04-05\nTotal GBP 74,282.98", "source_system": "synthetic_fixture"}
+{"document_id": "DOC-00101", "text": "Invoice\nSupplier: Supplier 07\nInvoice Number: INV-00101\nDate: 2026-04-06\nTotal GBP 116,818.46", "source_system": "synthetic_fixture"}
+{"document_id": "DOC-00102", "text": "Commercial Agreement\nSupplier: Supplier 04\nEffective Date: 2026-02-15\nContract Value GBP 83,721.52", "source_system": "synthetic_fixture"}
+{"document_id": "DOC-00103", "text": "Invoice\nSupplier: Supplier 30\nInvoice Number: INV-00103\nDate: 2026-09-20\nTotal GBP 100,219.77", "source_system": "synthetic_fixture"}
+{"document_id": "DOC-00104", "text": "Purchase Order\nSupplier: Supplier 29\nPO Number: PO-00104\nDate: 2026-12-17\nTotal GBP 91,994.69", "source_system": "synthetic_fixture"}
+{"document_id": "DOC-00105", "text": "Commercial Agreement\nSupplier: Supplier 29\nEffective Date: 2026-12-28\nContract Value GBP 134,606.91", "source_system": "synthetic_fixture"}
+{"document_id": "DOC-00106", "text": "Commercial Agreement\nSupplier: Supplier 29\nEffective Date: 2026-04-27\nContract Value GBP 39,063.93", "source_system": "synthetic_fixture"}
+{"document_id": "DOC-00107", "text": "Purchase Order\nSupplier: Supplier 34\nPO Number: PO-00107\nDate: 2026-04-09\nTotal GBP 72,818.40", "source_system": "synthetic_fixture"}
+{"document_id": "DOC-00108", "text": "Commercial Agreement\nSupplier: Supplier 05\nEffective Date: 2026-04-09\nContract Value GBP 107,103.34", "source_system": "synthetic_fixture"}
+{"document_id": "DOC-00109", "text": "Purchase Order\nSupplier: Supplier 21\nPO Number: PO-00109\nDate: 2026-02-05\nTotal GBP 133,980.77", "source_system": "synthetic_fixture"}
+{"document_id": "DOC-00110", "text": "Invoice\nSupplier: Supplier 15\nInvoice Number: INV-00110\nDate: 2026-03-23\nTotal GBP 57,609.54", "source_system": "synthetic_fixture"}
+{"document_id": "DOC-00111", "text": "Invoice\nSupplier: Supplier 05\nInvoice Number: INV-00111\nDate: 2026-06-18\nTotal GBP 62,376.47", "source_system": "synthetic_fixture"}
+{"document_id": "DOC-00112", "text": "Commercial Agreement\nSupplier: Supplier 27\nEffective Date: 2026-07-13\nContract Value GBP 9,574.29", "source_system": "synthetic_fixture"}
+{"document_id": "DOC-00113", "text": "Invoice\nSupplier: Supplier 25\nInvoice Number: INV-00113\nDate: 2026-06-10\nTotal GBP 71,677.71", "source_system": "synthetic_fixture"}
+{"document_id": "DOC-00114", "text": "Commercial Agreement\nSupplier: Supplier 27\nEffective Date: 2026-12-18\nContract Value GBP 80,848.53", "source_system": "synthetic_fixture"}
+{"document_id": "DOC-00115", "text": "Invoice\nSupplier: Supplier 32\nInvoice Number: INV-00115\nDate: 2026-07-16\nTotal GBP 33,108.39", "source_system": "synthetic_fixture"}
+{"document_id": "DOC-00116", "text": "Invoice\nSupplier: Supplier 25\nInvoice Number: INV-00116\nDate: 2026-11-26\nTotal GBP 50,585.40", "source_system": "synthetic_fixture"}
+{"document_id": "DOC-00117", "text": "Commercial Agreement\nSupplier: Supplier 11\nEffective Date: 2026-03-20\nContract Value GBP 126,115.72", "source_system": "synthetic_fixture"}
+{"document_id": "DOC-00118", "text": "Invoice\nSupplier: Supplier 26\nInvoice Number: INV-00118\nDate: 2026-11-01\nTotal GBP 88,885.94", "source_system": "synthetic_fixture"}
+{"document_id": "DOC-00119", "text": "Invoice\nSupplier: Supplier 28\nInvoice Number: INV-00119\nDate: 2026-08-06\nTotal GBP 20,571.00", "source_system": "synthetic_fixture"}
+{"document_id": "DOC-00120", "text": "Invoice\nSupplier: Supplier 17\nInvoice Number: INV-00120\nDate: 2026-04-15\nTotal GBP 57,020.80", "source_system": "synthetic_fixture"}
+{"document_id": "DOC-00121", "text": "Purchase Order\nSupplier: Supplier 22\nPO Number: PO-00121\nDate: 2026-07-09\nTotal GBP 114,244.15", "source_system": "synthetic_fixture"}
+{"document_id": "DOC-00122", "text": "Commercial Agreement\nSupplier: Supplier 17\nEffective Date: 2026-08-01\nContract Value GBP 125,277.91", "source_system": "synthetic_fixture"}
+{"document_id": "DOC-00123", "text": "Invoice\nSupplier: Supplier 23\nInvoice Number: INV-00123\nDate: 2026-02-25\nTotal GBP 33,827.27", "source_system": "synthetic_fixture"}
+{"document_id": "DOC-00124", "text": "Invoice\nSupplier: Supplier 02\nInvoice Number: INV-00124\nDate: 2026-04-27\nTotal GBP 142,454.36", "source_system": "synthetic_fixture"}
+{"document_id": "DOC-00125", "text": "Invoice\nSupplier: Supplier 10\nInvoice Number: INV-00125\nDate: 2026-08-22\nTotal GBP 35,972.11", "source_system": "synthetic_fixture"}
+{"document_id": "DOC-00126", "text": "Invoice\nSupplier: Supplier 14\nInvoice Number: INV-00126\nDate: 2026-05-25\nTotal GBP 69,888.84", "source_system": "synthetic_fixture"}
+{"document_id": "DOC-00127", "text": "Purchase Order\nSupplier: Supplier 11\nPO Number: PO-00127\nDate: 2026-12-23\nTotal GBP 90,982.43", "source_system": "synthetic_fixture"}
+{"document_id": "DOC-00128", "text": "Invoice\nSupplier: Supplier 11\nInvoice Number: INV-00128\nDate: 2026-02-19\nTotal GBP 144,716.94", "source_system": "synthetic_fixture"}
+{"document_id": "DOC-00129", "text": "Invoice\nSupplier: Supplier 20\nInvoice Number: INV-00129\nDate: 2026-07-13\nTotal GBP 86,475.56", "source_system": "synthetic_fixture"}
+{"document_id": "DOC-00130", "text": "Invoice\nSupplier: Supplier 05\nInvoice Number: INV-00130\nDate: 2026-11-08\nTotal GBP 88,916.65", "source_system": "synthetic_fixture"}
+{"document_id": "DOC-00131", "text": "Invoice\nSupplier: Supplier 20\nInvoice Number: INV-00131\nDate: 2026-10-26\nTotal GBP 127,581.41", "source_system": "synthetic_fixture"}
+{"document_id": "DOC-00132", "text": "Invoice\nSupplier: Supplier 03\nInvoice Number: INV-00132\nDate: 2026-07-22\nTotal GBP 52,243.76", "source_system": "synthetic_fixture"}
+{"document_id": "DOC-00133", "text": "Purchase Order\nSupplier: Supplier 05\nPO Number: PO-00133\nDate: 2026-06-01\nTotal GBP 76,017.63", "source_system": "synthetic_fixture"}
+{"document_id": "DOC-00134", "text": "Commercial Agreement\nSupplier: Supplier 32\nEffective Date: 2026-06-21\nContract Value GBP 16,054.45", "source_system": "synthetic_fixture"}
+{"document_id": "DOC-00135", "text": "Commercial Agreement\nSupplier: Supplier 10\nEffective Date: 2026-12-17\nContract Value GBP 65,464.20", "source_system": "synthetic_fixture"}
+{"document_id": "DOC-00136", "text": "Purchase Order\nSupplier: Supplier 35\nPO Number: PO-00136\nDate: 2026-08-14\nTotal GBP 116,252.56", "source_system": "synthetic_fixture"}
+{"document_id": "DOC-00137", "text": "Purchase Order\nSupplier: Supplier 21\nPO Number: PO-00137\nDate: 2026-02-09\nTotal GBP 127,794.05", "source_system": "synthetic_fixture"}
+{"document_id": "DOC-00138", "text": "Commercial Agreement\nSupplier: Supplier 16\nEffective Date: 2026-10-20\nContract Value GBP 112,633.82", "source_system": "synthetic_fixture"}
+{"document_id": "DOC-00139", "text": "Commercial Agreement\nSupplier: Supplier 22\nEffective Date: 2026-06-06\nContract Value GBP 4,547.82", "source_system": "synthetic_fixture"}
+{"document_id": "DOC-00140", "text": "Commercial Agreement\nSupplier: Supplier 14\nEffective Date: 2026-05-11\nContract Value GBP 53,385.04", "source_system": "synthetic_fixture"}
+{"document_id": "DOC-00141", "text": "Purchase Order\nSupplier: Supplier 18\nPO Number: PO-00141\nDate: 2026-09-07\nTotal GBP 83,479.71", "source_system": "synthetic_fixture"}
+{"document_id": "DOC-00142", "text": "Invoice\nSupplier: Supplier 16\nInvoice Number: INV-00142\nDate: 2026-08-18\nTotal GBP 108,081.18", "source_system": "synthetic_fixture"}
+{"document_id": "DOC-00143", "text": "Invoice\nSupplier: Supplier 31\nInvoice Number: INV-00143\nDate: 2026-08-15\nTotal GBP 96,973.96", "source_system": "synthetic_fixture"}
+{"document_id": "DOC-00144", "text": "Invoice\nSupplier: Supplier 06\nInvoice Number: INV-00144\nDate: 2026-07-23\nTotal GBP 44,311.78", "source_system": "synthetic_fixture"}
+{"document_id": "DOC-00145", "text": "Invoice\nSupplier: Supplier 20\nInvoice Number: INV-00145\nDate: 2026-06-16\nTotal GBP 99,678.01", "source_system": "synthetic_fixture"}
+{"document_id": "DOC-00146", "text": "Purchase Order\nSupplier: Supplier 28\nPO Number: PO-00146\nDate: 2026-09-11\nTotal GBP 149,495.56", "source_system": "synthetic_fixture"}
+{"document_id": "DOC-00147", "text": "Purchase Order\nSupplier: Supplier 30\nPO Number: PO-00147\nDate: 2026-05-08\nTotal GBP 40,819.73", "source_system": "synthetic_fixture"}
+{"document_id": "DOC-00148", "text": "Invoice\nSupplier: Supplier 13\nInvoice Number: INV-00148\nDate: 2026-12-18\nTotal GBP 47,503.30", "source_system": "synthetic_fixture"}
+{"document_id": "DOC-00149", "text": "Invoice\nSupplier: Supplier 13\nInvoice Number: INV-00149\nDate: 2026-08-09\nTotal GBP 32,653.60", "source_system": "synthetic_fixture"}
+{"document_id": "DOC-00150", "text": "Purchase Order\nSupplier: Supplier 07\nPO Number: PO-00150\nDate: 2026-05-08\nTotal GBP 124,936.10", "source_system": "synthetic_fixture"}
+{"document_id": "DOC-00151", "text": "Purchase Order\nSupplier: Supplier 12\nPO Number: PO-00151\nDate: 2026-12-18\nTotal GBP 45,514.57", "source_system": "synthetic_fixture"}
+{"document_id": "DOC-00152", "text": "Invoice\nSupplier: Supplier 18\nInvoice Number: INV-00152\nDate: 2026-01-18\nTotal GBP 7,065.98", "source_system": "synthetic_fixture"}
+{"document_id": "DOC-00153", "text": "Purchase Order\nSupplier: Supplier 09\nPO Number: PO-00153\nDate: 2026-08-04\nTotal GBP 95,770.98", "source_system": "synthetic_fixture"}
+{"document_id": "DOC-00154", "text": "Invoice\nSupplier: Supplier 19\nInvoice Number: INV-00154\nDate: 2026-08-11\nTotal GBP 70,542.19", "source_system": "synthetic_fixture"}
+{"document_id": "DOC-00155", "text": "Invoice\nSupplier: Supplier 04\nInvoice Number: INV-00155\nDate: 2026-08-04\nTotal GBP 38,058.64", "source_system": "synthetic_fixture"}
+{"document_id": "DOC-00156", "text": "Invoice\nSupplier: Supplier 26\nInvoice Number: INV-00156\nDate: 2026-10-21\nTotal GBP 73,889.05", "source_system": "synthetic_fixture"}
+{"document_id": "DOC-00157", "text": "Invoice\nSupplier: Supplier 10\nInvoice Number: INV-00157\nDate: 2026-10-10\nTotal GBP 22,592.34", "source_system": "synthetic_fixture"}
+{"document_id": "DOC-00158", "text": "Invoice\nSupplier: Supplier 16\nInvoice Number: INV-00158\nDate: 2026-07-20\nTotal GBP 17,988.12", "source_system": "synthetic_fixture"}
+{"document_id": "DOC-00159", "text": "Invoice\nSupplier: Supplier 34\nInvoice Number: INV-00159\nDate: 2026-08-10\nTotal GBP 57,211.61", "source_system": "synthetic_fixture"}
+{"document_id": "DOC-00160", "text": "Commercial Agreement\nSupplier: Supplier 20\nEffective Date: 2026-01-20\nContract Value GBP 85,402.26", "source_system": "synthetic_fixture"}
+{"document_id": "DOC-00161", "text": "Invoice\nSupplier: Supplier 14\nInvoice Number: INV-00161\nDate: 2026-05-22\nTotal GBP 93,920.88", "source_system": "synthetic_fixture"}
+{"document_id": "DOC-00162", "text": "Invoice\nSupplier: Supplier 11\nInvoice Number: INV-00162\nDate: 2026-09-03\nTotal GBP 36,169.81", "source_system": "synthetic_fixture"}
+{"document_id": "DOC-00163", "text": "Invoice\nSupplier: Supplier 01\nInvoice Number: INV-00163\nDate: 2026-12-20\nTotal GBP 61,425.51", "source_system": "synthetic_fixture"}
+{"document_id": "DOC-00164", "text": "Commercial Agreement\nSupplier: Supplier 19\nEffective Date: 2026-05-23\nContract Value GBP 5,137.82", "source_system": "synthetic_fixture"}
+{"document_id": "DOC-00165", "text": "Purchase Order\nSupplier: Supplier 30\nPO Number: PO-00165\nDate: 2026-04-09\nTotal GBP 10,909.17", "source_system": "synthetic_fixture"}
+{"document_id": "DOC-00166", "text": "Invoice\nSupplier: Supplier 28\nInvoice Number: INV-00166\nDate: 2026-04-21\nTotal GBP 17,437.75", "source_system": "synthetic_fixture"}
+{"document_id": "DOC-00167", "text": "Invoice\nSupplier: Supplier 18\nInvoice Number: INV-00167\nDate: 2026-02-02\nTotal GBP 124,038.02", "source_system": "synthetic_fixture"}
+{"document_id": "DOC-00168", "text": "Invoice\nSupplier: Supplier 20\nInvoice Number: INV-00168\nDate: 2026-10-10\nTotal GBP 89,357.84", "source_system": "synthetic_fixture"}
+{"document_id": "DOC-00169", "text": "Commercial Agreement\nSupplier: Supplier 08\nEffective Date: 2026-05-23\nContract Value GBP 70,437.52", "source_system": "synthetic_fixture"}
+{"document_id": "DOC-00170", "text": "Commercial Agreement\nSupplier: Supplier 18\nEffective Date: 2026-08-15\nContract Value GBP 75,195.71", "source_system": "synthetic_fixture"}
+{"document_id": "DOC-00171", "text": "Invoice\nSupplier: Supplier 03\nInvoice Number: INV-00171\nDate: 2026-12-11\nTotal GBP 133,441.08", "source_system": "synthetic_fixture"}
+{"document_id": "DOC-00172", "text": "Purchase Order\nSupplier: Supplier 02\nPO Number: PO-00172\nDate: 2026-11-27\nTotal GBP 13,926.20", "source_system": "synthetic_fixture"}
+{"document_id": "DOC-00173", "text": "Invoice\nSupplier: Supplier 18\nInvoice Number: INV-00173\nDate: 2026-03-16\nTotal GBP 86,542.99", "source_system": "synthetic_fixture"}
+{"document_id": "DOC-00174", "text": "Commercial Agreement\nSupplier: Supplier 18\nEffective Date: 2026-10-14\nContract Value GBP 27,428.00", "source_system": "synthetic_fixture"}
+{"document_id": "DOC-00175", "text": "Commercial Agreement\nSupplier: Supplier 06\nEffective Date: 2026-07-11\nContract Value GBP 70,634.06", "source_system": "synthetic_fixture"}
+{"document_id": "DOC-00176", "text": "Purchase Order\nSupplier: Supplier 07\nPO Number: PO-00176\nDate: 2026-06-14\nTotal GBP 128,695.53", "source_system": "synthetic_fixture"}
+{"document_id": "DOC-00177", "text": "Commercial Agreement\nSupplier: Supplier 19\nEffective Date: 2026-07-27\nContract Value GBP 99,471.88", "source_system": "synthetic_fixture"}
+{"document_id": "DOC-00178", "text": "Invoice\nSupplier: Supplier 30\nInvoice Number: INV-00178\nDate: 2026-05-11\nTotal GBP 13,436.95", "source_system": "synthetic_fixture"}
+{"document_id": "DOC-00179", "text": "Invoice\nSupplier: Supplier 26\nInvoice Number: INV-00179\nDate: 2026-01-22\nTotal GBP 129,770.36", "source_system": "synthetic_fixture"}
+{"document_id": "DOC-00180", "text": "Commercial Agreement\nSupplier: Supplier 27\nEffective Date: 2026-09-12\nContract Value GBP 8,367.06", "source_system": "synthetic_fixture"}
+{"document_id": "DOC-00181", "text": "Commercial Agreement\nSupplier: Supplier 29\nEffective Date: 2026-04-09\nContract Value GBP 114,058.58", "source_system": "synthetic_fixture"}
+{"document_id": "DOC-00182", "text": "Invoice\nSupplier: Supplier 19\nInvoice Number: INV-00182\nDate: 2026-12-16\nTotal GBP 65,857.89", "source_system": "synthetic_fixture"}
+{"document_id": "DOC-00183", "text": "Invoice\nSupplier: Supplier 02\nInvoice Number: INV-00183\nDate: 2026-10-26\nTotal GBP 145,978.74", "source_system": "synthetic_fixture"}
+{"document_id": "DOC-00184", "text": "Invoice\nSupplier: Supplier 11\nInvoice Number: INV-00184\nDate: 2026-01-18\nTotal GBP 46,784.83", "source_system": "synthetic_fixture"}
+{"document_id": "DOC-00185", "text": "Commercial Agreement\nSupplier: Supplier 06\nEffective Date: 2026-02-15\nContract Value GBP 33,898.92", "source_system": "synthetic_fixture"}
+{"document_id": "DOC-00186", "text": "Invoice\nSupplier: Supplier 10\nInvoice Number: INV-00186\nDate: 2026-12-10\nTotal GBP 74,881.73", "source_system": "synthetic_fixture"}
+{"document_id": "DOC-00187", "text": "Purchase Order\nSupplier: Supplier 27\nPO Number: PO-00187\nDate: 2026-08-08\nTotal GBP 125,249.91", "source_system": "synthetic_fixture"}
+{"document_id": "DOC-00188", "text": "Commercial Agreement\nSupplier: Supplier 10\nEffective Date: 2026-10-17\nContract Value GBP 57,692.01", "source_system": "synthetic_fixture"}
+{"document_id": "DOC-00189", "text": "Invoice\nSupplier: Supplier 05\nInvoice Number: INV-00189\nDate: 2026-07-11\nTotal GBP 41,618.05", "source_system": "synthetic_fixture"}
+{"document_id": "DOC-00190", "text": "Purchase Order\nSupplier: Supplier 01\nPO Number: PO-00190\nDate: 2026-05-27\nTotal GBP 42,605.14", "source_system": "synthetic_fixture"}
+{"document_id": "DOC-00191", "text": "Commercial Agreement\nSupplier: Supplier 10\nEffective Date: 2026-08-12\nContract Value GBP 67,120.47", "source_system": "synthetic_fixture"}
+{"document_id": "DOC-00192", "text": "Purchase Order\nSupplier: Supplier 35\nPO Number: PO-00192\nDate: 2026-06-28\nTotal GBP 56,737.21", "source_system": "synthetic_fixture"}
+{"document_id": "DOC-00193", "text": "Invoice\nSupplier: Supplier 16\nInvoice Number: INV-00193\nDate: 2026-04-28\nTotal GBP 85,876.70", "source_system": "synthetic_fixture"}
+{"document_id": "DOC-00194", "text": "Commercial Agreement\nSupplier: Supplier 03\nEffective Date: 2026-08-23\nContract Value GBP 47,896.91", "source_system": "synthetic_fixture"}
+{"document_id": "DOC-00195", "text": "Commercial Agreement\nSupplier: Supplier 25\nEffective Date: 2026-11-05\nContract Value GBP 148,265.00", "source_system": "synthetic_fixture"}
+{"document_id": "DOC-00196", "text": "Commercial Agreement\nSupplier: Supplier 03\nEffective Date: 2026-10-11\nContract Value GBP 19,155.38", "source_system": "synthetic_fixture"}
+{"document_id": "DOC-00197", "text": "Invoice\nSupplier: Supplier 29\nInvoice Number: INV-00197\nDate: 2026-08-01\nTotal GBP 15,181.83", "source_system": "synthetic_fixture"}
+{"document_id": "DOC-00198", "text": "Invoice\nSupplier: Supplier 27\nInvoice Number: INV-00198\nDate: 2026-03-03\nTotal GBP 130,672.21", "source_system": "synthetic_fixture"}
+{"document_id": "DOC-00199", "text": "Commercial Agreement\nSupplier: Supplier 17\nEffective Date: 2026-12-13\nContract Value GBP 50,949.54", "source_system": "synthetic_fixture"}
+{"document_id": "DOC-00200", "text": "Invoice\nSupplier: Supplier 22\nInvoice Number: INV-00200\nDate: 2026-09-13\nTotal GBP 127,888.12", "source_system": "synthetic_fixture"}
+{"document_id": "DOC-00201", "text": "Purchase Order\nSupplier: Supplier 32\nPO Number: PO-00201\nDate: 2026-01-20\nTotal GBP 130,889.36", "source_system": "synthetic_fixture"}
+{"document_id": "DOC-00202", "text": "Invoice\nSupplier: Supplier 16\nInvoice Number: INV-00202\nDate: 2026-05-08\nTotal GBP 94,766.36", "source_system": "synthetic_fixture"}
+{"document_id": "DOC-00203", "text": "Invoice\nSupplier: Supplier 28\nInvoice Number: INV-00203\nDate: 2026-11-23\nTotal GBP 146,756.07", "source_system": "synthetic_fixture"}
+{"document_id": "DOC-00204", "text": "Invoice\nSupplier: Supplier 29\nInvoice Number: INV-00204\nDate: 2026-05-01\nTotal GBP 25,163.13", "source_system": "synthetic_fixture"}
+{"document_id": "DOC-00205", "text": "Invoice\nSupplier: Supplier 21\nInvoice Number: INV-00205\nDate: 2026-05-12\nTotal GBP 119,472.48", "source_system": "synthetic_fixture"}
+{"document_id": "DOC-00206", "text": "Purchase Order\nSupplier: Supplier 28\nPO Number: PO-00206\nDate: 2026-09-14\nTotal GBP 22,049.08", "source_system": "synthetic_fixture"}
+{"document_id": "DOC-00207", "text": "Invoice\nSupplier: Supplier 11\nInvoice Number: INV-00207\nDate: 2026-10-28\nTotal GBP 26,466.64", "source_system": "synthetic_fixture"}
+{"document_id": "DOC-00208", "text": "Commercial Agreement\nSupplier: Supplier 16\nEffective Date: 2026-10-05\nContract Value GBP 74,775.67", "source_system": "synthetic_fixture"}
+{"document_id": "DOC-00209", "text": "Invoice\nSupplier: Supplier 30\nInvoice Number: INV-00209\nDate: 2026-08-09\nTotal GBP 95,776.22", "source_system": "synthetic_fixture"}
+{"document_id": "DOC-00210", "text": "Invoice\nSupplier: Supplier 30\nInvoice Number: INV-00210\nDate: 2026-11-18\nTotal GBP 135,206.11", "source_system": "synthetic_fixture"}
+{"document_id": "DOC-00211", "text": "Invoice\nSupplier: Supplier 05\nInvoice Number: INV-00211\nDate: 2026-06-19\nTotal GBP 66,399.04", "source_system": "synthetic_fixture"}
+{"document_id": "DOC-00212", "text": "Purchase Order\nSupplier: Supplier 28\nPO Number: PO-00212\nDate: 2026-08-28\nTotal GBP 103,624.45", "source_system": "synthetic_fixture"}
+{"document_id": "DOC-00213", "text": "Purchase Order\nSupplier: Supplier 13\nPO Number: PO-00213\nDate: 2026-08-04\nTotal GBP 149,906.19", "source_system": "synthetic_fixture"}
+{"document_id": "DOC-00214", "text": "Invoice\nSupplier: Supplier 25\nInvoice Number: INV-00214\nDate: 2026-10-10\nTotal GBP 85,895.42", "source_system": "synthetic_fixture"}
+{"document_id": "DOC-00215", "text": "Purchase Order\nSupplier: Supplier 02\nPO Number: PO-00215\nDate: 2026-11-13\nTotal GBP 146,697.19", "source_system": "synthetic_fixture"}
+{"document_id": "DOC-00216", "text": "Purchase Order\nSupplier: Supplier 01\nPO Number: PO-00216\nDate: 2026-11-25\nTotal GBP 84,997.87", "source_system": "synthetic_fixture"}
+{"document_id": "DOC-00217", "text": "Invoice\nSupplier: Supplier 32\nInvoice Number: INV-00217\nDate: 2026-05-25\nTotal GBP 124,967.63", "source_system": "synthetic_fixture"}
+{"document_id": "DOC-00218", "text": "Invoice\nSupplier: Supplier 23\nInvoice Number: INV-00218\nDate: 2026-04-20\nTotal GBP 33,045.93", "source_system": "synthetic_fixture"}
+{"document_id": "DOC-00219", "text": "Purchase Order\nSupplier: Supplier 09\nPO Number: PO-00219\nDate: 2026-11-21\nTotal GBP 94,330.15", "source_system": "synthetic_fixture"}
+{"document_id": "DOC-00220", "text": "Invoice\nSupplier: Supplier 20\nInvoice Number: INV-00220\nDate: 2026-01-19\nTotal GBP 118,344.42", "source_system": "synthetic_fixture"}
+{"document_id": "DOC-00221", "text": "Purchase Order\nSupplier: Supplier 09\nPO Number: PO-00221\nDate: 2026-05-11\nTotal GBP 13,747.47", "source_system": "synthetic_fixture"}
+{"document_id": "DOC-00222", "text": "Commercial Agreement\nSupplier: Supplier 12\nEffective Date: 2026-09-12\nContract Value GBP 30,319.02", "source_system": "synthetic_fixture"}
+{"document_id": "DOC-00223", "text": "Purchase Order\nSupplier: Supplier 11\nPO Number: PO-00223\nDate: 2026-08-26\nTotal GBP 38,731.27", "source_system": "synthetic_fixture"}
+{"document_id": "DOC-00224", "text": "Purchase Order\nSupplier: Supplier 22\nPO Number: PO-00224\nDate: 2026-08-03\nTotal GBP 120,683.82", "source_system": "synthetic_fixture"}
+{"document_id": "DOC-00225", "text": "Invoice\nSupplier: Supplier 15\nInvoice Number: INV-00225\nDate: 2026-12-22\nTotal GBP 129,056.05", "source_system": "synthetic_fixture"}
+{"document_id": "DOC-00226", "text": "Commercial Agreement\nSupplier: Supplier 24\nEffective Date: 2026-07-01\nContract Value GBP 13,772.86", "source_system": "synthetic_fixture"}
+{"document_id": "DOC-00227", "text": "Purchase Order\nSupplier: Supplier 35\nPO Number: PO-00227\nDate: 2026-06-22\nTotal GBP 18,757.41", "source_system": "synthetic_fixture"}
+{"document_id": "DOC-00228", "text": "Purchase Order\nSupplier: Supplier 25\nPO Number: PO-00228\nDate: 2026-06-04\nTotal GBP 123,406.99", "source_system": "synthetic_fixture"}
+{"document_id": "DOC-00229", "text": "Invoice\nSupplier: Supplier 31\nInvoice Number: INV-00229\nDate: 2026-09-11\nTotal GBP 3,997.44", "source_system": "synthetic_fixture"}
+{"document_id": "DOC-00230", "text": "Invoice\nSupplier: Supplier 05\nInvoice Number: INV-00230\nDate: 2026-08-23\nTotal GBP 95,401.74", "source_system": "synthetic_fixture"}
+{"document_id": "DOC-00231", "text": "Purchase Order\nSupplier: Supplier 27\nPO Number: PO-00231\nDate: 2026-01-02\nTotal GBP 17,722.22", "source_system": "synthetic_fixture"}
+{"document_id": "DOC-00232", "text": "Purchase Order\nSupplier: Supplier 32\nPO Number: PO-00232\nDate: 2026-04-18\nTotal GBP 17,639.04", "source_system": "synthetic_fixture"}
+{"document_id": "DOC-00233", "text": "Invoice\nSupplier: Supplier 25\nInvoice Number: INV-00233\nDate: 2026-11-24\nTotal GBP 68,183.15", "source_system": "synthetic_fixture"}
+{"document_id": "DOC-00234", "text": "Commercial Agreement\nSupplier: Supplier 10\nEffective Date: 2026-11-04\nContract Value GBP 132,840.71", "source_system": "synthetic_fixture"}
+{"document_id": "DOC-00235", "text": "Commercial Agreement\nSupplier: Supplier 27\nEffective Date: 2026-05-02\nContract Value GBP 140,873.20", "source_system": "synthetic_fixture"}
+{"document_id": "DOC-00236", "text": "Purchase Order\nSupplier: Supplier 14\nPO Number: PO-00236\nDate: 2026-04-28\nTotal GBP 66,646.62", "source_system": "synthetic_fixture"}
+{"document_id": "DOC-00237", "text": "Purchase Order\nSupplier: Supplier 07\nPO Number: PO-00237\nDate: 2026-06-18\nTotal GBP 147,143.93", "source_system": "synthetic_fixture"}
+{"document_id": "DOC-00238", "text": "Purchase Order\nSupplier: Supplier 04\nPO Number: PO-00238\nDate: 2026-04-04\nTotal GBP 59,871.41", "source_system": "synthetic_fixture"}
+{"document_id": "DOC-00239", "text": "Commercial Agreement\nSupplier: Supplier 06\nEffective Date: 2026-11-21\nContract Value GBP 99,499.62", "source_system": "synthetic_fixture"}
+{"document_id": "BAD-001", "text": "Unrecognised note with no structured fields", "source_system": "synthetic_fixture"}
+{"document_id": "BAD-002", "text": "Invoice\nInvoice Number: INV-BAD\nDate: 2026-02-01\nTotal GBP 1000.00", "source_system": "synthetic_fixture"}
